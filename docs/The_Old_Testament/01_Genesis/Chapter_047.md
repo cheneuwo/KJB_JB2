@@ -1,0 +1,2 @@
+(GENESIS_47)=
+# CHAPTER 47

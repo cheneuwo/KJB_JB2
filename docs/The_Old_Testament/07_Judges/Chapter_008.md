@@ -1,0 +1,4 @@
+(JUDGES_8)=
+# CHAPTER 8
+
+1. 

@@ -1,0 +1,30 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 46c5bdc1-a7e8-4e78-892c-b2cfa9dcd588
+  title: King James Bible
+  # description:
+  keywords: 
+    - Bible
+  authors:
+    - name: "Elvis C. S. Chen"
+  github: https://github.com/cheneuwo/KJB_JB2
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  copyright: "2026"
+  date: 2026-08-28
+  toc:
+    - file: intro.md
+    - title: Preface
+      children:
+        - file: docs/Preface.md
+        - file: docs/Howto.md
+        - file: docs/Alphabetical.md
+        - file: docs/Introduction.md
+    - title: The Old Testament
+site:
+  template: book-theme
+  options:
+    favicon: imgs/cross_olive_wood_small.png
+    logo: imgs/cross_olive_wood.png
+ #  parts:
+ #    primary_sidebar_footer: primary-sidebar-footer.md

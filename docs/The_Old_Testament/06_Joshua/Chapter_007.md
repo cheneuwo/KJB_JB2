@@ -1,0 +1,4 @@
+(JOSHUA_7)=
+# CHAPTER 7
+
+1. 

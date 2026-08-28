@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="16iUFC593HPGBGo3fzpu95FPekXHWIhAF">
+	<name>Genesis_geography</name>
+	<gx:CascadingStyle kml:id="__managed_style_2C44780DE33A16818781">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff58eeff</color>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_145D8C90293A16818781">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff58eeff</color>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09C54BF4C43A16818781">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_145D8C90293A16818781</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2C44780DE33A16818781</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2F7385193D3A16801D70">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff58eeff</color>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B83DDA2173A16801D70">
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff58eeff</color>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_018A838ED43A16801D70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B83DDA2173A16801D70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F7385193D3A16801D70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="077204613E3A11A59CE0">
+		<name>Mesopotamia</name>
+		<LookAt>
+			<longitude>38.52634649628479</longitude>
+			<latitude>33.89248652456299</latitude>
+			<altitude>1017.025482185508</altitude>
+			<heading>20.51551176490259</heading>
+			<tilt>43.56645676306356</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2512688.943079412</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>45.39785717332188,32.01726931053719,-49.88671610342412</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0760B284E53A11BB8A56">
+		<name>Euphrates River</name>
+		<LookAt>
+			<longitude>40.03235667176687</longitude>
+			<latitude>35.5003398617469</latitude>
+			<altitude>-15.96220314347437</altitude>
+			<heading>18.92823803768256</heading>
+			<tilt>33.5199021108379</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>400379.3300516903</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>39.98177356209731,35.49092771695659,106.1483941864804</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C27657AF53A11BC3127">
+		<name>Hiddekel (Tigris) River</name>
+		<LookAt>
+			<longitude>43.66250210691421</longitude>
+			<latitude>36.13401850887873</latitude>
+			<altitude>136.4694848770797</altitude>
+			<heading>20.89240411754959</heading>
+			<tilt>33.88375438331047</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>477484.9982001632</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>43.25291569495862,35.63261431235894,115.0972624289657</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0946F8E7553A11BDA2C1">
+		<name>(Arabian Dessert)</name>
+		<LookAt>
+			<longitude>39.24526227298092</longitude>
+			<latitude>29.53646183299067</latitude>
+			<altitude>843.5471199620623</altitude>
+			<heading>16.89895928945091</heading>
+			<tilt>37.34907890856523</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246572.386240512</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>39.4378758008779,28.91745738331539,1206.350504661228</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0107E87D513A11BE1CB0">
+		<name>Ararat Mountains</name>
+		<LookAt>
+			<longitude>44.29613340846382</longitude>
+			<latitude>36.56387381904027</latitude>
+			<altitude>768.8089923773407</altitude>
+			<heading>19.1077698505846</heading>
+			<tilt>37.34959225541799</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246666.467268467</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>44.51016031423965,38.08638397453934,2483.525259043658</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0427BAEC473A11BE8F0E">
+		<name>(Gulf of Aqaba)</name>
+		<LookAt>
+			<longitude>36.83623403772643</longitude>
+			<latitude>29.77559189682833</latitude>
+			<altitude>1099.499403385174</altitude>
+			<heading>14.59011318403519</heading>
+			<tilt>37.34732216096565</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246250.460139811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>34.95321248199748,29.5298559112617,495.821065676689</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0599F9E9833A11BEE87F">
+		<name>(Sinai Peninsula)</name>
+		<LookAt>
+			<longitude>36.83623403772643</longitude>
+			<latitude>29.77559189682833</latitude>
+			<altitude>1099.499403385174</altitude>
+			<heading>14.59011318403519</heading>
+			<tilt>37.34732216096565</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246250.460139811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>33.93566972957587,29.01299684950529,1171.388468009619</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E37A2DED53A11BF6C94">
+		<name>(Gulf of Suez)</name>
+		<LookAt>
+			<longitude>36.83623403772643</longitude>
+			<latitude>29.77559189682833</latitude>
+			<altitude>1099.499403385174</altitude>
+			<heading>14.59011318403519</heading>
+			<tilt>37.34732216096565</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246250.460139811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>32.56761164861422,29.71487972577428,50.98238118291081</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DCE943D083A11BFCEC7">
+		<name>(Nile River)</name>
+		<LookAt>
+			<longitude>36.83623403772643</longitude>
+			<latitude>29.77559189682833</latitude>
+			<altitude>1099.499403385174</altitude>
+			<heading>14.59011318403519</heading>
+			<tilt>37.34732216096565</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246250.460139811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>31.26328635109035,29.82069764544525,283.0410724353175</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B786C3A913A11BFFBE0">
+		<name>Egypt</name>
+		<LookAt>
+			<longitude>36.83623403772643</longitude>
+			<latitude>29.77559189682833</latitude>
+			<altitude>1099.499403385174</altitude>
+			<heading>14.59011318403519</heading>
+			<tilt>37.34732216096565</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246250.460139811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C54BF4C43A16818781</styleUrl>
+		<Point>
+			<coordinates>32.05668620518541,28.99027187589819,409.0375060105997</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ADEFF72783A11C02A28">
+		<name>(Red Sea)</name>
+		<LookAt>
+			<longitude>36.83623403772643</longitude>
+			<latitude>29.77559189682833</latitude>
+			<altitude>1099.499403385174</altitude>
+			<heading>14.59011318403519</heading>
+			<tilt>37.34732216096565</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246250.460139811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C54BF4C43A16818781</styleUrl>
+		<Point>
+			<coordinates>34.39747493807395,27.48188461754804,147.1394475685435</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="093B9547543A11C05598">
+		<name>(Mediterranean Sea)</name>
+		<LookAt>
+			<longitude>36.83623403772643</longitude>
+			<latitude>29.77559189682833</latitude>
+			<altitude>1099.499403385174</altitude>
+			<heading>14.59011318403519</heading>
+			<tilt>37.34732216096565</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1246250.460139811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>33.89636817730762,32.9664814954152,-148.4116954935277</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B47952E33A11C16A20">
+		<name>(Caspian Sea)</name>
+		<LookAt>
+			<longitude>49.87798854931506</longitude>
+			<latitude>37.61790043003104</latitude>
+			<altitude>-226.5891762653935</altitude>
+			<heading>19.78345812034308</heading>
+			<tilt>58.04283868844247</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1510734.064873606</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>49.63610062929012,38.31346955443294,20.2692327796883</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="067FB782B73A11C1A29C">
+		<name>(Black Sea)</name>
+		<LookAt>
+			<longitude>38.15743971406027</longitude>
+			<latitude>40.67584809872321</latitude>
+			<altitude>1600.360464321153</altitude>
+			<heading>12.28271467865314</heading>
+			<tilt>58.0165176438605</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1507283.636053205</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>37.44012377173278,41.5487756999445,-343.5661961905435</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00E6ED24C23A168B5D87">
+		<name>(Persian Gulf)</name>
+		<LookAt>
+			<longitude>39.1944574723209</longitude>
+			<latitude>33.36836240943097</latitude>
+			<altitude>126.080104981998</altitude>
+			<heading>14.11374283820552</heading>
+			<tilt>31.24159935443285</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3183932.299385369</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_018A838ED43A16801D70</styleUrl>
+		<Point>
+			<coordinates>49.03917151510272,28.84807352823942,165.9774755033495</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

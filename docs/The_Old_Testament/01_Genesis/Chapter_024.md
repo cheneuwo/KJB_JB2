@@ -1,0 +1,2 @@
+(GENESIS_24)=
+# CHAPTER 24

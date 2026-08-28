@@ -1,0 +1,2 @@
+(GENESIS_25)=
+# CHAPTER 25

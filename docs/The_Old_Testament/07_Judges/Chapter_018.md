@@ -1,0 +1,4 @@
+(JUDGES_18)=
+# CHAPTER 18
+
+1. 

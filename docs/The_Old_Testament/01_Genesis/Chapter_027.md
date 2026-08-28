@@ -1,0 +1,2 @@
+(GENESIS_27)=
+# CHAPTER 27

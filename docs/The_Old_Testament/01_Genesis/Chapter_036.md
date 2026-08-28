@@ -1,0 +1,9 @@
+(GENESIS_36)=
+# CHAPTER 36
+
+1.
+(GENESIS_36_2)=
+2.
+1.
+(GENESIS_36_4)=
+4.
