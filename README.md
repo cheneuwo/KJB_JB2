@@ -6,7 +6,7 @@ King James Version
 
 1611
 
-https://cheneuwo.github.io/Bible-in-Markdown/intro.html
+https://cheneuwo.github.io/KJB_JB2/
 
 ## Timeline
 - Prject initiated: August 23, 2025
