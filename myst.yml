@@ -20,7 +20,317 @@ project:
         - file: docs/Howto.md
         - file: docs/Alphabetical.md
         - file: docs/Introduction.md
+          children:
+            - file: docs/Intro/Genesis.md
+            - file: docs/Intro/Exodus.md
+            - file: docs/Intro/Leviticus.md
+            - file: docs/Intro/Acts.md
     - title: The Old Testament
+      children:
+        - file: docs/The_Old_Testament/01_Genesis/Genesis.md
+          children:
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_001.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_002.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_003.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_004.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_005.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_006.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_007.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_008.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_009.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_010.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_011.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_012.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_013.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_014.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_015.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_016.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_017.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_018.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_019.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_020.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_021.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_022.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_023.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_024.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_025.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_026.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_027.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_028.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_029.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_030.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_031.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_032.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_033.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_034.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_035.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_036.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_037.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_038.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_039.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_040.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_041.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_042.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_043.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_044.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_045.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_046.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_047.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_048.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_049.md
+            - file: docs/The_Old_Testament/01_Genesis/Chapter_050.md
+        - file: docs/The_Old_Testament/02_Exodus/Exodus.md
+          children:
+            - file: docs/The_Old_Testament/02_Exodus/Chapter_001.md
+        - file: docs/The_Old_Testament/03_Leviticus/Leviticus.md
+          children:
+            - file: docs/The_Old_Testament/03_Leviticus/Chapter_001.md
+        - file: docs/The_Old_Testament/06_Joshua/Joshua.md
+          children:
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_001.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_002.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_003.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_004.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_005.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_006.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_007.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_008.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_009.md
+        - file: docs/The_Old_Testament/07_Judges/Judges.md
+          children:
+            - file: docs/The_Old_Testament/07_Judges/Chapter_001.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_002.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_003.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_004.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_005.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_006.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_007.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_008.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_009.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_010.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_011.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_012.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_013.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_014.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_015.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_016.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_017.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_018.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_019.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_020.md
+            - file: docs/The_Old_Testament/07_Judges/Chapter_021.md
+        - file: docs/The_Old_Testament/13_Chronicles_1/Chronicles_1.md
+          children:
+            - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_001.md
+        - file: docs/The_Old_Testament/27_Psalms/Psalms.md
+          children:
+            - file: docs/The_Old_Testament/27_Psalms/Chapter_090.md
+        - file: docs/The_Old_Testament/34_Isaiah/Isaiah.md
+          children:
+            - file: docs/The_Old_Testament/34_Isaiah/Chapter_054.md
+        - file: docs/The_Old_Testament/39_Ezekiel/Ezekiel.md
+          children:
+            - file: docs/The_Old_Testament/39_Ezekiel/Chapter_014.md
+    - title: The New Testament
+      children:
+        - file: docs/The_New_Testament/01_Matthew/Matthew.md
+          children:
+            - file: docs/The_New_Testament/01_Matthew/Chapter_024.md
+        - file: docs/The_New_Testament/02_Mark/Mark.md
+        - file: docs/The_New_Testament/03_Luke/Luke.md
+          children:
+            - file: docs/The_New_Testament/03_Luke/Chapter_003.md
+            - file: docs/The_New_Testament/03_Luke/Chapter_005.md
+        - file: docs/The_New_Testament/04_John/John.md
+        - file: docs/The_New_Testament/05_Acts/Acts.md
+          children:
+            - file: docs/The_New_Testament/05_Acts/Chapter_009.md
+        - file: docs/The_New_Testament/06_Romans/Romans.md
+        - file: docs/The_New_Testament/07_Corinthians_1/Corinthians_1.md
+          children:
+            - file: docs/The_New_Testament/07_Corinthians_1/Chapter_015.md
+        - file: docs/The_New_Testament/08_Corinthians_2/Corinthians_2.md
+        - file: docs/The_New_Testament/09_Galatians/Galatians.md
+        - file: docs/The_New_Testament/10_Ephesians/Ephesians.md
+        - file: docs/The_New_Testament/11_Philippians/Philippians.md
+        - file: docs/The_New_Testament/12_Colossians/Colossians.md
+        - file: docs/The_New_Testament/13_Thessalonians_1/Thessalonians_1.md
+        - file: docs/The_New_Testament/14_Thessalonians_2/Thessalonians_2.md
+        - file: docs/The_New_Testament/15_Timothy_1/Timothy_1.md
+        - file: docs/The_New_Testament/16_Timothy_2/Timothy_2.md
+        - file: docs/The_New_Testament/17_Titus/Titus.md
+        - file: docs/The_New_Testament/18_Philemon/Philemon.md
+        - file: docs/The_New_Testament/19_Hebrews/Hebrews.md
+          children:
+            - file: docs/The_New_Testament/19_Hebrews/Chapter_011.md
+        - file: docs/The_New_Testament/20_James/James.md
+        - file: docs/The_New_Testament/21_Peter_1/Peter_1.md
+          children:
+          - file: docs/The_New_Testament/21_Peter_1/Chapter_003.md
+        - file: docs/The_New_Testament/22_Peter_2/Peter_2.md
+        - file: docs/The_New_Testament/23_John_1/John_1.md
+          children:
+            - file: docs/The_New_Testament/23_John_1/Chapter_003.md
+        - file: docs/The_New_Testament/24_John_2/John_2.md
+        - file: docs/The_New_Testament/25_John_3/John_3.md
+        - file: docs/The_New_Testament/26_Jude/Jude.md
+        - file: docs/The_New_Testament/27_Revelation/Revelation.md
+    - title: Who's Who in the Bible
+      children:
+        - file: docs/Who_is_Who_in_Bible/A/A.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/A/Abel.md
+            - file: docs/Who_is_Who_in_Bible/A/Abimael.md
+            - file: docs/Who_is_Who_in_Bible/A/Abraham.md
+            - file: docs/Who_is_Who_in_Bible/A/Adah.md
+            - file: docs/Who_is_Who_in_Bible/A/Adam.md
+            - file: docs/Who_is_Who_in_Bible/A/Adoni-Zedek.md
+            - file: docs/Who_is_Who_in_Bible/A/Aeneas.md
+            - file: docs/Who_is_Who_in_Bible/A/Agabus.md
+            - file: docs/Who_is_Who_in_Bible/A/Almodad.md
+            - file: docs/Who_is_Who_in_Bible/A/Anamin.md
+            - file: docs/Who_is_Who_in_Bible/A/Aram.md
+            - file: docs/Who_is_Who_in_Bible/A/Arphaxad.md
+            - file: docs/Who_is_Who_in_Bible/A/Ashkenaz.md
+            - file: docs/Who_is_Who_in_Bible/A/Asshur.md
+        - file: docs/Who_is_Who_in_Bible/B/B.md
+        - file: docs/Who_is_Who_in_Bible/C/C.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/C/Cain.md
+            - file: docs/Who_is_Who_in_Bible/C/Cainan.md
+            - file: docs/Who_is_Who_in_Bible/C/Canaan.md
+            - file: docs/Who_is_Who_in_Bible/C/Caphtorim.md
+            - file: docs/Who_is_Who_in_Bible/C/Casluhim.md
+            - file: docs/Who_is_Who_in_Bible/C/Claudius.md
+            - file: docs/Who_is_Who_in_Bible/C/Cush.md
+        - file: docs/Who_is_Who_in_Bible/D/D.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/D/Daniel.md
+            - file: docs/Who_is_Who_in_Bible/D/Dedan.md
+            - file: docs/Who_is_Who_in_Bible/D/Diklah.md
+            - file: docs/Who_is_Who_in_Bible/D/Dodanim.md
+        - file: docs/Who_is_Who_in_Bible/E/E.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/E/Eber.md
+            - file: docs/Who_is_Who_in_Bible/E/Elam.md
+            - file: docs/Who_is_Who_in_Bible/E/Eliphaz.md
+            - file: docs/Who_is_Who_in_Bible/E/Elishah.md
+            - file: docs/Who_is_Who_in_Bible/E/Enoch.md
+            - file: docs/Who_is_Who_in_Bible/E/Enoch2.md
+            - file: docs/Who_is_Who_in_Bible/E/Enos.md
+            - file: docs/Who_is_Who_in_Bible/E/Esau.md
+            - file: docs/Who_is_Who_in_Bible/E/Eve.md
+        - file: docs/Who_is_Who_in_Bible/F/F.md
+        - file: docs/Who_is_Who_in_Bible/G/G.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/G/Gether.md
+            - file: docs/Who_is_Who_in_Bible/G/Gomer.md
+        - file: docs/Who_is_Who_in_Bible/H/H.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/H/Hadoram.md
+            - file: docs/Who_is_Who_in_Bible/H/Ham.md
+            - file: docs/Who_is_Who_in_Bible/H/Havilah.md
+            - file: docs/Who_is_Who_in_Bible/H/Havilah2.md
+            - file: docs/Who_is_Who_in_Bible/H/Hazarmaveth.md
+            - file: docs/Who_is_Who_in_Bible/H/Heth.md
+            - file: docs/Who_is_Who_in_Bible/H/Hul.md
+        - file: docs/Who_is_Who_in_Bible/I/I.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/I/Irad.md
+            - file: docs/Who_is_Who_in_Bible/I/Isaac.md
+            - file: docs/Who_is_Who_in_Bible/I/Isaiah.md
+        - file: docs/Who_is_Who_in_Bible/J/J.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/J/Jabal.md
+            - file: docs/Who_is_Who_in_Bible/J/Jacob.md
+            - file: docs/Who_is_Who_in_Bible/J/Japheth.md
+            - file: docs/Who_is_Who_in_Bible/J/Jared.md
+            - file: docs/Who_is_Who_in_Bible/J/Javan.md
+            - file: docs/Who_is_Who_in_Bible/J/Jerah.md
+            - file: docs/Who_is_Who_in_Bible/J/Jesus.md
+            - file: docs/Who_is_Who_in_Bible/J/Job.md
+            - file: docs/Who_is_Who_in_Bible/J/Jobab.md
+            - file: docs/Who_is_Who_in_Bible/J/Joktan.md
+            - file: docs/Who_is_Who_in_Bible/J/Joseph.md
+            - file: docs/Who_is_Who_in_Bible/J/Joshua.md
+            - file: docs/Who_is_Who_in_Bible/J/Jubal.md
+            - file: docs/Who_is_Who_in_Bible/J/Jude.md
+        - file: docs/Who_is_Who_in_Bible/K/K.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/K/Kittim.md
+        - file: docs/Who_is_Who_in_Bible/L/L.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/L/Lamech.md
+            - file: docs/Who_is_Who_in_Bible/L/Lamech2.md
+            - file: docs/Who_is_Who_in_Bible/L/Lehabim.md
+            - file: docs/Who_is_Who_in_Bible/L/Lud.md
+            - file: docs/Who_is_Who_in_Bible/L/Ludim.md
+            - file: docs/Who_is_Who_in_Bible/L/Luke.md
+        - file: docs/Who_is_Who_in_Bible/M/M.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/M/Madai.md
+            - file: docs/Who_is_Who_in_Bible/M/Magog.md
+            - file: docs/Who_is_Who_in_Bible/M/Mahalaleel.md
+            - file: docs/Who_is_Who_in_Bible/M/Mary.md
+            - file: docs/Who_is_Who_in_Bible/M/Mash.md
+            - file: docs/Who_is_Who_in_Bible/M/Mehujael.md
+            - file: docs/Who_is_Who_in_Bible/M/Meshech.md
+            - file: docs/Who_is_Who_in_Bible/M/Methusael.md
+            - file: docs/Who_is_Who_in_Bible/M/Methuselah.md
+            - file: docs/Who_is_Who_in_Bible/M/Mizraim.md
+        - file: docs/Who_is_Who_in_Bible/N/N.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/N/Naamah.md
+            - file: docs/Who_is_Who_in_Bible/N/Naphtuhim.md
+            - file: docs/Who_is_Who_in_Bible/N/Nimrod.md
+            - file: docs/Who_is_Who_in_Bible/N/Noah.md
+        - file: docs/Who_is_Who_in_Bible/O/O.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/O/Obal.md
+            - file: docs/Who_is_Who_in_Bible/O/Ophir.md
+        - file: docs/Who_is_Who_in_Bible/P/P.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/P/Pathrusim.md
+            - file: docs/Who_is_Who_in_Bible/P/Paul.md
+            - file: docs/Who_is_Who_in_Bible/P/Peleg.md
+            - file: docs/Who_is_Who_in_Bible/P/Peter.md
+            - file: docs/Who_is_Who_in_Bible/P/Philistim.md
+            - file: docs/Who_is_Who_in_Bible/P/Phut.md
+        - file: docs/Who_is_Who_in_Bible/Q/Q.md
+        - file: docs/Who_is_Who_in_Bible/R/R.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/R/Raamah.md
+            - file: docs/Who_is_Who_in_Bible/R/Riphath.md
+        - file: docs/Who_is_Who_in_Bible/S/S.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/S/Sabtah.md
+            - file: docs/Who_is_Who_in_Bible/S/Sabtecha.md
+            - file: docs/Who_is_Who_in_Bible/S/Salah.md
+            - file: docs/Who_is_Who_in_Bible/S/Seba.md
+            - file: docs/Who_is_Who_in_Bible/S/Seth.md
+            - file: docs/Who_is_Who_in_Bible/S/Sheba.md
+            - file: docs/Who_is_Who_in_Bible/S/Sheba2.md
+            - file: docs/Who_is_Who_in_Bible/S/Sheleph.md
+            - file: docs/Who_is_Who_in_Bible/S/Shem.md
+            - file: docs/Who_is_Who_in_Bible/S/Sidon.md
+        - file: docs/Who_is_Who_in_Bible/T/T.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/T/Tarshish.md
+            - file: docs/Who_is_Who_in_Bible/T/Tiras.md
+            - file: docs/Who_is_Who_in_Bible/T/Togarmah.md
+            - file: docs/Who_is_Who_in_Bible/T/Tubal.md
+            - file: docs/Who_is_Who_in_Bible/T/Tubalcain.md
+        - file: docs/Who_is_Who_in_Bible/U/U.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/U/Uz.md
+            - file: docs/Who_is_Who_in_Bible/U/Uzal.md
+        - file: docs/Who_is_Who_in_Bible/V/V.md
+        - file: docs/Who_is_Who_in_Bible/W/W.md
+        - file: docs/Who_is_Who_in_Bible/X/X.md
+        - file: docs/Who_is_Who_in_Bible/Y/Y.md
+        - file: docs/Who_is_Who_in_Bible/Z/Z.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/Z/Zillah.md
 site:
   template: book-theme
   options:
