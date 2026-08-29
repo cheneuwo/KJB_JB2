@@ -19,7 +19,8 @@
 7. And the sons of {ref}`Cush<WHO_Cush>`; {ref}`Seba<WHO_Seba>`, and {ref}`Hav'ilah<WHO_Havilah>`, and {ref}`Sabtah<WHO_Sabtah>`, and {ref}`Ra'amah<WHO_Raamah>` and {ref}`Sab'techa<WHO_Sabtecha>`: and the sons of {ref}`Ra'amah<WHO_Raamah>`; {ref}`Sheba<WHO_Sheba>`, and {ref}`Dedan<WHO_Dedan>`.
 (GENESIS_10_8)=
 8. And {ref}`Cush<WHO_Cush>` begat {ref}`Nimrod<WHO_Nimrod>`: he began to be a mighty one in the earth.
-1. He was a mighty hunter before the LORD: wherefore it is said, Even as {ref}`Nimrod<WHO_Nimrod>` the mighty hunter before the LORD.
+(GENESIS_10_9)=
+9. He was a mighty hunter before the LORD: wherefore it is said, Even as {ref}`Nimrod<WHO_Nimrod>` the mighty hunter before the LORD.
 1. And the beginning of his kingdom was [Babel](https://en.wikipedia.org/wiki/Babylon), and [Erech](https://en.wikipedia.org/wiki/Uruk), and [Accad](https://en.wikipedia.org/wiki/Akkad_(city)), and [Calneh](https://en.wikipedia.org/wiki/Calneh), in the [land of Shinar](https://en.wikipedia.org/wiki/Shinar).
 (GENESIS_10_11)=
 11. Out of that land went forth {ref}`Asshur<WHO_Asshur>`, and builded [Nin'eveh](https://en.wikipedia.org/wiki/Nineveh), and the city [Reho'both](https://en.wikipedia.org/wiki/Rehoboth_(Bible)), and [Calah](https://en.wikipedia.org/wiki/Nimrud).
@@ -63,6 +64,7 @@
 
 After [the Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative), the Bible relates, the world was peopled again by the descendants of {ref}`Noah<WHO_Noah>`. The list of some seventy nations of the world in {ref}`Genesis<GENESIS>` is unique in ancient literature. Those listed are not classified by race, but {ref}`"after their families, after their tongues, in their lands, after their nations"<GENESIS_10_31>` ({ref}`Gen<GENESIS>`. {ref}`10<GENESIS_10>`:{ref}`31<GENESIS_10_31>`, see also verses {ref}`5<GENESIS_10_5>`, {ref}`20<GENESIS_10_20>`, {ref}`32<GENESIS_10_32>`). Although it is difficult to identify historically all the peoples mentioned, the following can be reasonably conjectured and illustrated:
 
+
 Madai--Medes:
 ```{figure} ./../../../imgs/Old/Genesis/Chapter_010/47915592.jpg
 ---
@@ -76,7 +78,7 @@ Javan--Ionian Greeks
 ---
 name: Javan_Ionian_Greeks
 ---
-Attic head, 7th century B.C. in the Louvre Museum (Ptyx, [CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0), [Image courtesy](https://commons.wikimedia.org/wiki/File:Cavalier_Rampin_-_Louvre_2014.JPG), via **Wikimedia Commons**. Accessed on November 1, 2025.)
+Attic head, 7th century B.C. in the Louvre Museum (Ptyx, [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0), [Image courtesy](https://commons.wikimedia.org/wiki/File:Cavalier_Rampin_-_Louvre_2014.JPG), via **Wikimedia Commons**. Accessed on November 1, 2025.)
 ```
 
 Elishah--Cypriots
@@ -96,7 +98,6 @@ Tomb fresco from Tarquinii, 3rd century B.C. (Public Domain, [Image courtesy](ht
 ```
 Thus it appears that the sons of {ref}`Japheth<WHO_Japheth>` dwelt principally in the countries to the north of Palestine on the Mediterranean islands and coast.
 
-
 ```{figure} ./../../../imgs/Old/Genesis/Chapter_010/From_Richard_Lepsius_-_Ethnic_groups__Table_Nations__portrayed_in_the_Book_of_Gates,_4th_Division,_5th_Hour,_Tomb_of_Seti_I.jpg
 ---
 name: Painting_Tomb_of_Seti
@@ -104,4 +105,22 @@ name: Painting_Tomb_of_Seti
 The four son of {ref}`Ham<WHO_Ham>` mentioned in {ref}`Genesis<GENESIS>` may have had the names of the four territories that made up the vast Egyptian empire: Mizraim (Egypt); Cush-Nubia, to the south; Phut - Libya, to the west; and Canaan to the east.  Ancient art emphasized the special characteristics of every people: texture of hair, shape of nose, manner and colour of dress. This style was carried to a logical extreme by the Egyptians, who also used a different colour for the skin of each. This wall paining from the tomb of Seti, about 1300 B.C., shows, (bottom) the Egyptians, red-skinned; the Asians, or Canaanites, dark brown, (top) the Nubians, black; and the Libyans, white. (Karl Richard Lepsius, Illustrator: Ernst Weidenbach, Public Domain, [Image courtesy](https://commons.wikimedia.org/wiki/File:From_Richard_Lepsius_-_Ethnic_groups_%22Table_Nations%22_portrayed_in_the_Book_of_Gates,_4th_Division,_5th_Hour,_Tomb_of_Seti_I.jpg), Accessed on November 2, 2025.)
 ```
 
-{ref}`The sons of Japheth; Gomer, and Magog, and Ma'dai, and Javan, and Tubal, and Meshech, and Tiras<GENESIS_10_2>` {ref}`... And the sons of Javan ...<GENESIS_10_4>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_9>`:{ref}`2<GENESIS_10_2>`,{ref}`4<GENESIS_10_4>`
+{ref}`The sons of Japheth; Gomer, and Magog, and Ma'dai, and Javan, and Tubal, and Meshech, and Tiras<GENESIS_10_2>` {ref}`... And the sons of Javan ...<GENESIS_10_4>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`2<GENESIS_10_2>`,{ref}`4<GENESIS_10_4>`
+
+{ref}`And the sons of Ham; Cush, and Miz'ra-im; and Phut, and Canaan...<GENESIS_10_6>` {ref}`And Miz'ra-im begat Ludim, and An'amin, and Le'habim, and Naph'tuhim, and Path'rusim, and Cas'lumin, (out of whom came Phil'istim,) and Caph'torim. And Canaan begat Sidon his firstborn, and Heth.<GENESIS_10_13>`-- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`6<GENESIS_10_6>`, {ref}`13<GENESIS_10_13>`-{ref}`15<GENESIS_10_15>`
+
+```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Lion-hunt-scene-IrMus-inv-no-IM-23477-basalt-relief-Uruk-Southern-Mesopotamia.webp
+---
+name: Nimrod
+---
+{ref}`Nimrod<WHO_Nimrod>`, the son of {ref}`Cush<WHO_Cush>`, performed such marvels of valor in hunting wild beasts that his name became renowned. On a basalt stele (unearthed at [Erek](wiki:Uruk)) dating from before 3000 B.C. is a bearded hunter. In the upper part of his sculptured slab of stone, he spears an attacking lion; in the lower, he has wounded two more with bow and arrows. [Image courtesy](https://www.researchgate.net/publication/352700429/figure/fig12/AS:11431281375351777@1744633908715/Lion-hunt-scene-IrMus-inv-no-IM-23477-basalt-relief-Uruk-Southern-Mesopotamia.tif). Accessed on August 28, 2026.
+```
+{ref}`He was a mighty hunger before the LORD ...<GENESIS_10_9>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`9<GENESIS_10_9>`
+
+```{figure} ./../../../imgs/Old/Genesis/Chapter_010/genesis_ancient_world.jpg
+---
+name: Maps_Genesis_10
+---
+Chapter 10 through 12 of Genesis list the descendants of {ref}`Noah<WHO_Noah>` and certain of the territories in which they settled -- a Biblical "table of nations". Plotted on this map are the areas that the descendants of {ref}`Japheth<WHO_Japheth>`, {ref}`Ham<WHO_Ham>`, and {ref}`Shem<WHO_Shem>` -- the sons of {ref}`Noah<WHO_Noah>` -- probably inhabited, as indicated by archaelogical evidence. (See also the sillustration) The map plots all the peoples mentioned in the bible verses, except the following, whose lands either have not been revealed at all by archaelogy or have been located with too little certainty: {ref}`Anamin<WHO_Anamin>`, {ref}`Arpachshad<WHO_Arphaxad>`, {ref}`Salah<WHO_Salah>`, {ref}`Eber<WHO_Eber>`, {ref}`Peleg<WHO_Peleg>`, {ref}`Magog<WHO_Magog>`, {ref}`Tiras<WHO_Tiras>`, {ref}`Ludim<WHO_Ludim>`, {ref}`Naphtuhim<WHO_Naphtuhim>`, {ref}`Casluhim<WHO_Casluhim>`, and {ref}`Philistim<WHO_Philistim>`. [Image courtesy](https://bible-history.com/images/common/genesis_ancient_world.jpg). Accessed on August 28, 2026.
+```
+{ref}`By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations<GENESIS_10_5>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`5<GENESIS_10_5>`
