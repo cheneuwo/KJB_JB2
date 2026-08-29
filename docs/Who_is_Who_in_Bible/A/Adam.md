@@ -58,7 +58,7 @@ Much more significant, however, is the Christian portrayal of the sinful, fallen
 ---
 name: Adam_Eve_Ramboux
 ---
-Expelled from Eden (background), Adam is forced to till the soil as Eve assumes the burdens of motherhood. (Johann Anton Ramboux (1790-1866), Public domain, [image courtesy](https://en.wikipedia.org/wiki/Johann_Anton_Ramboux#/media/File:Adam-Eve-Ramboux.jpg), via **Wikimedia Commons**. Accessed on August 28, 2025.)
+Expelled from Eden (background), Adam is forced to till the soil as Eve assumes the burdens of motherhood. (Johann Anton Ramboux (1790-1866), Public domain, [image courtesy](https://commons.wikimedia.org/wiki/File:Adam-Eve-Ramboux.jpg), via **Wikimedia Commons**. Accessed on August 28, 2025.)
 ```
 
 This essential distinction between the first Adam and {ref}`Jesus<WHO_Jesus>` as the last Adam is used by {ref}`Paul<WHO_Paul>` to explain the resurrection of all believers. "For all in Adam all die," he wrote, "so also in christ shall be made alive" ({ref}`1 Cor. 15:22<CORINTHIANS_1_15_22>`). The comparison helps explain two inherent aspects of resurrection. In the first place, the linkage with Adam's sin and death showed that the soul would have to have a body for its resurrection to take place. Second, the coming of {ref}`Jesus<WHO_Jesus>` that the body would be new and spiritual rather than flesh and blood of the old mortality. According to {ref}`Paul<WHO_Paul>`, "The first man was from the earth, a man of dust; the second man is from heaven" ({ref}`1 Cor. 15:47<CORINTHIANS_1_15_47>`).

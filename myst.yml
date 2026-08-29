@@ -11,7 +11,7 @@ project:
   github: https://github.com/cheneuwo/KJB_JB2
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   copyright: "2026"
-  date: 2026-08-28
+  date: 2026-08-29
   toc:
     - file: intro.md
     - title: Preface
@@ -336,5 +336,5 @@ site:
   options:
     favicon: imgs/cross_olive_wood_small.png
     logo: imgs/cross_olive_wood.png
- #  parts:
- #    primary_sidebar_footer: primary-sidebar-footer.md
+  # parts:
+    # primary_sidebar_footer: primary-sidebar-footer.md

@@ -77,7 +77,7 @@ As in {ref}`Genesis<GENESIS>`, a chosen mortal is given specific instructions fo
 ---
 name: carving_noah_Gilgamesh
 ---
-A seventh-century B.C. stone carving of Gilgamesh. (Louvre Meseum, Public domain, [Image courtesy](https://en.wikipedia.org/wiki/Gilgamesh#/media/File:Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg), via **Wikipedia Commons**. Accessed on August 25, 2025.)
+A seventh-century B.C. stone carving of Gilgamesh. (Louvre Meseum, Public domain, [Image courtesy](https://commons.wikimedia.org/wiki/File:Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg), via **Wikipedia Commons**. Accessed on August 25, 2025.)
 ```
 ## THE GENERATIONS OF ADAM
 
