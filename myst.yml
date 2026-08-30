@@ -124,9 +124,12 @@ project:
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_001.md
         - file: docs/The_Old_Testament/27_Psalms/Psalms.md
           children:
+            - file: docs/The_Old_Testament/27_Psalms/Chapter_072.md
             - file: docs/The_Old_Testament/27_Psalms/Chapter_090.md
         - file: docs/The_Old_Testament/34_Isaiah/Isaiah.md
           children:
+            - file: docs/The_Old_Testament/34_Isaiah/Chapter_043.md
+            - file: docs/The_Old_Testament/34_Isaiah/Chapter_045.md
             - file: docs/The_Old_Testament/34_Isaiah/Chapter_054.md
         - file: docs/The_Old_Testament/39_Ezekiel/Ezekiel.md
           children:
