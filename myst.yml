@@ -134,6 +134,8 @@ project:
         - file: docs/The_Old_Testament/39_Ezekiel/Ezekiel.md
           children:
             - file: docs/The_Old_Testament/39_Ezekiel/Chapter_014.md
+            - file: docs/The_Old_Testament/39_Ezekiel/Chapter_038.md
+            - file: docs/The_Old_Testament/39_Ezekiel/Chapter_039.md
     - title: The New Testament
       children:
         - file: docs/The_New_Testament/01_Matthew/Matthew.md
@@ -178,6 +180,8 @@ project:
         - file: docs/The_New_Testament/25_John_3/John_3.md
         - file: docs/The_New_Testament/26_Jude/Jude.md
         - file: docs/The_New_Testament/27_Revelation/Revelation.md
+          children:
+            - file: docs/The_New_Testament/27_Revelation/Chapter_020.md
     - title: Who's Who in the Bible
       children:
         - file: docs/Who_is_Who_in_Bible/A/A.md
