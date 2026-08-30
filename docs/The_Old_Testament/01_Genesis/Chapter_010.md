@@ -124,3 +124,28 @@ name: Maps_Genesis_10
 Chapter 10 through 12 of Genesis list the descendants of {ref}`Noah<WHO_Noah>` and certain of the territories in which they settled -- a Biblical "table of nations". Plotted on this map are the areas that the descendants of {ref}`Japheth<WHO_Japheth>`, {ref}`Ham<WHO_Ham>`, and {ref}`Shem<WHO_Shem>` -- the sons of {ref}`Noah<WHO_Noah>` -- probably inhabited, as indicated by archaelogical evidence. (See also the sillustration) The map plots all the peoples mentioned in the bible verses, except the following, whose lands either have not been revealed at all by archaelogy or have been located with too little certainty: {ref}`Anamin<WHO_Anamin>`, {ref}`Arpachshad<WHO_Arphaxad>`, {ref}`Salah<WHO_Salah>`, {ref}`Eber<WHO_Eber>`, {ref}`Peleg<WHO_Peleg>`, {ref}`Magog<WHO_Magog>`, {ref}`Tiras<WHO_Tiras>`, {ref}`Ludim<WHO_Ludim>`, {ref}`Naphtuhim<WHO_Naphtuhim>`, {ref}`Casluhim<WHO_Casluhim>`, and {ref}`Philistim<WHO_Philistim>`. [Image courtesy](https://bible-history.com/images/common/genesis_ancient_world.jpg). Accessed on August 28, 2026.
 ```
 {ref}`By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations<GENESIS_10_5>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`5<GENESIS_10_5>`
+
+
+```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Persian_warriors_from_Berlin_Museum.jpg
+---
+name: Persian_warriors
+---
+{ref}`Shem<WHO_Shem>`, "{ref}`the fater of all the children of Eber<GENESIS_10_21>`", was the ancestor of the Hebrews (see {ref}`Eber<WHO_Eber>`, and below). Here we see how he and some of his descendants may have looked: the lands they lived in are indicated on the {ref}`map<Maps_GENESIS_10>`. {ref}`Elam<WHO_Elam>` -- a people that lived to the east of [Babylonia](Wiki:Babylonia). This picture shows an Elamite soldier from the [Frieze of the Archers](https://louvrebible.org.uk/oeuvre/125/louvre_departement_antiquites_orientales#carousel_listes) (link accessed on 2026-08-30) in the [palace of Susa](wiki:Palace_of_Darius_in_Susa) (5th century B.C.).
+```
+
+
+```{figure} ./../../../imgs/Old/Genesis/Chapter_010/A_Mede_King_relief_in_Louvre_Museum,_Paris.jpg
+---
+name: A_Mede_King_relief_in_Louvre
+---
+[Image courtesy](https://commons.wikimedia.org/wiki/File:A_Mede_King_relief_in_Louvre_Museum,_Paris.jpg), Paris Louvre Müzesi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons. Accessed on August 30, 2026.
+```
+
+```{figure} ./../../../imgs/Old/Genesis/Chapter_010/wsimg.jpg
+---
+name: A_bronze_status_Maadkarib
+---
+A bronze statue of Maadkarib, a ruler from southern Arabia (6th century B.C.). The statue was discovered at Marib, the ancient capital of Sheba, which is the name of one of Joktan's sons.  [Image courtesy](https://doi.org/10.82194/dasi-epi-9205), via **CC BY 4.0**. Accessed on August 30, 2026.
+```
+
+{ref}`The children of Shem, Elam, and Asshur, and Arphax'ad, and Lud, and Aram ...<GENESIS_10_22>` {ref}`And Arphax'ad begat Salah; and Salah begat Eber.<GENESIS_10_24>` {ref}`And unto Eber were born two sons: the name of one was Peleg ... and his brother's name was Joktan.<GENESIS_10_25>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`,{ref}`24<GENESIS_10_24>`-{ref}`25<GENESIS_10_25>`
