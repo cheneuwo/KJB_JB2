@@ -10,7 +10,8 @@
 1.
 1.
 1.
-1.
+(CHRONICLES_1_1_8)=
+8. The sons of {ref}`Ham<WHO_Ham>`; {ref}`Cush<WHO_Cush>`, and {ref}`Miz'ra-im<WHO_Mizraim>`, {ref}`Put<WHO_Phut>`, and {ref}`Canaan<WHO_Canaan>`.
 1.
 1.
 1.
