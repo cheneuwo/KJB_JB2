@@ -126,6 +126,7 @@ Chapter 10 through 12 of Genesis list the descendants of {ref}`Noah<WHO_Noah>` a
 {ref}`By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations<GENESIS_10_5>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`5<GENESIS_10_5>`
 
 
+
 ```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Persian_warriors_from_Berlin_Museum.jpg
 ---
 name: Persian_warriors
@@ -133,19 +134,42 @@ name: Persian_warriors
 {ref}`Shem<WHO_Shem>`, "{ref}`the fater of all the children of Eber<GENESIS_10_21>`", was the ancestor of the Hebrews (see {ref}`Eber<WHO_Eber>`, and below). Here we see how he and some of his descendants may have looked: the lands they lived in are indicated on the {ref}`map<Maps_GENESIS_10>`. {ref}`Elam<WHO_Elam>` -- a people that lived to the east of [Babylonia](Wiki:Babylonia). This picture shows an Elamite soldier from the [Frieze of the Archers](https://louvrebible.org.uk/oeuvre/125/louvre_departement_antiquites_orientales#carousel_listes) (link accessed on 2026-08-30) in the [palace of Susa](wiki:Palace_of_Darius_in_Susa) (5th century B.C.).
 ```
 
+```{figure} ./../../../imgs/Old/Genesis/Chapter_010/D._020001_A173_009_Left_3Qtr.1920x1200.jpg
+---
+name: Ruler_of_the_city_of_Adab
+---
+{ref}`Shem<WHO_Shem>` -- the head is that of an East Semitic ruler of the city of Adab (from the end of the third millennium [about 2000] B.C.). [Image courtesy](https://isac-idb-static.uchicago.edu/multimedia/7973/D.%20020001_A173_009_Left_3Qtr.1920x1200.jpg). Accessed on August 30, 2026.
+```
+```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Stele_depicting_King_Barrakib.jpg
+---
+name: replace me
+---
+**The image needs to be replaced**
+
+{ref}`Eber<WHO_Eber>` -- the people to which the children of Israel belonged and which included West and South Semitic tribes. The reproduction depicts an inhabitant of the middle [Euphrates region](wiki:Euphrates_Region) from the [patriarchal period](wiki:Patriarchal_age) (18th century B.C.).
+```
+
+
+```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Stele_depicting_King_Barrakib.jpg
+---
+name: King_Barrakib
+---
+{ref}`Aram<WHO_Aram>` -- a people that, at the end of the second millennium (about 1000 B.C.), spread as far as [Syria](wiki:Syria) and [Palestine](wiki:Palestine). The relief is from [Zinjirli](wiki:Sam'al) and portrays the [Aramean King Bar-Rakab](wiki:Bar-Rakib_inscriptions) of the 8th century. B. C. [Image Courtesy: Mary Harrsch from Springfield, Oregon, USA](https://upload.wikimedia.org/wikipedia/commons/0/03/Stele_depicting_King_Barrakib_on_his_throne_with_Aramaic_inscription_from_the_Northern_Hall_in_Sam%27al_%28Zincirli%29_Turkey_Neo-Hittite_730_BCE_Basalt_%2832282364653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons. Accessed on August 30, 2026.
+```
+
 
 ```{figure} ./../../../imgs/Old/Genesis/Chapter_010/A_Mede_King_relief_in_Louvre_Museum,_Paris.jpg
 ---
 name: A_Mede_King_relief_in_Louvre
 ---
-[Image courtesy](https://commons.wikimedia.org/wiki/File:A_Mede_King_relief_in_Louvre_Museum,_Paris.jpg), Paris Louvre Müzesi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons. Accessed on August 30, 2026.
+{ref}`Asshur<WHO_Asshur>` -- one of the great peoples of [Mesopotamia](wiki:Mesopotamia), which reached its apogee in the 8th and 7th centries B.C. This picture shows the head of an Assyrian on a relief of this period. [Image courtesy](https://commons.wikimedia.org/wiki/File:A_Mede_King_relief_in_Louvre_Museum,_Paris.jpg), Paris Louvre Müzesi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons. Accessed on August 30, 2026.
 ```
 
 ```{figure} ./../../../imgs/Old/Genesis/Chapter_010/wsimg.jpg
 ---
 name: A_bronze_status_Maadkarib
 ---
-A bronze statue of Maadkarib, a ruler from southern Arabia (6th century B.C.). The statue was discovered at Marib, the ancient capital of Sheba, which is the name of one of Joktan's sons.  [Image courtesy](https://doi.org/10.82194/dasi-epi-9205), via **CC BY 4.0**. Accessed on August 30, 2026.
+{ref}`Joktan<WHO_Joktan>` is usually regarded as the father of the South Arabian tribes. A bronze statue of Maadkarib, a ruler from southern Arabia (6th century B.C.). The statue was discovered at Marib, the ancient capital of Sheba, which is the name of one of Joktan's sons.  [Image courtesy](https://doi.org/10.82194/dasi-epi-9205), via **CC BY 4.0**. Accessed on August 30, 2026.
 ```
 
 {ref}`The children of Shem, Elam, and Asshur, and Arphax'ad, and Lud, and Aram ...<GENESIS_10_22>` {ref}`And Arphax'ad begat Salah; and Salah begat Eber.<GENESIS_10_24>` {ref}`And unto Eber were born two sons: the name of one was Peleg ... and his brother's name was Joktan.<GENESIS_10_25>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`,{ref}`24<GENESIS_10_24>`-{ref}`25<GENESIS_10_25>`
