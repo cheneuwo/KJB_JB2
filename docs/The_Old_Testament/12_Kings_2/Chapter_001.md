@@ -1,7 +1,6 @@
 (KINGS_2_1)=
 # CHAPTER 1
 
-(KINGS_2_1_1)=
 1.
 1.
 1.
