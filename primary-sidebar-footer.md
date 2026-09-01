@@ -1,1 +1,3 @@
-Elvis C. S. Chen, 2026
+Elvis C.S. Chen
+
+Sept. 1, 2026
