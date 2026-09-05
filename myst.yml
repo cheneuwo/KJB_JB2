@@ -126,6 +126,7 @@ project:
         - file: docs/The_Old_Testament/13_Chronicles_1/Chronicles_1.md
           children:
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_001.md
+            - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_007.md
         - file: docs/The_Old_Testament/27_Psalms/Psalms.md
           children:
             - file: docs/The_Old_Testament/27_Psalms/Chapter_072.md
@@ -150,6 +151,7 @@ project:
           children:
             - file: docs/The_New_Testament/03_Luke/Chapter_003.md
             - file: docs/The_New_Testament/03_Luke/Chapter_005.md
+            - file: docs/The_New_Testament/03_Luke/Chapter_018.md
         - file: docs/The_New_Testament/04_John/John.md
         - file: docs/The_New_Testament/05_Acts/Acts.md
           children:

@@ -1,0 +1,55 @@
+(LUKE_18)=
+# CHAPTER 18
+
+## THE PARABLE OF THE WIDOW AND THE JUDGE
+
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+## THE PARABLE OF THE PHARISEE AND THE PUBLICAN
+9.
+1.
+1.
+1.
+1.
+1.
+## JESUS BLESSES LITTLE CHILDREN
+15.
+1.
+1.
+## THE RICH YOUNG RULER
+18.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+## JESUS FORTELLS HIS DEATH A THIRD TIME
+31.
+1.
+1.
+1.
+## A BLIND BEGGAR HEALED NEAR JERICHO
+35.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+
+Add a picture(s) here and refer back to Preface
