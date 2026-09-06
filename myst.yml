@@ -119,6 +119,10 @@ project:
             - file: docs/The_Old_Testament/07_Judges/Chapter_019.md
             - file: docs/The_Old_Testament/07_Judges/Chapter_020.md
             - file: docs/The_Old_Testament/07_Judges/Chapter_021.md
+        - file: docs/The_Old_Testament/11_Kings_1/Kings_1.md
+          children:
+            - file: docs/The_Old_Testament/11_Kings_1/Chapter_009.md
+            - file: docs/The_Old_Testament/11_Kings_1/Chapter_020.md
         - file: docs/The_Old_Testament/12_Kings_2/Kings_2.md
           children:
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_001.md
