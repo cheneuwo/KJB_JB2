@@ -131,10 +131,13 @@ project:
           children:
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_001.md
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_007.md
-        - file: docs/The_Old_Testament/27_Psalms/Psalms.md
+        - file: docs/The_Old_Testament/19_Psalms/Psalms.md
           children:
-            - file: docs/The_Old_Testament/27_Psalms/Chapter_072.md
-            - file: docs/The_Old_Testament/27_Psalms/Chapter_090.md
+            - file: docs/The_Old_Testament/19_Psalms/Chapter_072.md
+            - file: docs/The_Old_Testament/19_Psalms/Chapter_090.md
+        - file: docs/The_Old_Testament/24_Jeremiah/Jeremiah.md
+          children:
+            - file: docs/The_Old_Testament/24_Jeremiah/Chapter_001.md
         - file: docs/The_Old_Testament/34_Isaiah/Isaiah.md
           children:
             - file: docs/The_Old_Testament/34_Isaiah/Chapter_043.md
@@ -151,6 +154,8 @@ project:
           children:
             - file: docs/The_New_Testament/01_Matthew/Chapter_024.md
         - file: docs/The_New_Testament/02_Mark/Mark.md
+          children:
+            - file: docs/The_New_Testament/02_Mark/Chapter_013.md
         - file: docs/The_New_Testament/03_Luke/Luke.md
           children:
             - file: docs/The_New_Testament/03_Luke/Chapter_003.md
@@ -159,7 +164,11 @@ project:
         - file: docs/The_New_Testament/04_John/John.md
         - file: docs/The_New_Testament/05_Acts/Acts.md
           children:
+            - file: docs/The_New_Testament/05_Acts/Chapter_008.md
             - file: docs/The_New_Testament/05_Acts/Chapter_009.md
+            - file: docs/The_New_Testament/05_Acts/Chapter_013.md
+            - file: docs/The_New_Testament/05_Acts/Chapter_016.md
+            - file: docs/The_New_Testament/05_Acts/Chapter_018.md
         - file: docs/The_New_Testament/06_Romans/Romans.md
         - file: docs/The_New_Testament/07_Corinthians_1/Corinthians_1.md
           children:
@@ -311,6 +320,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/P/Paul.md
             - file: docs/Who_is_Who_in_Bible/P/Peleg.md
             - file: docs/Who_is_Who_in_Bible/P/Peter.md
+            - file: docs/Who_is_Who_in_Bible/P/Philip.md
             - file: docs/Who_is_Who_in_Bible/P/Philistim.md
             - file: docs/Who_is_Who_in_Bible/P/Phut.md
         - file: docs/Who_is_Who_in_Bible/Q/Q.md
