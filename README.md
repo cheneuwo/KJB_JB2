@@ -9,8 +9,8 @@ King James Version
 https://cheneuwo.github.io/KJB_JB2/
 
 ## Timeline
-- Prject initiated: August 23, 2025
+- Project initiated: August 23, 2025
 - Project completed: TBD
-- Last update: August 29, 2026
+- Last update: September 9, 2026
 
 ## Background
