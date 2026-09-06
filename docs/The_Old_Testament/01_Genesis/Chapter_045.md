@@ -1,6 +1,8 @@
 (GENESIS_45)=
 # CHAPTER 45
 
+## JOSEPH MAKES HIMSELF KNOWN TO HIS BRETHREN
+
 1.
 1.
 1.
@@ -9,7 +11,7 @@
 1.
 1.
 (GENESIS_45_8)=
-8.
+8. So now *it was* not you *that* sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
 1.
 1.
 1.
@@ -36,7 +38,6 @@
 1.
 1.
 1.
-
 
 {ref}`It was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house...<GENESIS_45_8>` -- {ref}`GENESIS<GENESIS>` {ref}`45<GENESIS_45>`:{ref}`8<GENESIS_45_8>`
 
