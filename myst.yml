@@ -131,6 +131,11 @@ project:
           children:
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_001.md
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_007.md
+        - file: docs/The_Old_Testament/14_Chronicles_2/Chronicles_2.md
+          children:
+            - file: docs/The_Old_Testament/14_Chronicles_2/Chapter_001.md
+            - file: docs/The_Old_Testament/14_Chronicles_2/Chapter_007.md
+            - file: docs/The_Old_Testament/14_Chronicles_2/Chapter_032.md
         - file: docs/The_Old_Testament/19_Psalms/Psalms.md
           children:
             - file: docs/The_Old_Testament/19_Psalms/Chapter_072.md
