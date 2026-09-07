@@ -33,7 +33,7 @@
 1. And the waters prevailed upon the earth a hundred and fifty days.
 
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_007/Sun_breaking_through_clouds_over_ocean.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_007/Sun_breaking_through_clouds_over_ocean.jpg
 ---
 name: Flood_passes
 ---

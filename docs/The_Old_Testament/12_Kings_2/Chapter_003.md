@@ -30,7 +30,7 @@
 1.
 
 
-```{figure} ./../../../imgs/Old/Kings_2/Chapter_003/P1120870_Louvre_stèle_de_Mésha_AO5066_rwk.jpg
+```{figure} ./../../../imgs/Old/12_Kings_2/Chapter_003/P1120870_Louvre_stèle_de_Mésha_AO5066_rwk.jpg
 ---
 name: Mesha_Stele
 ---

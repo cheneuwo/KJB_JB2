@@ -33,7 +33,7 @@
 1. therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.
 1. So he drove out the man: and he placed at the east of the garden of Eden [cherubim](https://en.wikipedia.org/wiki/Cherub), and a flaming sward which turned every way, to keep the way of the tree of life.
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_003/604924001.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_003/604924001.jpg
 ---
 name: seal_genesis
 ---

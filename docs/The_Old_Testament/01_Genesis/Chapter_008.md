@@ -30,7 +30,7 @@
 1. And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart *is* evil from his youth; neither will I again smite any more every thing living, as I have done.
 1. While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_008/Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_05.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_008/Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_05.jpg
 ---
 name: Ararat
 ---

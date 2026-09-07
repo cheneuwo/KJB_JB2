@@ -47,7 +47,7 @@
 (GENESIS_4_26)=
 26. And to {ref}`Seth<WHO_Seth>`, to him also there was born a son; and he called his name {ref}`Enos<WHO_Enos>`: then began men to call upon the name of the LORD.
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_004/Mesopotamia,_Periodo_proto-dinastico,_frammento_di_contenitore_in_clorite_con_procesisone_di_musici,_2700-2500_ac_ca,_da_bismaya.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_004/Mesopotamia,_Periodo_proto-dinastico,_frammento_di_contenitore_in_clorite_con_procesisone_di_musici,_2700-2500_ac_ca,_da_bismaya.jpg
 ---
 name: Jubal_harpists
 ---

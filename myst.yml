@@ -236,6 +236,7 @@ project:
         - file: docs/The_New_Testament/01_Matthew/Matthew.md
           children:
             - file: docs/The_New_Testament/01_Matthew/Chapter_024.md
+            - file: docs/The_New_Testament/01_Matthew/Chapter_027.md
         - file: docs/The_New_Testament/02_Mark/Mark.md
           children:
             - file: docs/The_New_Testament/02_Mark/Chapter_013.md

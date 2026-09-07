@@ -67,7 +67,7 @@ After [the Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative), the Bi
 
 
 Madai--Medes:
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/47915592.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/47915592.jpg
 ---
 name: Servant with bowls
 ---
@@ -75,7 +75,7 @@ name: Servant with bowls
 ```
 
 Javan--Ionian Greeks
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Cavalier_Rampin_-_Louvre_2014.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/Cavalier_Rampin_-_Louvre_2014.jpg
 ---
 name: Javan_Ionian_Greeks
 ---
@@ -83,7 +83,7 @@ Attic head, 7th century B.C. in the Louvre Museum (Ptyx, [(CC BY-SA 4.0)](https:
 ```
 
 Elishah--Cypriots
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Elishah.gif
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/Elishah.gif
 ---
 name: Elishah-Cypriots
 ---
@@ -91,7 +91,7 @@ Head from Aya Irini, 6th century B.C. (Public Domain, [Image courtesy](https://w
 ```
 
 Tiras--Etruscans
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/tarquiniamonterozzi21700.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/tarquiniamonterozzi21700.jpg
 ---
 name: Tiras_Etruscans
 ---
@@ -99,7 +99,7 @@ Tomb fresco from Tarquinii, 3rd century B.C. (Public Domain, [Image courtesy](ht
 ```
 Thus it appears that the sons of {ref}`Japheth<WHO_Japheth>` dwelt principally in the countries to the north of Palestine on the Mediterranean islands and coast.
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/From_Richard_Lepsius_-_Ethnic_groups__Table_Nations__portrayed_in_the_Book_of_Gates,_4th_Division,_5th_Hour,_Tomb_of_Seti_I.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/From_Richard_Lepsius_-_Ethnic_groups__Table_Nations__portrayed_in_the_Book_of_Gates,_4th_Division,_5th_Hour,_Tomb_of_Seti_I.jpg
 ---
 name: Painting_Tomb_of_Seti
 ---
@@ -110,7 +110,7 @@ The four son of {ref}`Ham<WHO_Ham>` mentioned in {ref}`Genesis<GENESIS>` may hav
 
 {ref}`And the sons of Ham; Cush, and Miz'ra-im; and Phut, and Canaan...<GENESIS_10_6>` {ref}`And Miz'ra-im begat Ludim, and An'amin, and Le'habim, and Naph'tuhim, and Path'rusim, and Cas'lumin, (out of whom came Phil'istim,) and Caph'torim. And Canaan begat Sidon his firstborn, and Heth.<GENESIS_10_13>`-- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`6<GENESIS_10_6>`, {ref}`13<GENESIS_10_13>`-{ref}`15<GENESIS_10_15>`
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Lion-hunt-scene-IrMus-inv-no-IM-23477-basalt-relief-Uruk-Southern-Mesopotamia.webp
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/Lion-hunt-scene-IrMus-inv-no-IM-23477-basalt-relief-Uruk-Southern-Mesopotamia.webp
 ---
 name: Nimrod
 ---
@@ -118,7 +118,7 @@ name: Nimrod
 ```
 {ref}`He was a mighty hunger before the LORD ...<GENESIS_10_9>` -- {ref}`GENESIS<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`9<GENESIS_10_9>`
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/genesis_ancient_world.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/genesis_ancient_world.jpg
 ---
 name: Maps_Genesis_10
 ---
@@ -128,20 +128,20 @@ Chapter 10 through 12 of Genesis list the descendants of {ref}`Noah<WHO_Noah>` a
 
 
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Persian_warriors_from_Berlin_Museum.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/Persian_warriors_from_Berlin_Museum.jpg
 ---
 name: Persian_warriors
 ---
 {ref}`Shem<WHO_Shem>`, "{ref}`the fater of all the children of Eber<GENESIS_10_21>`", was the ancestor of the Hebrews (see {ref}`Eber<WHO_Eber>`, and below). Here we see how he and some of his descendants may have looked: the lands they lived in are indicated on the {ref}`map<Maps_GENESIS_10>`. {ref}`Elam<WHO_Elam>` -- a people that lived to the east of [Babylonia](Wiki:Babylonia). This picture shows an Elamite soldier from the [Frieze of the Archers](https://louvrebible.org.uk/oeuvre/125/louvre_departement_antiquites_orientales#carousel_listes) (link accessed on 2026-08-30) in the [palace of Susa](wiki:Palace_of_Darius_in_Susa) (5th century B.C.).
 ```
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/D._020001_A173_009_Left_3Qtr.1920x1200.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/D._020001_A173_009_Left_3Qtr.1920x1200.jpg
 ---
 name: Ruler_of_the_city_of_Adab
 ---
 {ref}`Shem<WHO_Shem>` -- the head is that of an East Semitic ruler of the city of Adab (from the end of the third millennium [about 2000] B.C.). [Image courtesy](https://isac-idb-static.uchicago.edu/multimedia/7973/D.%20020001_A173_009_Left_3Qtr.1920x1200.jpg). Accessed on August 30, 2026.
 ```
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Stele_depicting_King_Barrakib.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/Stele_depicting_King_Barrakib.jpg
 ---
 name: replace me
 ---
@@ -151,7 +151,7 @@ name: replace me
 ```
 
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/Stele_depicting_King_Barrakib.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/Stele_depicting_King_Barrakib.jpg
 ---
 name: King_Barrakib
 ---
@@ -159,14 +159,14 @@ name: King_Barrakib
 ```
 
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/A_Mede_King_relief_in_Louvre_Museum,_Paris.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/A_Mede_King_relief_in_Louvre_Museum,_Paris.jpg
 ---
 name: A_Mede_King_relief_in_Louvre
 ---
 {ref}`Asshur<WHO_Asshur>` -- one of the great peoples of [Mesopotamia](wiki:Mesopotamia), which reached its apogee in the 8th and 7th centries B.C. This picture shows the head of an Assyrian on a relief of this period. [Image courtesy](https://commons.wikimedia.org/wiki/File:A_Mede_King_relief_in_Louvre_Museum,_Paris.jpg), Paris Louvre Müzesi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons. Accessed on August 30, 2026.
 ```
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_010/wsimg.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_010/wsimg.jpg
 ---
 name: A_bronze_status_Maadkarib
 ---

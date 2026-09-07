@@ -41,7 +41,7 @@
 
 {ref}`It was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house...<GENESIS_45_8>` -- {ref}`GENESIS<GENESIS>` {ref}`45<GENESIS_45>`:{ref}`8<GENESIS_45_8>`
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_045/Nehemen_dagger_Daressy.png
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_045/Nehemen_dagger_Daressy.png
 ---
 name: fig:Nahman_dagger
 ---

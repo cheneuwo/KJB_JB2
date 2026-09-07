@@ -41,7 +41,7 @@
 1. And they were both naked, the man and his wife, and were not shamed.
 
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_002/map.png
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_002/map.png
 ---
 name: map_genesis
 ---

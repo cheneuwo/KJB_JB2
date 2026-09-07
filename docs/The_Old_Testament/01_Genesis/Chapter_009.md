@@ -43,7 +43,7 @@
 1. And all the days of {ref}`Noah<WHO_Noah>` were nine hundred and fifty years: and he died.
 
 
-```{figure} ./../../../imgs/Old/Genesis/Chapter_009/IvrizRelief.jpg
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_009/IvrizRelief.jpg
 ---
 name: Irviz_Relief
 ---

@@ -2,7 +2,7 @@
 # CHAPTER 13
 
 
-```{figure} ./../../../imgs/New/Luke/Chapter_013/Siloam72.jpg
+```{figure} ./../../../imgs/New/03_Luke/Chapter_013/Siloam72.jpg
 ---
 name: fig:Pool_of_Siloam
 ---
