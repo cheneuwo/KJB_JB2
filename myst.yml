@@ -181,6 +181,7 @@ project:
             - file: docs/The_Old_Testament/23_Isaiah/Chapter_043.md
             - file: docs/The_Old_Testament/23_Isaiah/Chapter_045.md
             - file: docs/The_Old_Testament/23_Isaiah/Chapter_054.md
+            - file: docs/The_Old_Testament/23_Isaiah/Chapter_061.md
         - file: docs/The_Old_Testament/24_Jeremiah/Jeremiah.md
           children:
             - file: docs/The_Old_Testament/24_Jeremiah/Chapter_001.md
@@ -243,6 +244,7 @@ project:
         - file: docs/The_New_Testament/03_Luke/Luke.md
           children:
             - file: docs/The_New_Testament/03_Luke/Chapter_003.md
+            - file: docs/The_New_Testament/03_Luke/Chapter_004.md
             - file: docs/The_New_Testament/03_Luke/Chapter_005.md
             - file: docs/The_New_Testament/03_Luke/Chapter_013.md
             - file: docs/The_New_Testament/03_Luke/Chapter_018.md

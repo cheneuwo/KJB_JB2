@@ -1,0 +1,7 @@
+(ISAIAH_61)=
+# CHAPTER 61
+
+(ISAIAH_61_1)=
+1. 
+(ISAIAH_61_2)=
+2. 
