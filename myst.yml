@@ -153,6 +153,7 @@ project:
             - file: docs/The_Old_Testament/15_Ezra/Chapter_001.md
         - file: docs/The_Old_Testament/16_Nehemiah/Nehemiah.md
           children:
+            - file: docs/The_Old_Testament/16_Nehemiah/Chapter_002.md
             - file: docs/The_Old_Testament/16_Nehemiah/Chapter_003.md
         - file: docs/The_Old_Testament/17_Esther/Esther.md
           children:
@@ -176,6 +177,7 @@ project:
         - file: docs/The_Old_Testament/23_Isaiah/Isaiah.md
           children:
             - file: docs/The_Old_Testament/23_Isaiah/Chapter_007.md
+            - file: docs/The_Old_Testament/23_Isaiah/Chapter_008.md
             - file: docs/The_Old_Testament/23_Isaiah/Chapter_043.md
             - file: docs/The_Old_Testament/23_Isaiah/Chapter_045.md
             - file: docs/The_Old_Testament/23_Isaiah/Chapter_054.md
