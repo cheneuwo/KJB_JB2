@@ -1,5 +1,6 @@
 (GENESIS_7)=
-# CHAPTER SEVEN
+# CHAPTER SEVEN, GENESIS
+
 
 1. And the LORD said unto {ref}`Noah<WHO_Noah>`, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
 1. Of every clean beast thou shalt take to thee by sevens, the male and his famale: and of beasts that *are* not clean by two, the male and his female.

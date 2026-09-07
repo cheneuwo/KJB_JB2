@@ -1,2 +1,2 @@
-(Psalms)=
-# Psalms
+(PSALMS)=
+# PSALMS

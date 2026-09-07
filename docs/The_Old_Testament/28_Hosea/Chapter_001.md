@@ -1,0 +1,2 @@
+(HOSEA_1)=
+# CHAPTER 1

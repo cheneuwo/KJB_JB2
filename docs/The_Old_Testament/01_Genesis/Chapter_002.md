@@ -1,5 +1,6 @@
 (GENESIS_2)=
-# CHAPTER TWO
+# CHAPTER TWO, GENESIS
+
 
 1. Thus the heavens and the earth were finished, and all the host of them.
 1. And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.

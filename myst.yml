@@ -85,6 +85,9 @@ project:
         - file: docs/The_Old_Testament/03_Leviticus/Leviticus.md
           children:
             - file: docs/The_Old_Testament/03_Leviticus/Chapter_001.md
+        - file: docs/The_Old_Testament/04_Numbers/Numbers.md
+          children:
+            - file: docs/The_Old_Testament/04_Numbers/Chapter_001.md
         - file: docs/The_Old_Testament/06_Joshua/Joshua.md
           children:
             - file: docs/The_Old_Testament/06_Joshua/Chapter_001.md
@@ -119,6 +122,15 @@ project:
             - file: docs/The_Old_Testament/07_Judges/Chapter_019.md
             - file: docs/The_Old_Testament/07_Judges/Chapter_020.md
             - file: docs/The_Old_Testament/07_Judges/Chapter_021.md
+        - file: docs/The_Old_Testament/08_Ruth/Ruth.md
+          children:
+            - file: docs/The_Old_Testament/08_Ruth/Chapter_001.md
+        - file: docs/The_Old_Testament/09_Samuel_1/Samuel_1.md
+          children:
+            - file: docs/The_Old_Testament/09_Samuel_1/Chapter_001.md
+        - file: docs/The_Old_Testament/10_Samuel_2/Samuel_2.md
+          children:
+            - file: docs/The_Old_Testament/10_Samuel_2/Chapter_001.md
         - file: docs/The_Old_Testament/11_Kings_1/Kings_1.md
           children:
             - file: docs/The_Old_Testament/11_Kings_1/Chapter_009.md
@@ -136,23 +148,87 @@ project:
             - file: docs/The_Old_Testament/14_Chronicles_2/Chapter_001.md
             - file: docs/The_Old_Testament/14_Chronicles_2/Chapter_007.md
             - file: docs/The_Old_Testament/14_Chronicles_2/Chapter_032.md
+        - file: docs/The_Old_Testament/15_Ezra/Ezra.md
+          children:
+            - file: docs/The_Old_Testament/15_Ezra/Chapter_001.md
+        - file: docs/The_Old_Testament/16_Nehemiah/Nehemiah.md
+          children:
+            - file: docs/The_Old_Testament/16_Nehemiah/Chapter_003.md
+        - file: docs/The_Old_Testament/17_Esther/Esther.md
+          children:
+            - file: docs/The_Old_Testament/17_Esther/Chapter_001.md
+        - file: docs/The_Old_Testament/18_Job/Job.md
+          children:
+            - file: docs/The_Old_Testament/18_Job/Chapter_001.md
         - file: docs/The_Old_Testament/19_Psalms/Psalms.md
           children:
             - file: docs/The_Old_Testament/19_Psalms/Chapter_072.md
             - file: docs/The_Old_Testament/19_Psalms/Chapter_090.md
+        - file: docs/The_Old_Testament/20_Proverbs/Proverbs.md
+          children:
+            - file: docs/The_Old_Testament/20_Proverbs/Chapter_001.md
+        - file: docs/The_Old_Testament/21_Ecclesiastes/Ecclesiastes.md
+          children:
+            - file: docs/The_Old_Testament/21_Ecclesiastes/Chapter_001.md
+        - file: docs/The_Old_Testament/22_Song_of_Solomon/Song_of_Solomon.md
+          children:
+            - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_001.md
+        - file: docs/The_Old_Testament/23_Isaiah/Isaiah.md
+          children:
+            - file: docs/The_Old_Testament/23_Isaiah/Chapter_007.md
+            - file: docs/The_Old_Testament/23_Isaiah/Chapter_043.md
+            - file: docs/The_Old_Testament/23_Isaiah/Chapter_045.md
+            - file: docs/The_Old_Testament/23_Isaiah/Chapter_054.md
         - file: docs/The_Old_Testament/24_Jeremiah/Jeremiah.md
           children:
             - file: docs/The_Old_Testament/24_Jeremiah/Chapter_001.md
-        - file: docs/The_Old_Testament/34_Isaiah/Isaiah.md
+        - file: docs/The_Old_Testament/25_Lamentations/Lamentations.md
           children:
-            - file: docs/The_Old_Testament/34_Isaiah/Chapter_043.md
-            - file: docs/The_Old_Testament/34_Isaiah/Chapter_045.md
-            - file: docs/The_Old_Testament/34_Isaiah/Chapter_054.md
-        - file: docs/The_Old_Testament/39_Ezekiel/Ezekiel.md
+            - file: docs/The_Old_Testament/25_Lamentations/Chapter_001.md
+        - file: docs/The_Old_Testament/26_Ezekiel/Ezekiel.md
           children:
-            - file: docs/The_Old_Testament/39_Ezekiel/Chapter_014.md
-            - file: docs/The_Old_Testament/39_Ezekiel/Chapter_038.md
-            - file: docs/The_Old_Testament/39_Ezekiel/Chapter_039.md
+            - file: docs/The_Old_Testament/26_Ezekiel/Chapter_014.md
+            - file: docs/The_Old_Testament/26_Ezekiel/Chapter_038.md
+            - file: docs/The_Old_Testament/26_Ezekiel/Chapter_039.md
+        - file: docs/The_Old_Testament/27_Daniel/Daniel.md
+          children:
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_001.md
+        - file: docs/The_Old_Testament/28_Hosea/Hosea.md
+          children:
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_001.md
+        - file: docs/The_Old_Testament/29_Joel/Joel.md
+          children:
+            - file: docs/The_Old_Testament/29_Joel/Chapter_001.md
+        - file: docs/The_Old_Testament/30_Amos/Amos.md
+          children:
+            - file: docs/The_Old_Testament/30_Amos/Chapter_001.md
+        - file: docs/The_Old_Testament/31_Obadiah/Obadiah.md
+          children:
+            - file: docs/The_Old_Testament/31_Obadiah/Chapter_001.md
+        - file: docs/The_Old_Testament/32_Jonah/Jonah.md
+          children:
+            - file: docs/The_Old_Testament/32_Jonah/Chapter_001.md
+        - file: docs/The_Old_Testament/33_Micah/Micah.md
+          children:
+            - file: docs/The_Old_Testament/33_Micah/Chapter_001.md
+        - file: docs/The_Old_Testament/34_Nahum/Nahum.md
+          children:
+            - file: docs/The_Old_Testament/34_Nahum/Chapter_001.md
+        - file: docs/The_Old_Testament/35_Habakkuk/Habakkuk.md
+          children:
+            - file: docs/The_Old_Testament/35_Habakkuk/Chapter_001.md
+        - file: docs/The_Old_Testament/36_Zephaniah/Zephaniah.md
+          children:
+            - file: docs/The_Old_Testament/36_Zephaniah/Chapter_001.md
+        - file: docs/The_Old_Testament/37_Haggai/Haggai.md
+          children:
+            - file: docs/The_Old_Testament/37_Haggai/Chapter_001.md
+        - file: docs/The_Old_Testament/38_Zechariah/Zechariah.md
+          children:
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_001.md
+        - file: docs/The_Old_Testament/39_Malachi/Malachi.md
+          children:
+            - file: docs/The_Old_Testament/39_Malachi/Chapter_001.md
     - title: The New Testament
       children:
         - file: docs/The_New_Testament/01_Matthew/Matthew.md
@@ -165,8 +241,11 @@ project:
           children:
             - file: docs/The_New_Testament/03_Luke/Chapter_003.md
             - file: docs/The_New_Testament/03_Luke/Chapter_005.md
+            - file: docs/The_New_Testament/03_Luke/Chapter_013.md
             - file: docs/The_New_Testament/03_Luke/Chapter_018.md
         - file: docs/The_New_Testament/04_John/John.md
+          children:
+            - file: docs/The_New_Testament/04_John/Chapter_009.md
         - file: docs/The_New_Testament/05_Acts/Acts.md
           children:
             - file: docs/The_New_Testament/05_Acts/Chapter_008.md

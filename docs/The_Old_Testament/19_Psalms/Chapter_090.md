@@ -1,10 +1,10 @@
-(Psalms_90)=
+(PSALMS_90)=
 # CHAPTER 90
 
 1. 
 1. 
 1.
-(Psalms_90_4)= 
+(PSALMS_90_4)= 
 4.
 1. 
 1. 

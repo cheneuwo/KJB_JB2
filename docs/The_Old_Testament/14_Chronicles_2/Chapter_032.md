@@ -46,5 +46,5 @@ The curring of this tunnel was done simultaneously from inside the city and from
 ---
 name: fig:Siloam_Inscription
 ---
-An inscription incised into the wall of the tunnel records the manner in which this remarkable feat of engineering was accomplished and how the water flowed "from the springs to the pool". Through the centries, [Hezekiah's tunnel](wiki:https://en.wikipedia.org/wiki/Siloam_tunnel) -- called "Siloam" as is the pool into which it leads in Jerusalem -- has continued to bring water to the city.([Image courtesy](https://commons.wikimedia.org/wiki/File:Siloam_Inscription_2.jpg), Wikikati, Public domain, via Wikimedia Commons. Accessed on September 07, 2026.)
+An inscription incised into the wall of the tunnel records the manner in which this remarkable feat of engineering was accomplished and how the water flowed "from the springs to the pool". Through the centries, [Hezekiah's tunnel](wiki:Siloam_tunnel) -- called "Siloam" as is the pool into which it leads in Jerusalem -- has continued to bring water to the city.([Image courtesy](https://commons.wikimedia.org/wiki/File:Siloam_Inscription_2.jpg), Wikikati, Public domain, via Wikimedia Commons. Accessed on September 07, 2026.)
 ```

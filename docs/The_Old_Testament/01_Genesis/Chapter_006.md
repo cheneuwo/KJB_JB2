@@ -1,5 +1,6 @@
 (GENESIS_6)=
-# CHAPTER SIX
+# CHAPTER SIX, GENESIS
+
 
 ## THE WICKEDNESS OF MANKIND
 1. And it came to pass, when men began to multiple on the face of the earth, and daughters were born unto them,
