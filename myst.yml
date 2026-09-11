@@ -82,6 +82,7 @@ project:
         - file: docs/The_Old_Testament/02_Exodus/Exodus.md
           children:
             - file: docs/The_Old_Testament/02_Exodus/Chapter_001.md
+            - file: docs/The_Old_Testament/02_Exodus/Chapter_015.md
         - file: docs/The_Old_Testament/03_Leviticus/Leviticus.md
           children:
             - file: docs/The_Old_Testament/03_Leviticus/Chapter_001.md
@@ -131,6 +132,7 @@ project:
         - file: docs/The_Old_Testament/10_Samuel_2/Samuel_2.md
           children:
             - file: docs/The_Old_Testament/10_Samuel_2/Chapter_001.md
+            - file: docs/The_Old_Testament/10_Samuel_2/Chapter_019.md
         - file: docs/The_Old_Testament/11_Kings_1/Kings_1.md
           children:
             - file: docs/The_Old_Testament/11_Kings_1/Chapter_009.md
