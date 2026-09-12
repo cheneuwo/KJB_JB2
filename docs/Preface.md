@@ -1,4 +1,6 @@
-# Preface
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red; font-size: 2.0rem; ">
+Preface 
+</div>
 
 Never before have the findings of archaeology been linked so extensively with the Scriptures as in The Reader's Digest illustrated edition of the Holy Bible. It contains more than five hundred illustrations and captions that bring the background of history and the insights of archaeology to Biblical narratives and themes.
 

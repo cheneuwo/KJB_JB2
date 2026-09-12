@@ -1,6 +1,6 @@
 <div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-LEVITICUS
+judges
 </div>
 
-(INTRO_LEVITICUS)=
-Leviticus consists entirely of
+(INTRO_JUDGES)=
+After the Conquest of Canaan

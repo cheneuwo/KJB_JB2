@@ -1,2 +1,0 @@
-(INTRO_ACTS)=
-# ACTS
