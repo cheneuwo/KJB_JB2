@@ -1,7 +1,7 @@
 (GENESIS_6)=
 # CHAPTER SIX, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 THE WICKEDNESS OF MANKIND
 </div>
 
@@ -16,7 +16,7 @@ THE WICKEDNESS OF MANKIND
 (GENESIS_6_8)=
 8. But {ref}`Noah<WHO_Noah>` found grace in the eyes of the LORD.
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 NOAH MAKES THE ARK
 </div>
 

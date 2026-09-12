@@ -11,7 +11,7 @@
 1. S
 1. T
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 THE DESCENDANTS OF SHEM
 </div>
 
@@ -33,7 +33,7 @@ THE DESCENDANTS OF SHEM
 1. a
 1. A
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 THE DESCENDANTS OF TERAH
 </div>
 

@@ -1,7 +1,7 @@
 (GENESIS_3)=
 # CHAPTER THREE, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 MAN'S DISOBEDIENCE
 </div>
 

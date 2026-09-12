@@ -1,7 +1,7 @@
 (GENESIS_9)=
 # CHAPTER NINE, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 GOD'S COVENANT WITH NOAH
 </div>
 

@@ -6,7 +6,7 @@
 1. And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
 1. And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 MAN IN THE GARDEN OF EDEN
 </div>
 

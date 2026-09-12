@@ -1,7 +1,7 @@
 (GENESIS_10)=
 # CHAPTER TEN, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 THE DESCENDENTS OF THE SONS OF NOAH
 </div>
 

@@ -1,7 +1,7 @@
 (GENESIS_4)=
 # CHAPTER FOUR, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 CAIN AND ABEL
 </div>
 
