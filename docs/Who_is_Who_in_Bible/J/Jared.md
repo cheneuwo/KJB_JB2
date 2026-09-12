@@ -3,7 +3,7 @@
 
 HEBREW: Yereḏ
 
-(The name *Jared* first appeared in  {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`15<GENESIS_5_15>`)
+(The name *Jared* first appeared in {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`15<GENESIS_5_15>`)
 
 Jared, in the {ref}`Book of Genesis<GENESIS>`, was a six-generation descendant of {ref}`Adam<WHO_Adam>` and {ref}`Eve<WHO_Eve>`. He is the descendant (great-grandson) of {ref}`Seth<WHO_Seth>` (Son of {ref}`Adam<WHO_Adam>`). His father was {ref}`Mahal'aleel<WHO_Mahalaleel>`, begat Jared when {ref}`Mahal'aleel<WHO_Mahalaleel>` was 65 years old.
 
