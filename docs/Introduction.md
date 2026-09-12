@@ -60,6 +60,39 @@ BOOKS OF THE BIBLE
 ```{include} ./../docs/Intro/20_Proverbs.md
 ```
 
+```{include} ./../docs/Intro/21_Ecclesiastes.md
+```
+
+```{include} ./../docs/Intro/22_Song_of_Solomon.md
+```
+
+```{include} ./../docs/Intro/23_Isaiah.md
+```
+
+```{include} ./../docs/Intro/24_Jeremiah.md
+```
+
+```{include} ./../docs/Intro/25_Lamentations.md
+```
+
+```{include} ./../docs/Intro/26_Ezekiel.md
+```
+
+```{include} ./../docs/Intro/27_Daniel.md
+```
+
+```{include} ./../docs/Intro/28_Hosea.md
+```
+
+```{include} ./../docs/Intro/29_Joel.md
+```
+
+```{include} ./../docs/Intro/30_Amos.md
+```
+
+```{include} ./../docs/Intro/31_Obadiah.md
+```
+
 ```{include} ./../docs/Intro/44_Acts.md
 ```
 

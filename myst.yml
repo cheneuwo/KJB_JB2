@@ -215,8 +215,6 @@ project:
           children:
             - file: docs/The_Old_Testament/30_Amos/Chapter_001.md
         - file: docs/The_Old_Testament/31_Obadiah/Obadiah.md
-          children:
-            - file: docs/The_Old_Testament/31_Obadiah/Chapter_001.md
         - file: docs/The_Old_Testament/32_Jonah/Jonah.md
           children:
             - file: docs/The_Old_Testament/32_Jonah/Chapter_001.md
