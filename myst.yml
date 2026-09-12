@@ -133,6 +133,7 @@ project:
           children:
             - file: docs/The_Old_Testament/10_Samuel_2/Chapter_001.md
             - file: docs/The_Old_Testament/10_Samuel_2/Chapter_019.md
+            - file: docs/The_Old_Testament/10_Samuel_2/Chapter_020.md
         - file: docs/The_Old_Testament/11_Kings_1/Kings_1.md
           children:
             - file: docs/The_Old_Testament/11_Kings_1/Chapter_009.md
@@ -323,6 +324,7 @@ project:
         - file: docs/Who_is_Who_in_Bible/D/D.md
           children:
             - file: docs/Who_is_Who_in_Bible/D/Daniel.md
+            - file: docs/Who_is_Who_in_Bible/D/David.md
             - file: docs/Who_is_Who_in_Bible/D/Dedan.md
             - file: docs/Who_is_Who_in_Bible/D/Diklah.md
             - file: docs/Who_is_Who_in_Bible/D/Dodanim.md
@@ -365,6 +367,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/J/Javan.md
             - file: docs/Who_is_Who_in_Bible/J/Jerah.md
             - file: docs/Who_is_Who_in_Bible/J/Jesus.md
+            - file: docs/Who_is_Who_in_Bible/J/Joab.md
             - file: docs/Who_is_Who_in_Bible/J/Job.md
             - file: docs/Who_is_Who_in_Bible/J/Jobab.md
             - file: docs/Who_is_Who_in_Bible/J/Joktan.md
