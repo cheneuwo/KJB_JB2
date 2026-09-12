@@ -20,11 +20,11 @@ project:
         - file: docs/Howto.md
         - file: docs/Alphabetical.md
         - file: docs/Introduction.md
-          children:
-            - file: docs/Intro/Genesis.md
-            - file: docs/Intro/Exodus.md
-            - file: docs/Intro/Leviticus.md
-            - file: docs/Intro/Acts.md
+#          children:
+#            - file: docs/Intro/Genesis.md
+#            - file: docs/Intro/Exodus.md
+#            - file: docs/Intro/Leviticus.md
+#            - file: docs/Intro/Acts.md
     - title: The Old Testament
       children:
         - file: docs/The_Old_Testament/01_Genesis/Genesis.md

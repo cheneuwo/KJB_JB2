@@ -1,10 +1,13 @@
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; font-size: 1.5rem;">
+INTRODUCTION TO THE BOOKS OF THE BIBLE
+</div>
+
 (INTRO_INTRO)=
-# INTRODUCTION TO THE BOOKS OF THE BIBLE
+```{include} ./../docs/Intro/01_Genesis.md
+```
 
-## The Old Testament
-- {ref}`Genesis<INTRO_GENESIS>`
-- {ref}`Exodus<INTRO_EXODUS>`
-- {ref}`Leviticus<INTRO_LEVITICUS>`
+```{include} ./../docs/Intro/02_Exodus.md
+```
 
-## The New Testament
-- {ref}`Acts<INTRO_ACTS>`
+```{include} ./../docs/Intro/03_Leviticus.md
+```
