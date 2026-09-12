@@ -2,7 +2,7 @@
 job
 </div>
 
-{ref}`18th book of The Bible<JOB>`
+{ref}`The 18th book of The Bible<JOB>`
 
 (INTRO_JOB)=
 Commonly accounted the

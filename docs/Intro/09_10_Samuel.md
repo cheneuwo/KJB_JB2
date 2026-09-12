@@ -2,7 +2,7 @@
 1 and 2 SAMUEL
 </div>
 
-{ref}`9th<SAMUAL_1>` and {ref}`10th books of The Bible<SAMUAL_2>`
+{ref}`The 9th<SAMUEL_1>` and {ref}`the 10th books of The Bible<SAMUEL_2>`
 
 (INTRO_SAMUEL)=
 These two books,

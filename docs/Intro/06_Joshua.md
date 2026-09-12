@@ -2,7 +2,7 @@
 joshua
 </div>
 
-{ref}`6th book of The Bible<JOSHUA>`
+{ref}`The 6th book of The Bible<JOSHUA>`
 
 (INTRO_JOSHUA)=
 Israel's crossing of the Jordan

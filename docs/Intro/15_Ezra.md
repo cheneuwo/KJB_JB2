@@ -2,7 +2,7 @@
 ezra
 </div>
 
-{ref}`15th book of The Bible<EZRA>`
+{ref}`The 15th book of The Bible<EZRA>`
 
 (INTRO_EZRA)=
 Nearly fifty years

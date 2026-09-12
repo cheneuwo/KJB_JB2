@@ -2,7 +2,7 @@
 judges
 </div>
 
-{ref}`6th book of The Bible<JUDGES>`
+{ref}`The 7th book of The Bible<JUDGES>`
 
 (INTRO_JUDGES)=
 After the Conquest of Canaan

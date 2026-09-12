@@ -89,6 +89,9 @@ project:
         - file: docs/The_Old_Testament/04_Numbers/Numbers.md
           children:
             - file: docs/The_Old_Testament/04_Numbers/Chapter_001.md
+        - file: docs/The_Old_Testament/05_Deuteronomy/Deuteronomy.md
+          children:
+            - file: docs/The_Old_Testament/05_Deuteronomy/Chapter_001.md
         - file: docs/The_Old_Testament/06_Joshua/Joshua.md
           children:
             - file: docs/The_Old_Testament/06_Joshua/Chapter_001.md
