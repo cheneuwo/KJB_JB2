@@ -1,8 +1,8 @@
 <div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-judges
+esther
 </div>
 
-{ref}`6th book of The Bible<JUDGES>`
+{ref}`17th book of The Bible<ESTHER>`
 
-(INTRO_JUDGES)=
-After the Conquest of Canaan
+(INTRO_ESTHER)=
+A threat to the every

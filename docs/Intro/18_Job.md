@@ -1,8 +1,8 @@
 <div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-judges
+job
 </div>
 
-{ref}`6th book of The Bible<JUDGES>`
+{ref}`18th book of The Bible<JOB>`
 
-(INTRO_JUDGES)=
-After the Conquest of Canaan
+(INTRO_JOB)=
+Commonly accounted the

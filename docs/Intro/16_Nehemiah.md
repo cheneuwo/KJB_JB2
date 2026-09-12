@@ -1,8 +1,8 @@
 <div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-judges
+nehemiah
 </div>
 
-{ref}`6th book of The Bible<JUDGES>`
+{ref}`16th book of The Bible<NEHEMIAH>`
 
-(INTRO_JUDGES)=
-After the Conquest of Canaan
+(INTRO_NEHEMIAH)=
+Nehemiah's own account

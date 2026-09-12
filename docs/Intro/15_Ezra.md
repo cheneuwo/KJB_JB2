@@ -1,8 +1,8 @@
 <div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-judges
+ezra
 </div>
 
-{ref}`6th book of The Bible<JUDGES>`
+{ref}`15th book of The Bible<EZRA>`
 
-(INTRO_JUDGES)=
-After the Conquest of Canaan
+(INTRO_EZRA)=
+Nearly fifty years

@@ -33,6 +33,33 @@ BOOKS OF THE BIBLE
 ```{include} ./../docs/Intro/08_Ruth.md
 ```
 
+```{include} ./../docs/Intro/09_10_Samuel.md
+```
+
+```{include} ./../docs/Intro/11_12_Kings.md
+```
+
+```{include} ./../docs/Intro/13_14_Chronicles.md
+```
+
+```{include} ./../docs/Intro/15_Ezra.md
+```
+
+```{include} ./../docs/Intro/16_Nehemiah.md
+```
+
+```{include} ./../docs/Intro/17_Esther.md
+```
+
+```{include} ./../docs/Intro/18_Job.md
+```
+
+```{include} ./../docs/Intro/19_Psalms.md
+```
+
+```{include} ./../docs/Intro/20_Proverbs.md
+```
+
 ```{include} ./../docs/Intro/44_Acts.md
 ```
 

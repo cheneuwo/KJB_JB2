@@ -1,8 +1,8 @@
 <div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-judges
+psalms
 </div>
 
-{ref}`6th book of The Bible<JUDGES>`
+{ref}`19th book of The Bible<PSALMS>`
 
-(INTRO_JUDGES)=
-After the Conquest of Canaan
+(INTRO_PSALMS)=
+The hymnbook of ancient
