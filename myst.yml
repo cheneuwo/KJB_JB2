@@ -143,6 +143,7 @@ project:
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_001.md
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_003.md
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_010.md
+            - file: docs/The_Old_Testament/12_Kings_2/Chapter_015.md
         - file: docs/The_Old_Testament/13_Chronicles_1/Chronicles_1.md
           children:
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_001.md
@@ -419,6 +420,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/P/Philip.md
             - file: docs/Who_is_Who_in_Bible/P/Philistim.md
             - file: docs/Who_is_Who_in_Bible/P/Phut.md
+            - file: docs/Who_is_Who_in_Bible/P/Pul.md
         - file: docs/Who_is_Who_in_Bible/Q/Q.md
         - file: docs/Who_is_Who_in_Bible/R/R.md
           children:
