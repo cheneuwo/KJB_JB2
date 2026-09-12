@@ -1,7 +1,6 @@
 (GENESIS_7)=
 # CHAPTER SEVEN, GENESIS
 
-
 1. And the LORD said unto {ref}`Noah<WHO_Noah>`, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
 1. Of every clean beast thou shalt take to thee by sevens, the male and his famale: and of beasts that *are* not clean by two, the male and his female.
 1. Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.
@@ -31,7 +30,6 @@
 (GENESIS_7_23)=
 23. And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and {ref}`Noah<WHO_Noah>` only remained *alive*, and they that *were* with him in the ark.
 1. And the waters prevailed upon the earth a hundred and fifty days.
-
 
 ```{figure} ./../../../imgs/Old/01_Genesis/Chapter_007/Sun_breaking_through_clouds_over_ocean.jpg
 ---

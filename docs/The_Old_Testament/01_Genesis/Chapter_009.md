@@ -1,8 +1,9 @@
 (GENESIS_9)=
 # CHAPTER NINE, GENESIS
 
-
-## GOD'S COVENANT WITH NOAH
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+GOD'S COVENANT WITH NOAH
+</div>
 
 (GENESIS_9_1)=
 1. And God blessed {ref}`Noah<WHO_Noah>` and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
@@ -41,7 +42,6 @@
 1. God shall enlarge {ref}`Japheth<WHO_Japheth>`, and he shall dwell in the tents of {ref}`Shem<WHO_Shem>`; and {ref}`Canaan<WHO_Canaan>` shall be his servant.
 1. And {ref}`Noah<WHO_Noah>` lived after the flood three hundred and fifty years.
 1. And all the days of {ref}`Noah<WHO_Noah>` were nine hundred and fifty years: and he died.
-
 
 ```{figure} ./../../../imgs/Old/01_Genesis/Chapter_009/IvrizRelief.jpg
 ---

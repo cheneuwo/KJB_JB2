@@ -1,7 +1,9 @@
 (LUKE_18)=
 # CHAPTER 18
 
-## THE PARABLE OF THE WIDOW AND THE JUDGE
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+THE PARABLE OF THE WIDOW AND THE JUDGE
+</div>
 
 1.
 1.
@@ -11,18 +13,30 @@
 1.
 1.
 1.
-## THE PARABLE OF THE PHARISEE AND THE PUBLICAN
+
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+THE PARABLE OF THE PHARISEE AND THE PUBLICAN
+</div>
+
 9.
 1.
 1.
 1.
 1.
 1.
-## JESUS BLESSES LITTLE CHILDREN
+
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+JESUS BLESSES LITTLE CHILDREN
+</div>
+
 15.
 1.
 1.
-## THE RICH YOUNG RULER
+
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+THE RICH YOUNG RULER
+</div>
+
 18.
 1.
 1.
@@ -36,12 +50,20 @@
 1.
 1.
 1.
-## JESUS FORTELLS HIS DEATH A THIRD TIME
+
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+JESUS FORTELLS HIS DEATH A THIRD TIME
+</div>
+
 31.
 1.
 1.
 1.
-## A BLIND BEGGAR HEALED NEAR JERICHO
+
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+A BLIND BEGGAR HEALED NEAR JERICHO
+</div>
+
 35.
 1.
 1.

@@ -1,8 +1,10 @@
 (GENESIS_6)=
 # CHAPTER SIX, GENESIS
 
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+THE WICKEDNESS OF MANKIND
+</div>
 
-## THE WICKEDNESS OF MANKIND
 1. And it came to pass, when men began to multiple on the face of the earth, and daughters were born unto them,
 1. that the sons of God saw the daughters of men that they *were* fair; and they took them wives of all which they chose.
 1. And the LORD said, My Spirit shall not always strive with man, for that he also *is* flesh: yet his days should be a hundred and twenty years.
@@ -10,10 +12,14 @@
 1. And GOD saw that the wickedness of man *was* great in the earth, and *that* every imagination of the thoughts of his heart *was* only evil continually.
 1. And it repented the LORD that he had made man on the earth, and it grieved him at his heart.
 (GENESIS_6_7)=
-7. And the LROD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping things, and the fowls of the air; for it repenteth me that I have made them.
+7. And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping things, and the fowls of the air; for it repenteth me that I have made them.
 (GENESIS_6_8)=
 8. But {ref}`Noah<WHO_Noah>` found grace in the eyes of the LORD.
-## NOAH MAKES THE ARK
+
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+NOAH MAKES THE ARK
+</div>
+
 (GENESIS_6_9)=
 9. These *are* the generations of {ref}`Noah<WHO_Noah>`: {ref}`Noah<WHO_Noah>` was just man *and* perfect in his generations, *and* {ref}`Noah<WHO_Noah>` walked with God.
 1. And {ref}`Noah<WHO_Noah>` begat three sons, {ref}`Shem<WHO_Shem>`, {ref}`Ham<WHO_Ham>`, and {ref}`Japheth<WHO_Japheth>`.

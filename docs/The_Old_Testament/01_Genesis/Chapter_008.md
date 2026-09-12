@@ -1,7 +1,6 @@
 (GENESIS_8)=
 # CHAPTER EIGHT, GENESIS
 
-
 (GENESIS_8_1)=
 1. And God remembered {ref}`Noah<WHO_Noah>`, and every living thing, and all the cattle that *was* with him in the ark: and God made a wind to pass over the earth, and the waters assuaged.
 (GENESIS_8_2)=

@@ -1,8 +1,9 @@
 (GENESIS_10)=
 # CHAPTER TEN, GENESIS
 
-
-## THE DESCENDENTS OF THE SONS OF NOAH
+<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+THE DESCENDENTS OF THE SONS OF NOAH
+</div>
 
 (GENESIS_10_1)=
 1. Nnow these *are* the generations of the sons of {ref}`Noah<WHO_Noah>`; {ref}`Shem<WHO_Shem>`, {ref}`Ham<WHO_Ham>`, and {ref}`Japheth<WHO_Japheth>`: and unto them were sons born after the flood.
@@ -61,7 +62,6 @@
 31. These *are* the sons of {ref}`Shem<WHO_Shem>`, after their families, after their gongues, in their lands, after their nations.
 (GENESIS_10_32)=
 32. These *are* the families of the sons of {ref}`Noah<WHO_Noah>`, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
-
 
 After [the Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative), the Bible relates, the world was peopled again by the descendants of {ref}`Noah<WHO_Noah>`. The list of some seventy nations of the world in {ref}`Genesis<GENESIS>` is unique in ancient literature. Those listed are not classified by race, but {ref}`"after their families, after their tongues, in their lands, after their nations"<GENESIS_10_31>` ({ref}`Gen<GENESIS>`. {ref}`10<GENESIS_10>`:{ref}`31<GENESIS_10_31>`, see also verses {ref}`5<GENESIS_10_5>`, {ref}`20<GENESIS_10_20>`, {ref}`32<GENESIS_10_32>`). Although it is difficult to identify historically all the peoples mentioned, the following can be reasonably conjectured and illustrated:
 
