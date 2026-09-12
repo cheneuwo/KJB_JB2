@@ -142,6 +142,7 @@ project:
           children:
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_001.md
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_003.md
+            - file: docs/The_Old_Testament/12_Kings_2/Chapter_010.md
         - file: docs/The_Old_Testament/13_Chronicles_1/Chronicles_1.md
           children:
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_001.md
@@ -365,6 +366,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/J/Japheth.md
             - file: docs/Who_is_Who_in_Bible/J/Jared.md
             - file: docs/Who_is_Who_in_Bible/J/Javan.md
+            - file: docs/Who_is_Who_in_Bible/J/Jehu.md
             - file: docs/Who_is_Who_in_Bible/J/Jerah.md
             - file: docs/Who_is_Who_in_Bible/J/Jesus.md
             - file: docs/Who_is_Who_in_Bible/J/Joab.md
