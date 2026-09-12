@@ -22,9 +22,9 @@
 (KINGS_2_15_19)=
 19. *And* {ref}`Pul<WHO_Pul>`
 (KINGS_2_15_20)=
-20. And {ref}`Men'ahem<WHO_Menaham>`
+20. And {ref}`Men'ahem<WHO_Menaham>` 
 
-{ref}`And Pul the kings of Assyria came against the land: and Men'ahem gave Pul a thousand talents of silver ... to confirm the Kingdom in his hand.<KINGS_2_15_19>` -- {ref}`2 KINGS<KINGS_2>` {ref}`19<KINGS_2_19>`:{ref}`19<KINGS_2_15_19>`
+{ref}`And Pul the kings of Assyria came against the land: and Men'ahem gave Pul a thousand talents of silver ... to confirm the Kingdom in his hand.<KINGS_2_15_19>` -- {ref}`2 KINGS<KINGS_2>` {ref}`15<KINGS_2_15>`:{ref}`19<KINGS_2_15_19>`
 
 
 ```{figure} ./../../../imgs/Old/12_Kings_2/Chapter_015/Tilglath_pileser_iii.jpg

@@ -36,7 +36,7 @@
 1.
 1.
 1.
-(KINGS_2_10_26)=
+(KINGS_2_10_36)=
 36. And the time that {ref}`Jehu<WHO_Jehu>` reigned over Israel in [Samaria](wiki:Samaria) *was* twenty and eight years.
 
 {ref}`And the time that Jehu reigned over Israel in Samaria was twenty and eight years.<KINGS_2_10_36>` --{ref}`2 KINGS<KINGS_2>` {ref}`10<KINGS_2_10>`:{ref}`36<KINGS_2_10_36>`
