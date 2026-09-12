@@ -1,7 +1,7 @@
 (GENESIS_1)=
 # CHAPTER ONE, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold;">
+<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 THE CREATION
 </div>
 

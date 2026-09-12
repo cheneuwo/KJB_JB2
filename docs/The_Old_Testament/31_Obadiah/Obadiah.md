@@ -8,9 +8,9 @@ the humbling of edom
 1. The vision of
 1.
 (OBADIAH_3)=
-3.
+3. The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation *is* high; that saith in his heart, Who shall being me down to the ground?
 (OBADIAH_4)=
-4.
+4. Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.
 1.
 1.
 1.
@@ -29,6 +29,7 @@ the humbling of edom
 1.
 1.
 
+{ref}`The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall being me down to the ground?<OBADIAH_3>` {ref}`Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.<OBADIAH_4>` -- {ref}`OBADIAH 1<OBADIAH>`:{ref}`3<OBADIAH_3>`-{ref}`4<OBADIAH_4>`
 
 ```{figure} ./../../../imgs/Old/31_Obadiah/bef0a163-4831-4fc8-9ffb-1a598c11d59c.jpg
 ---
