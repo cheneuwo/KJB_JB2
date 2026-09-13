@@ -93,6 +93,30 @@ BOOKS OF THE BIBLE
 ```{include} ./../docs/Intro/31_Obadiah.md
 ```
 
+```{include} ./../docs/Intro/32_Jonah.md
+```
+
+```{include} ./../docs/Intro/33_Micah.md
+```
+
+```{include} ./../docs/Intro/34_Nahum.md
+```
+
+```{include} ./../docs/Intro/35_Habakkuk.md
+```
+
+```{include} ./../docs/Intro/36_Zephaniah.md
+```
+
+```{include} ./../docs/Intro/37_Haggai.md
+```
+
+```{include} ./../docs/Intro/38_Zechariah.md
+```
+
+```{include} ./../docs/Intro/39_Malachi.md
+```
+
 ```{include} ./../docs/Intro/44_Acts.md
 ```
 
