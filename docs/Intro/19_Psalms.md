@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 psalms
-</div>
+:::
 
 {ref}`The 19th book of The Bible<PSALMS>`
 

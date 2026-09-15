@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-esther
-</div>
+:::{div}
+:class: section-title
+
+nehemiah
+:::
 
 {ref}`The 17th book of The Bible<ESTHER>`
 

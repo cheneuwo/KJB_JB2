@@ -1,6 +1,7 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
 judges
-</div>
+:::
 
 {ref}`The 7th book of The Bible<JUDGES>`
 

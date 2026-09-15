@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 deuteronomy
-</div>
+:::
 
 {ref}`The 5th book of The Bible<DEUTERONOMY>`
 

@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 daniel
-</div>
+:::
 
 {ref}`The 27th book of The Bible<DANIEL>`
 

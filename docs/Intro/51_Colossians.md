@@ -1,6 +1,10 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 colossians
-</div>
+:::
+
+{ref}`The 51st book of The Bible<COLOSSIANS>`
 
 (INTRO_COLOSSIANS)=
 Also written from prison, this letter is a warning to the Christians in Colossae against some form of heresy that was gaining ground among their congregation.

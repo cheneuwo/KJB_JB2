@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 jonah
-</div>
+:::
 
 {ref}`The 32nd book of The Bible<JONAH>`
 

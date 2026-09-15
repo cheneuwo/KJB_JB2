@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 isaiah
-</div>
+:::
 
 {ref}`The 23rd book of The Bible<ISAIAH>`
 

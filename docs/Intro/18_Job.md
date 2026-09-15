@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 job
-</div>
+:::
 
 {ref}`The 18th book of The Bible<JOB>`
 

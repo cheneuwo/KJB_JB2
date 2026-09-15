@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 zechariah
-</div>
+:::
 
 {ref}`The 38th book of The Bible<ZECHARIAH>`
 

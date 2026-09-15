@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 nahum
-</div>
+:::
 
 {ref}`The 34th book of The Bible<NAHUM>`
 

@@ -1,7 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-exodus
-</div>
+:::{div}
+:class: section-title
 
+exodus
+:::
 
 {ref}`The 2nd book of The Bible<EXODUS>`
 

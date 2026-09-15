@@ -117,14 +117,41 @@ BOOKS OF THE BIBLE
 ```{include} ./../docs/Intro/39_Malachi.md
 ```
 
+```{include} ./../docs/Intro/40__41_42_43_The_Four_Gospels.md
+```
+
 ```{include} ./../docs/Intro/44_Acts.md
 ```
 
+```{include} ./../docs/Intro/45_Romans.md
+```
+
+```{include} ./../docs/Intro/46_47_Corinthians.md
+```
+
 ```{include} ./../docs/Intro/48_Galatians.md
+```
+
+```{include} ./../docs/Intro/49_Ephesians.md
 ```
 
 ```{include} ./../docs/Intro/50_Philippians.md
 ```
 
 ```{include} ./../docs/Intro/51_Colossians.md
+```
+
+```{include} ./../docs/Intro/52_53_Thessalonians.md
+```
+
+```{include} ./../docs/Intro/54_55_Timothy.md
+```
+
+```{include} ./../docs/Intro/56_Philemon.md
+```
+
+```{include} ./../docs/Intro/57_Hebrews.md
+```
+
+```{include} ./../docs/Intro/58_James.md
 ```

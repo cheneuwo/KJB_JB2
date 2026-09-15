@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 micah
-</div>
+:::
 
 {ref}`The 33rd book of The Bible<Micah>`
 

@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 nehemiah
-</div>
+:::
 
 {ref}`The 16th book of The Bible<NEHEMIAH>`
 

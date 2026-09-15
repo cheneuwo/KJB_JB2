@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 proverbs
-</div>
+:::
 
 {ref}`The 20th book of The Bible<PROVERBS>`
 

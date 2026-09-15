@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 song of solomon
-</div>
+:::
 
 {ref}`The 22nd book of The Bible<SONG_OF_SOLOMON>`
 

@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 malachi
-</div>
+:::
 
 {ref}`The 39th book of The Bible<MALACHI>`
 

@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 joel
-</div>
+:::
 
 {ref}`The 29th book of The Bible<JOEL>`
 

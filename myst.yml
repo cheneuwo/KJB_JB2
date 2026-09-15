@@ -414,6 +414,7 @@ project:
         - file: docs/Who_is_Who_in_Bible/O/O.md
           children:
             - file: docs/Who_is_Who_in_Bible/O/Obal.md
+            - file: docs/Who_is_Who_in_Bible/O/Onesimus.md
             - file: docs/Who_is_Who_in_Bible/O/Ophir.md
         - file: docs/Who_is_Who_in_Bible/P/P.md
           children:
@@ -465,5 +466,6 @@ site:
   options:
     favicon: imgs/cross_olive_wood_small.png
     logo: imgs/cross_olive_wood.png
+    style: ./styles.css
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md

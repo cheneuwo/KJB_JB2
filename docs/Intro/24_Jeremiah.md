@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 jeremiah
-</div>
+:::
 
 {ref}`The 24th book of The Bible<JEREMIAH>`
 

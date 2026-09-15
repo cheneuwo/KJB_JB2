@@ -1,6 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: section-title
+
 numbers
-</div>
+:::
 
 {ref}`The 4th book of The Bible<NUMBERS>`
 

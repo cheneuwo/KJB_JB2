@@ -1,7 +1,8 @@
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
-amos
-</div>
+:::{div}
+:class: section-title
 
+amos
+:::
 {ref}`The 30th book of The Bible<AMOS>`
 
 (INTRO_AMOS)=
