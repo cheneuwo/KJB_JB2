@@ -144,14 +144,26 @@ BOOKS OF THE BIBLE
 ```{include} ./../docs/Intro/52_53_Thessalonians.md
 ```
 
-```{include} ./../docs/Intro/54_55_Timothy.md
+```{include} ./../docs/Intro/54_55_56_Timothy_Titus.md
 ```
 
-```{include} ./../docs/Intro/56_Philemon.md
+```{include} ./../docs/Intro/57_Philemon.md
 ```
 
-```{include} ./../docs/Intro/57_Hebrews.md
+```{include} ./../docs/Intro/58_Hebrews.md
 ```
 
-```{include} ./../docs/Intro/58_James.md
+```{include} ./../docs/Intro/59_James.md
+```
+
+```{include} ./../docs/Intro/60_61_Peter.md
+```
+
+```{include} ./../docs/Intro/62_63_64_John.md
+```
+
+```{include} ./../docs/Intro/65_Jude.md
+```
+
+```{include} ./../docs/Intro/66_Revelation.md
 ```
