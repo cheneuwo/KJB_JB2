@@ -4,7 +4,7 @@
 LEVITICUS
 :::
 
-{ref}`The 3rd book of The Bible<LEVITICUS>`
+[The 3{sup}`rd` book of The Bible](#LEVITICUS)
 
 (INTRO_LEVITICUS)=
 Leviticus consists entirely of

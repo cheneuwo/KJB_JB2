@@ -4,7 +4,7 @@
 numbers
 :::
 
-{ref}`The 4th book of The Bible<NUMBERS>`
+[The 4{sup}`th` book of The Bible](#NUMBERS)
 
 (INTRO_NUMBERS)=
 In chapter

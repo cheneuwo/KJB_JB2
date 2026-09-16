@@ -4,7 +4,7 @@
 exodus
 :::
 
-{ref}`The 2nd book of The Bible<EXODUS>`
+[The 2{sup}`nd` book of The Bible](#EXODUS)
 
 (INTRO_EXODUS)=
 The descendants 
