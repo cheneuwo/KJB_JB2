@@ -1,7 +1,13 @@
 (GENESIS)=
-# GENESIS, Book 1
 
-## THE FIRST BOOK OF MOSES, CALLED
+:::{div}
+:class: book-description
+the<br>first book<br>of<br>moses,<br>called
+:::
+:::{div}
+:class: book-title
+genesis
+:::
 
 - {ref}`Chaper 1<GENESIS_1>`
 - {ref}`Chaper 2<GENESIS_2>`

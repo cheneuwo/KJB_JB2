@@ -4,3 +4,18 @@
   font-weight: bold;
   color: red;
 }
+
+.book-description {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: Crimson;
+}
+
+.book-title {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.4em;
+  font-size: 3.0rem;
+}
