@@ -4,7 +4,7 @@
 psalms
 :::
 
-{ref}`The 19th book of The Bible<PSALMS>`
+[The 19{sup}`th` book of The Bible](#PSALMS)
 
 (INTRO_PSALMS)=
 The hymnbook of ancient

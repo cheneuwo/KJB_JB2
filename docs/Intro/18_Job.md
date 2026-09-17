@@ -4,7 +4,7 @@
 job
 :::
 
-{ref}`The 18th book of The Bible<JOB>`
+[The 18{sup}`th` book of The Bible](#JOB)
 
 (INTRO_JOB)=
 Commonly accounted the
