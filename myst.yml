@@ -186,6 +186,13 @@ project:
         - file: docs/The_Old_Testament/22_Song_of_Solomon/Song_of_Solomon.md
           children:
             - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_001.md
+            - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_002.md
+            - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_003.md
+            - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_004.md
+            - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_005.md
+            - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_006.md
+            - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_007.md
+            - file: docs/The_Old_Testament/22_Song_of_Solomon/Chapter_008.md
         - file: docs/The_Old_Testament/23_Isaiah/Isaiah.md
           children:
             - file: docs/The_Old_Testament/23_Isaiah/Chapter_007.md
@@ -200,6 +207,10 @@ project:
         - file: docs/The_Old_Testament/25_Lamentations/Lamentations.md
           children:
             - file: docs/The_Old_Testament/25_Lamentations/Chapter_001.md
+            - file: docs/The_Old_Testament/25_Lamentations/Chapter_002.md
+            - file: docs/The_Old_Testament/25_Lamentations/Chapter_003.md
+            - file: docs/The_Old_Testament/25_Lamentations/Chapter_004.md
+            - file: docs/The_Old_Testament/25_Lamentations/Chapter_005.md
         - file: docs/The_Old_Testament/26_Ezekiel/Ezekiel.md
           children:
             - file: docs/The_Old_Testament/26_Ezekiel/Chapter_014.md
@@ -208,12 +219,38 @@ project:
         - file: docs/The_Old_Testament/27_Daniel/Daniel.md
           children:
             - file: docs/The_Old_Testament/27_Daniel/Chapter_001.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_002.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_003.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_004.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_005.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_006.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_007.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_008.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_009.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_010.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_011.md
+            - file: docs/The_Old_Testament/27_Daniel/Chapter_012.md
         - file: docs/The_Old_Testament/28_Hosea/Hosea.md
           children:
             - file: docs/The_Old_Testament/28_Hosea/Chapter_001.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_002.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_003.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_004.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_005.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_006.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_007.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_008.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_009.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_010.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_011.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_012.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_013.md
+            - file: docs/The_Old_Testament/28_Hosea/Chapter_014.md
         - file: docs/The_Old_Testament/29_Joel/Joel.md
           children:
             - file: docs/The_Old_Testament/29_Joel/Chapter_001.md
+            - file: docs/The_Old_Testament/29_Joel/Chapter_002.md
+            - file: docs/The_Old_Testament/29_Joel/Chapter_003.md
         - file: docs/The_Old_Testament/30_Amos/Amos.md
           children:
             - file: docs/The_Old_Testament/30_Amos/Chapter_001.md

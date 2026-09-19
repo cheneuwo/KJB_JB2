@@ -1,2 +1,5 @@
 (SONG_OF_SOLOMON)=
-# SONG OF SOLOMON
+:::{div}
+:class: book-title
+SONG OF SOLOMON
+:::

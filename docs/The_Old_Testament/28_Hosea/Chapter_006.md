@@ -1,0 +1,2 @@
+(HOSEA_6)=
+# CHAPTER 6

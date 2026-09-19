@@ -1,0 +1,2 @@
+(HOSEA_10)=
+# CHAPTER 10

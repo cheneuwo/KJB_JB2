@@ -4,7 +4,7 @@
 jeremiah
 :::
 
-{ref}`The 24th book of The Bible<JEREMIAH>`
+[The 24{sup}`th` book of The Bible](#JEREMIAH)
 
 (INTRO_JEREMIAH)=
 Jeremiah's book

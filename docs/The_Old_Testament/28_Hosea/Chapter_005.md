@@ -1,0 +1,2 @@
+(HOSEA_5)=
+# CHAPTER 5
