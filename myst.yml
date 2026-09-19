@@ -129,6 +129,9 @@ project:
         - file: docs/The_Old_Testament/08_Ruth/Ruth.md
           children:
             - file: docs/The_Old_Testament/08_Ruth/Chapter_001.md
+            - file: docs/The_Old_Testament/08_Ruth/Chapter_002.md
+            - file: docs/The_Old_Testament/08_Ruth/Chapter_003.md
+            - file: docs/The_Old_Testament/08_Ruth/Chapter_004.md
         - file: docs/The_Old_Testament/09_Samuel_1/Samuel_1.md
           children:
             - file: docs/The_Old_Testament/09_Samuel_1/Chapter_001.md

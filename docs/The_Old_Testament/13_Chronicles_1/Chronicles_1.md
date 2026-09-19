@@ -1,9 +1,9 @@
 (CHRONICLES_1)=
 :::{div}
 :class: book-description
-the<br>first book<br>of<br>moses,<br>called
+the<br>first book<br>of the
 :::
 :::{div}
 :class: book-title
-1 CHRONICLES
+CHRONICLES
 :::

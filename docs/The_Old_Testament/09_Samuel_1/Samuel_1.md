@@ -1,9 +1,13 @@
 (SAMUEL_1)=
 :::{div}
 :class: book-description
-the<br>first book<br>of<br>moses,<br>called
+the<br>first book<br>of
 :::
 :::{div}
 :class: book-title
-1 SAMUEL
+SAMUEL
+:::
+:::{div}
+:class: book-description
+otherwise called, the first book of the kings
 :::

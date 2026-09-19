@@ -1,9 +1,13 @@
 (KINGS_2)=
 :::{div}
 :class: book-description
-the<br>first book<br>of<br>moses,<br>called
+the<br>second book<br>of the
 :::
 :::{div}
 :class: book-title
-2 KINGS
+KINGS
+:::
+:::{div}
+:class: book-description
+commonly called, the fourth book of the kings
 :::

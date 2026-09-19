@@ -1,7 +1,7 @@
 (JOSHUA)=
 :::{div}
 :class: book-description
-the<br>first book<br>of<br>moses,<br>called
+the<br>book<br>of
 :::
 :::{div}
 :class: book-title
