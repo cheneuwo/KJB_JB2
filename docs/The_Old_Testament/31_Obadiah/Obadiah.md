@@ -1,5 +1,8 @@
 (OBADIAH)=
-# OBADIAH
+:::{div}
+:class: book-title
+OBADIAH
+:::
 
 <div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
 the humbling of edom

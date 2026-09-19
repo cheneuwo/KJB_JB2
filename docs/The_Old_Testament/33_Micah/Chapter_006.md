@@ -1,0 +1,2 @@
+(MICAH_6)=
+# CHAPTER 6

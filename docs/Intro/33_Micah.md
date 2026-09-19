@@ -1,10 +1,9 @@
 :::{div}
 :class: section-title
-
 micah
 :::
 
-{ref}`The 33rd book of The Bible<Micah>`
+[The 33{sup}`rd` book of The Bible](#Micah)
 
 (INTRO_MICAH)=
 As Amos denounced

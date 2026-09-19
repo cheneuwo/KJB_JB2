@@ -266,27 +266,59 @@ project:
         - file: docs/The_Old_Testament/32_Jonah/Jonah.md
           children:
             - file: docs/The_Old_Testament/32_Jonah/Chapter_001.md
+            - file: docs/The_Old_Testament/32_Jonah/Chapter_002.md
+            - file: docs/The_Old_Testament/32_Jonah/Chapter_003.md
+            - file: docs/The_Old_Testament/32_Jonah/Chapter_004.md
         - file: docs/The_Old_Testament/33_Micah/Micah.md
           children:
             - file: docs/The_Old_Testament/33_Micah/Chapter_001.md
+            - file: docs/The_Old_Testament/33_Micah/Chapter_002.md
+            - file: docs/The_Old_Testament/33_Micah/Chapter_003.md
+            - file: docs/The_Old_Testament/33_Micah/Chapter_004.md
+            - file: docs/The_Old_Testament/33_Micah/Chapter_005.md
+            - file: docs/The_Old_Testament/33_Micah/Chapter_006.md
+            - file: docs/The_Old_Testament/33_Micah/Chapter_007.md
         - file: docs/The_Old_Testament/34_Nahum/Nahum.md
           children:
             - file: docs/The_Old_Testament/34_Nahum/Chapter_001.md
+            - file: docs/The_Old_Testament/34_Nahum/Chapter_002.md
+            - file: docs/The_Old_Testament/34_Nahum/Chapter_003.md
         - file: docs/The_Old_Testament/35_Habakkuk/Habakkuk.md
           children:
             - file: docs/The_Old_Testament/35_Habakkuk/Chapter_001.md
+            - file: docs/The_Old_Testament/35_Habakkuk/Chapter_002.md
+            - file: docs/The_Old_Testament/35_Habakkuk/Chapter_003.md
         - file: docs/The_Old_Testament/36_Zephaniah/Zephaniah.md
           children:
             - file: docs/The_Old_Testament/36_Zephaniah/Chapter_001.md
+            - file: docs/The_Old_Testament/36_Zephaniah/Chapter_002.md
+            - file: docs/The_Old_Testament/36_Zephaniah/Chapter_003.md
         - file: docs/The_Old_Testament/37_Haggai/Haggai.md
           children:
             - file: docs/The_Old_Testament/37_Haggai/Chapter_001.md
+            - file: docs/The_Old_Testament/37_Haggai/Chapter_002.md
         - file: docs/The_Old_Testament/38_Zechariah/Zechariah.md
           children:
             - file: docs/The_Old_Testament/38_Zechariah/Chapter_001.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_002.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_003.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_004.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_005.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_006.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_007.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_008.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_009.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_010.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_011.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_012.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_013.md
+            - file: docs/The_Old_Testament/38_Zechariah/Chapter_014.md
         - file: docs/The_Old_Testament/39_Malachi/Malachi.md
           children:
             - file: docs/The_Old_Testament/39_Malachi/Chapter_001.md
+            - file: docs/The_Old_Testament/39_Malachi/Chapter_002.md
+            - file: docs/The_Old_Testament/39_Malachi/Chapter_003.md
+            - file: docs/The_Old_Testament/39_Malachi/Chapter_004.md
     - title: The New Testament
       children:
         - file: docs/The_New_Testament/01_Matthew/Matthew.md
