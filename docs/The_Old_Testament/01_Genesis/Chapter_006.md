@@ -1,9 +1,10 @@
 (GENESIS_6)=
 # CHAPTER SIX, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: paragraph-title
 THE WICKEDNESS OF MANKIND
-</div>
+:::
 
 1. And it came to pass, when men began to multiple on the face of the earth, and daughters were born unto them,
 1. that the sons of God saw the daughters of men that they *were* fair; and they took them wives of all which they chose.
@@ -16,9 +17,10 @@ THE WICKEDNESS OF MANKIND
 (GENESIS_6_8)=
 8. But {ref}`Noah<WHO_Noah>` found grace in the eyes of the LORD.
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: paragraph-title
 NOAH MAKES THE ARK
-</div>
+:::
 
 (GENESIS_6_9)=
 9. These *are* the generations of {ref}`Noah<WHO_Noah>`: {ref}`Noah<WHO_Noah>` was just man *and* perfect in his generations, *and* {ref}`Noah<WHO_Noah>` walked with God.

@@ -1,9 +1,10 @@
 (GENESIS_9)=
 # CHAPTER NINE, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: paragraph-title
 GOD'S COVENANT WITH NOAH
-</div>
+:::
 
 (GENESIS_9_1)=
 1. And God blessed {ref}`Noah<WHO_Noah>` and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.

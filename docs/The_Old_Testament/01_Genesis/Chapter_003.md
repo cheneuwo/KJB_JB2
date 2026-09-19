@@ -1,9 +1,10 @@
 (GENESIS_3)=
 # CHAPTER THREE, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: paragraph-title
 MAN'S DISOBEDIENCE
-</div>
+:::
 
 (GENESIS_3_1)=
 1. Now the serpent was more subtile than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of garden?

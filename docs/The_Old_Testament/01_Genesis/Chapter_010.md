@@ -1,9 +1,10 @@
 (GENESIS_10)=
 # CHAPTER TEN, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: paragraph-title
 THE DESCENDENTS OF THE SONS OF NOAH
-</div>
+:::
 
 (GENESIS_10_1)=
 1. Nnow these *are* the generations of the sons of {ref}`Noah<WHO_Noah>`; {ref}`Shem<WHO_Shem>`, {ref}`Ham<WHO_Ham>`, and {ref}`Japheth<WHO_Japheth>`: and unto them were sons born after the flood.

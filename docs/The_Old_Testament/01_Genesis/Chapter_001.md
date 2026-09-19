@@ -1,9 +1,10 @@
 (GENESIS_1)=
 # CHAPTER ONE, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: paragraph-title
 THE CREATION
-</div>
+:::
 
 1. In the beginning God created the heaven and the earth.
 1. And the earth was without form, and void; and darkness *was* upon the face of the deep. And the Spirit of God moved upon the face of the waters.

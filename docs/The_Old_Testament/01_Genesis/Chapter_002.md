@@ -6,9 +6,10 @@
 1. And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
 1. And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: paragraph-title
 MAN IN THE GARDEN OF EDEN
-</div>
+:::
 
 4. There *are* the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,
 1. and every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and *there was* not a man to till the ground.

@@ -1,9 +1,10 @@
 (GENESIS_4)=
 # CHAPTER FOUR, GENESIS
 
-<div style="text-align: center; text-transform: uppercase; font-weight: bold; color:red;">
+:::{div}
+:class: paragraph-title
 CAIN AND ABEL
-</div>
+:::
 
 (GENESIS_4_1)=
 1. And {ref}`Adam<WHO_Adam>` knew {ref}`Eve<WHO_Eve>` his wife; and she conceived, and bare {ref}`Cain<WHO_Cain>`, and said, I have gotten a man from the LORD.
