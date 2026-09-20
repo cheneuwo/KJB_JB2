@@ -1,2 +1,9 @@
 (CORINTHIANS_1)=
-# 1 CORINTHIANS
+:::{div}
+:class: book-description
+the<br>first epistle<br>of paul<br>the apostle<br>to the
+:::
+:::{div}
+:class: book-title
+CORINTHIANS
+:::

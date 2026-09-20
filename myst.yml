@@ -346,13 +346,63 @@ project:
             - file: docs/The_New_Testament/05_Acts/Chapter_016.md
             - file: docs/The_New_Testament/05_Acts/Chapter_018.md
         - file: docs/The_New_Testament/06_Romans/Romans.md
+          children:
+            - file: docs/The_New_Testament/06_Romans/Chapter_001.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_002.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_003.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_004.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_005.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_006.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_007.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_008.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_009.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_010.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_011.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_012.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_013.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_014.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_015.md
+            - file: docs/The_New_Testament/06_Romans/Chapter_016.md
         - file: docs/The_New_Testament/07_Corinthians_1/Corinthians_1.md
           children:
             - file: docs/The_New_Testament/07_Corinthians_1/Chapter_015.md
         - file: docs/The_New_Testament/08_Corinthians_2/Corinthians_2.md
+          children:
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_001.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_002.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_003.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_004.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_005.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_006.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_007.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_008.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_009.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_010.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_011.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_012.md
+            - file: docs/The_New_Testament/08_Corinthians_2/Chapter_013.md
         - file: docs/The_New_Testament/09_Galatians/Galatians.md
+          children:
+            - file: docs/The_New_Testament/09_Galatians/Chapter_001.md
+            - file: docs/The_New_Testament/09_Galatians/Chapter_002.md
+            - file: docs/The_New_Testament/09_Galatians/Chapter_003.md
+            - file: docs/The_New_Testament/09_Galatians/Chapter_004.md
+            - file: docs/The_New_Testament/09_Galatians/Chapter_005.md
+            - file: docs/The_New_Testament/09_Galatians/Chapter_006.md
         - file: docs/The_New_Testament/10_Ephesians/Ephesians.md
+          children:
+            - file: docs/The_New_Testament/10_Ephesians/Chapter_001.md
+            - file: docs/The_New_Testament/10_Ephesians/Chapter_002.md
+            - file: docs/The_New_Testament/10_Ephesians/Chapter_003.md
+            - file: docs/The_New_Testament/10_Ephesians/Chapter_004.md
+            - file: docs/The_New_Testament/10_Ephesians/Chapter_005.md
+            - file: docs/The_New_Testament/10_Ephesians/Chapter_006.md
         - file: docs/The_New_Testament/11_Philippians/Philippians.md
+          children:
+            - file: docs/The_New_Testament/11_Philippians/Chapter_001.md
+            - file: docs/The_New_Testament/11_Philippians/Chapter_002.md
+            - file: docs/The_New_Testament/11_Philippians/Chapter_003.md
+            - file: docs/The_New_Testament/11_Philippians/Chapter_004.md
         - file: docs/The_New_Testament/12_Colossians/Colossians.md
         - file: docs/The_New_Testament/13_Thessalonians_1/Thessalonians_1.md
         - file: docs/The_New_Testament/14_Thessalonians_2/Thessalonians_2.md

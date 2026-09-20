@@ -1,10 +1,9 @@
 :::{div}
 :class: section-title
-
 the four gospels
 :::
 
-{ref}`The 40th<MARK>`, {ref}`41st<MATTHEW>`, {ref}`42nd<LUKE>`, and {ref}`43rd books of The Bible<JOHN>`
+The [40{sup}`th`](#MATTHEW), [41{sup}`st`](#MARK), [42{sup}`nd`](#LUKE), and [43{sup}`rd` book of The Bible](#JOHN)
 
 (INTRO_FOUR_GOSPELS)=
 The word "gospel"
