@@ -1,10 +1,9 @@
 :::{div}
 :class: section-title
-
 relevation
 :::
 
-{ref}`The 66th book of The Bible<Revelation>`
+[The 66{sup}`th` book of The Bible](#Revelation)
 
 (INTRO_REVELATION)=
 Commonly

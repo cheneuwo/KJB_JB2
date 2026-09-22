@@ -1,10 +1,9 @@
 :::{div}
 :class: section-title
-
 jude
 :::
 
-{ref}`The 65th book of The Bible<Jude>`
+[The 65{sup}`th` book of The Bible](#Jude)
 
 (INTRO_JUDE)=
 Commonly
