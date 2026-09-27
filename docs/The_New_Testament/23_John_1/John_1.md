@@ -1,2 +1,9 @@
 (JOHN_1)=
-# 1 John
+:::{div}
+:class: book-description
+the<br>first epistle<br>general<br>of
+:::
+:::{div}
+:class: book-title
+john
+:::

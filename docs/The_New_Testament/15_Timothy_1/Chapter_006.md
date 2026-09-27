@@ -1,0 +1,2 @@
+(THIMOTHY_1_6)=
+# CHAPTER 6

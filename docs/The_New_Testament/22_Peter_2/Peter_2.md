@@ -1,2 +1,9 @@
 (PETER_2)=
-# 2 PETER
+:::{div}
+:class: book-description
+the<br>second epistle<br>general<br>of
+:::
+:::{div}
+:class: book-title
+peter
+:::

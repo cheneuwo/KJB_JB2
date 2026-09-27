@@ -1,0 +1,2 @@
+(THIMOTHY_1_3)=
+# CHAPTER 3

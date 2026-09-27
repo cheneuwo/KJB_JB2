@@ -11,7 +11,7 @@ project:
   github: https://github.com/cheneuwo/KJB_JB2
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   copyright: "2026"
-  # date: 2026-09-01
+  # date: 2026-09-027
   toc:
     - file: intro.md
     - title: Preface
@@ -404,29 +404,99 @@ project:
             - file: docs/The_New_Testament/11_Philippians/Chapter_003.md
             - file: docs/The_New_Testament/11_Philippians/Chapter_004.md
         - file: docs/The_New_Testament/12_Colossians/Colossians.md
+          children:
+            - file: docs/The_New_Testament/12_Colossians/Chapter_001.md
+            - file: docs/The_New_Testament/12_Colossians/Chapter_002.md
+            - file: docs/The_New_Testament/12_Colossians/Chapter_003.md
+            - file: docs/The_New_Testament/12_Colossians/Chapter_004.md
         - file: docs/The_New_Testament/13_Thessalonians_1/Thessalonians_1.md
+          children:
+            - file: docs/The_New_Testament/13_Thessalonians_1/Chapter_001.md
+            - file: docs/The_New_Testament/13_Thessalonians_1/Chapter_002.md
+            - file: docs/The_New_Testament/13_Thessalonians_1/Chapter_003.md
+            - file: docs/The_New_Testament/13_Thessalonians_1/Chapter_004.md
+            - file: docs/The_New_Testament/13_Thessalonians_1/Chapter_005.md
         - file: docs/The_New_Testament/14_Thessalonians_2/Thessalonians_2.md
+          children:
+            - file: docs/The_New_Testament/14_Thessalonians_2/Chapter_001.md
+            - file: docs/The_New_Testament/14_Thessalonians_2/Chapter_002.md
+            - file: docs/The_New_Testament/14_Thessalonians_2/Chapter_003.md
         - file: docs/The_New_Testament/15_Timothy_1/Timothy_1.md
+          children:
+            - file: docs/The_New_Testament/15_Timothy_1/Chapter_001.md
+            - file: docs/The_New_Testament/15_Timothy_1/Chapter_002.md
+            - file: docs/The_New_Testament/15_Timothy_1/Chapter_003.md
+            - file: docs/The_New_Testament/15_Timothy_1/Chapter_004.md
+            - file: docs/The_New_Testament/15_Timothy_1/Chapter_005.md
+            - file: docs/The_New_Testament/15_Timothy_1/Chapter_006.md
         - file: docs/The_New_Testament/16_Timothy_2/Timothy_2.md
+          children:
+            - file: docs/The_New_Testament/16_Timothy_2/Chapter_001.md
+            - file: docs/The_New_Testament/16_Timothy_2/Chapter_002.md
+            - file: docs/The_New_Testament/16_Timothy_2/Chapter_003.md
+            - file: docs/The_New_Testament/16_Timothy_2/Chapter_004.md
         - file: docs/The_New_Testament/17_Titus/Titus.md
+          children:
+            - file: docs/The_New_Testament/17_Titus/Chapter_001.md
+            - file: docs/The_New_Testament/17_Titus/Chapter_002.md
+            - file: docs/The_New_Testament/17_Titus/Chapter_003.md
         - file: docs/The_New_Testament/18_Philemon/Philemon.md
         - file: docs/The_New_Testament/19_Hebrews/Hebrews.md
           children:
             - file: docs/The_New_Testament/19_Hebrews/Chapter_011.md
         - file: docs/The_New_Testament/20_James/James.md
+          children:
+            - file: docs/The_New_Testament/20_James/Chapter_001.md
+            - file: docs/The_New_Testament/20_James/Chapter_002.md
+            - file: docs/The_New_Testament/20_James/Chapter_003.md
+            - file: docs/The_New_Testament/20_James/Chapter_004.md
+            - file: docs/The_New_Testament/20_James/Chapter_005.md
         - file: docs/The_New_Testament/21_Peter_1/Peter_1.md
           children:
+          - file: docs/The_New_Testament/21_Peter_1/Chapter_001.md
+          - file: docs/The_New_Testament/21_Peter_1/Chapter_002.md
           - file: docs/The_New_Testament/21_Peter_1/Chapter_003.md
+          - file: docs/The_New_Testament/21_Peter_1/Chapter_004.md
+          - file: docs/The_New_Testament/21_Peter_1/Chapter_005.md
         - file: docs/The_New_Testament/22_Peter_2/Peter_2.md
+          children:
+          - file: docs/The_New_Testament/22_Peter_2/Chapter_001.md
+          - file: docs/The_New_Testament/22_Peter_2/Chapter_002.md
+          - file: docs/The_New_Testament/22_Peter_2/Chapter_003.md
         - file: docs/The_New_Testament/23_John_1/John_1.md
           children:
+            - file: docs/The_New_Testament/23_John_1/Chapter_001.md
+            - file: docs/The_New_Testament/23_John_1/Chapter_002.md
             - file: docs/The_New_Testament/23_John_1/Chapter_003.md
+            - file: docs/The_New_Testament/23_John_1/Chapter_004.md
+            - file: docs/The_New_Testament/23_John_1/Chapter_005.md
         - file: docs/The_New_Testament/24_John_2/John_2.md
         - file: docs/The_New_Testament/25_John_3/John_3.md
         - file: docs/The_New_Testament/26_Jude/Jude.md
         - file: docs/The_New_Testament/27_Revelation/Revelation.md
           children:
+            - file: docs/The_New_Testament/27_Revelation/Chapter_001.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_002.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_003.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_004.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_005.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_006.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_007.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_008.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_009.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_010.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_011.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_012.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_013.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_014.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_015.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_016.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_017.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_018.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_019.md
             - file: docs/The_New_Testament/27_Revelation/Chapter_020.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_021.md
+            - file: docs/The_New_Testament/27_Revelation/Chapter_022.md
     - title: Who's Who in the Bible
       children:
         - file: docs/Who_is_Who_in_Bible/A/A.md
