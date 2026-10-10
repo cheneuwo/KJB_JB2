@@ -13,6 +13,41 @@ name: portrait_Japheth
 ---
 Japheth was a son of {ref}`Noah<WHO_Noah>` in Old Testament, (Published by [Guillaume Rouille](https://en.wikipedia.org/wiki/Guillaume_Rouill%C3%A9) (1518?-1589), Public domain, [Image courtesy](https://commons.wikimedia.org/wiki/File:Japheth.jpg), via **Wikimedia Commons**, Accesses on October 12, 2025.)
 ```
+
+:::{div}
+:class: lineage-title
+
+The Lineage of Japheth
+:::
+
+```{mermaid}
+:label: fig:Japheth-lineage
+:class: centered-mermaid
+
+flowchart LR
+  Noah[Noah] --> Shem[Shem]
+  Noah --> Ham[Ham]
+  Noah --> Japheth[Japheth]
+  Japheth --> Gomer[Gomer]
+  Japheth --> Magog[Magog]
+  Japheth --> Madai[Ma'dai]
+  Japheth --> Javan[Javan]
+  Japheth --> Tubal[Tubal]
+  Japheth --> Meshech[Meshech]
+  Japheth --> Tiras[Tiras]
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Noah,Shem,Ham,Gomer,Magog,Madai,Javan,Tubal,Meshech,Tiras male;
+  class union1 union;
+  class Japheth focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`32<GENESIS_5_32>` and {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`2<GENESIS_10_2>`.
+
+
 In {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>` and three subsequent passage, Japheth is listed as the last of {ref}`Noah<WHO_Noah>`'s three sons. However, some scholars consider him to be the second son or -- according to his place in the table of nations ({ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`1<GENESIS_10_1>`-{ref}`32<GENESIS_10_32>`) -- even the first. Along with his two brothers, **{ref}`Shem<WHO_Shem>`** and **{ref}`Ham<WHO_Ham>`**, and their wives, Japheth and his wife escaped the [Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative) on the ark {ref}`Noah<WHO_Noah>` had built at the LORD's command. Afterward, he and {ref}`Shem<WHO_Shem>` covered their drunken father's nakedness, while {ref}`Ham<WHO_Ham>` violated tradition by looking at him. For this considerate act the two brothers received {ref}`Noah<WHO_Noah>`'s blessing, whereas the descendants of {ref}`Ham<WHO_Ham>` were cursed.
 
 Japheth had seven sons and seven grandsons and was the ancestor of many nations. Although the descendants of {ref}`Shem<WHO_Shem>` and {ref}`Ham<WHO_Ham>` are mentioned throughout the Bible, Japheth's progeny -- outside the genealogies in {ref}`Genesis<GENESIS>` and {ref}`1 Chronicles<CHRONICLES_1>` -- appear mainly in the books of {ref}`Isaiah<ISAIAH>` and {ref}`Ezekiel<EZEKIEL>`.

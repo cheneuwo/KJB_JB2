@@ -14,6 +14,49 @@ name: cameo_Noah
 Noah's family entering the ark; a 13th-century carved cameo. ([Image courtesy](https://www.britishmuseum.org/collection/image/36262001) of **&copy; The Trustees of the British Museum**. Shared under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence](https://creativecommons.org/licenses/by-nc-sa/4.0/). Accessed on August 25, 2025.)
 ```
 
+:::{div}
+:class: lineage-title
+
+The Lineage of Noah
+:::
+
+```{mermaid}
+:label: fig:Noah-lineage
+:class: centered-mermaid
+
+flowchart TB
+  Adam[Adam] --- union1(( ))
+  Eve[Eve] --- union1
+
+  union1 --> Cain[Cain]
+  union1 --> Abel[Abel]
+  union1 --> Seth[Seth]
+
+  Seth --> Enos[Enos]
+  Enos --> Cainan[Ca-i'nan]
+  Cainan --> Mahalaleel[Mahal'aleel]
+  Mahalaleel --> Jared[Jared]
+  Jared --> Enoch[Enoch]
+  Enoch --> Methuselah[Methu'selah]
+  Methuselah --> Lamech[Lamech]
+  Lamech --> Noah[Noah]
+  Noah --> Shem[Shem]
+  Noah --> Ham[Ham]
+  Noah --> Japheth[Japheth]
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Eve female;
+  class Adam,Cain,Abel,Seth,Enos,Cainan,Mahalaleel,Jared,Enoch,Methuselah,Lamech,Shem,Ham,Japheth male;
+  class union1 union;
+  class Noah focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`29<GENESIS_5_29>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`32<GENESIS_5_32>`.
+
+
 Revered along with **{ref}`Daniel<WHO_Daniel>`** and **{ref}`Job<WHO_Job>`** as one of ancient Israel's three righteous men, Noah plays two important roles in history. First, he is virtually the second father of humankind, because all of **{ref}`Adam<WHO_Adam>`**'s other descendants were destroyed in the great Flood that covered the world more than 1,600 years after creation. In that role, he acts as a link between the fragmentary accounts of humanity's first generations and the more detailed biographies of Israel's patriarchs that follow in the book of {ref}`Genesis<INTRO_GENESIS>`. Second, he is the discoverer of viniculture, or the growing of grapes, and the first person known to make wine.
 
 Born to the tenth generation to follow Adam, 126 years after his death, Noah was marked for greatness from birth. According to his fater, **{ref}`Lambech<WHO_Lamech>`**, the very name Noah implies that "out of the ground which the Lord has cursed this one shall bring us relief from our work and from the toil of our hands" ({ref}`Gen. 5:29<GENESIS_5_29>`). The next thing in the Scriptures tell us about Noah is that, after he was 500 years old, he sired three sons: **{ref}`Shem<WHO_Shem>`**, **{ref}`Ham<WHO_Ham>`**, and **{ref}`Japheth<WHO_Japheth>`**.
