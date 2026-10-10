@@ -15,10 +15,10 @@ flowchart LR
   Eber --> Peleg
   Eber --> Joktan
 
-  classDef ordinary fill:#f8f5ed,stroke:#6d5a3d,color:#222;
+  classDef person fill:#f8f5ed,stroke:#6d5a3d,color:#222;
   classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
 
-  class Noah,Shem,Arphaxad,Salah,Peleg,Joktan ordinary;
+  class Noah,Shem,Arphaxad,Salah,Peleg,Joktan person;
   class Eber focus;
 ```
 

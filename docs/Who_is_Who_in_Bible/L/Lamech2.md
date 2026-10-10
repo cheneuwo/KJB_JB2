@@ -9,6 +9,46 @@
 
 (**This** *Lamech* first appeared in {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`25<GENESIS_5_25>`, referring to the Lamech, son of {ref}`Methu'selah<WHO_Methuselah>`)
 
+:::{div}
+:class: lineage-title
+
+The Lineage of Lamech
+:::
+
+```{mermaid}
+:label: fig:lamechMethuselah-lineage
+:class: centered-mermaid
+
+flowchart TB
+  Adam[Adam] --- union1(( ))
+  Eve[Eve] --- union1
+
+  union1 --> Cain[Cain]
+  union1 --> Abel[Abel]
+  union1 --> Seth[Seth]
+
+  Seth --> Enos[Enos]
+  Enos --> Cainan[Ca-i'nan]
+  Cainan --> Mahalaleel[Mahal'aleel]
+  Mahalaleel --> Jared[Jared]
+  Jared --> Enoch[Enoch]
+  Enoch --> Methuselah[Methu'selah]
+  Methuselah --> Lamech[Lamech]
+  Lamech --> Noah[Noah]
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Eve female;
+  class Adam,Cain,Abel,Seth,Enos,Cainan,Mahalaleel,Jared,Enoch,Methuselah,Noah male;
+  class union1 union;
+  class Lamech focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`25<GENESIS_5_25>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`29<GENESIS_5_29>`.
+
+
 The biblical figure who lived before the [Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative) -- "{ref}`the generation of Adam<GENESIS_5_1>` ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`1<GENESIS_5_1>`) -- were given remarkably long lives. A descendant of {ref}`Adam<WHO_Adam>`'s son {ref}`Seth<WHO_Seth>`, Lamech was the son of {ref}`Methu'selah<WHO_Methuselah>` and the father of {ref}`Noah<WHO_Noah>`, who was born when {ref}`Lamech was 182<GENESIS_5_28>`. Of {ref}`Noah<WHO_Noah>`, Lamech said, "{ref}`Out of ground which the LORD has cursed this one shall bring us relief from our work and from the toil of our hands<GENESIS_5_29>`"  ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`29<GENESIS_5_29>`). This is a unique Old Testament reference to the lost paradise, which {ref}`Noah<WHO_Noah>` was to restore.
 
 Lamech, who subsequently {ref}`fathered other children<GENESIS_5_30>`, died at the not unusual antediluvian {ref}`age of 777<GENESIS_5_31>`.

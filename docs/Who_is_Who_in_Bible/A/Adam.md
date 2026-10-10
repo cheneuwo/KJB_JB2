@@ -16,6 +16,36 @@ name: Adam_story
 Adam's story is recapitulated in this 15th-century manuscript illumination: the creation of man and then woman from his rib (left background), the temptation by the serpent (center), the expulsion from the garden (right background). (Public domain, [Image courtesy](https://www.meisterdrucke.uk/fine-art-prints/Zanobi-di-Benedetto-Strozzi/838351/Unknown-Image.html). Accessed on August 27, 2025.)
 ```
 
+:::{div}
+:class: lineage-title
+
+The Lineage of Adam
+:::
+
+```{mermaid}
+:label: fig:adam-lineage
+:class: centered-mermaid
+
+flowchart TB
+  Adam[Adam] --- union1(( ))
+  Eve[Eve] --- union1
+
+  union1 --> Cain[Cain]
+  union1 --> Abel[Abel]
+  union1 --> Seth[Seth]
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Eve female;
+  class Cain,Abel,Seth male;
+  class union1 union;
+  class Adam focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`1<GENESIS_4_1>`,{ref}`2<GENESIS_4_2>`,{ref}`25<GENESIS_4_25>`.
+
 The book of {ref}`Genesis<GENESIS>` provides two versions of the creation of the first man, Adam. In the {ref}`first chapter<GENESIS_1>`, a male and female are created "in the image of God' ({ref}`Gen. 1:27<GENESIS_1_27>`) on the sixth day of creation. Blessed and set above all of the other animals, this pair is given a specific command: "be fruitful and multiply, and fill the earth and subdue it; and have dominion over the fish of the sea and over the birds of the air and over every living thing that moves upon the earth" ({ref}`Gen. 1:28<GENESIS_1_28>`). Furthermore, God makes clear that sufficient food has been provided for all living creatures, humans included, in the form of green plants and fruit-bearing trees. The world thus begins without the need to struggle for survival, with all of creation in perfect balance and harmony.
 
 In the second chapter of Genesis, which is apparently based on a different oral tradition, the creation of all heaven and earth was not yet complete when God scooped up some dust from the grdound (which had been watered only by a terrestrial mist), shaped a man from it, and brought him to life by breathing into his nostrils "the breath of life" ({ref}`Gen. 2:7<GENESIS_2_7>`). Perhaps the name Adam originated with the Hebrew word *adom*, meaning red, because of the color of the clay used to make him, or from *adamah*, which means earth.

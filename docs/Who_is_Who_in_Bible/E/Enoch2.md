@@ -11,6 +11,46 @@ The name *Enoch* refers to multiple biblical figures, in order of appearence:
 - {ref}`Enoch<WHO_Enoch>`, son of {ref}`Cain<WHO_Cain>`, a descendant of {ref}`Cain<WHO_Cain>`, first appeared in  {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`17<GENESIS_4_17>`, and
 -  **Enoch** in this article, son of {ref}`Jared<WHO_Jared>`, a descendant of {ref}`Seth<WHO_Seth>`, first appeared in  {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`18<GENESIS_5_18>`.
 
+
+:::{div}
+:class: lineage-title
+
+The Lineage of EnochJared
+:::
+
+```{mermaid}
+:label: fig:EnochJared-lineage
+:class: centered-mermaid
+
+flowchart TB
+  Adam[Adam] --- union1(( ))
+  Eve[Eve] --- union1
+
+  union1 --> Cain[Cain]
+  union1 --> Abel[Abel]
+  union1 --> Seth[Seth]
+
+  Seth --> Enos[Enos]
+  Enos --> Cainan[Ca-i'nan]
+  Cainan --> Mahalaleel[Mahal'aleel]
+  Mahalaleel --> Jared[Jared]
+  Jared --> Enoch[Enoch]
+  Enoch --> Methuselah[Methu'selah]
+
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Eve female;
+  class Adam,Cain,Abel,Seth,Enos,Cainan,Mahalaleel,Jared,Methuselah male;
+  class union1 union;
+  class Enoch focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`18<GENESIS_5_18>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`21<GENESIS_5_21>`.
+
+
 Enoch was a member of "{ref}`the generations of Adam<GENESIS_5_1>`" ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`1<GENESIS_5_1>`), the incredibly long-lived group that extended from **{ref}`Adam<WHO_Adam>`** to **{ref}`Noah<WHO_Noah>`**. {ref}`At age 65 Enoch became the father of<GENESIS_5_21>` **{ref}`Methu'selah<WHO_Methuselah>`**, and later he {ref}`had other sons and daughters<GENESIS_5_22>`. He "{ref}`walked with God<GENESIS_5_22>`" ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`22<GENESIS_5_22>`) -- that is, he was in close spiritual communion with the Lord. {ref}`After 365 years of this holy life<GENESIS_5_23>` (a relatively short span for these men), {ref}`Enoch was taken by God<GENESIS_5_24>`. The anonymous author of Hebrews explains: "{ref}`Enoch was taken up so that he should not see death<HEBREWS_11_5>`" ({ref}`Heb<HEBREWS>`. {ref}`11<HEBREWS_11>`:{ref}`5<HEBREWS_11_5>`) because his faith was pleasing to God.
 
 Enoch's supernatural disappearance led to the belief that he became privy to the divine secrets. These heavenly secrets were purportedly revealed in the noncanonical [books of Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch), probably compiled during the second and first centuries before **{ref}`Jesus<WHO_Jesus>`**. Familiar to both Jews and Christians, the writings predicted, amont other things, the end of the world, the last judgment, the resurrection of the just, and the establishment of the messianic kingdom.

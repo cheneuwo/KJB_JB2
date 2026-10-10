@@ -35,3 +35,16 @@
 .divine-name::first-letter {
   font-variant-caps: normal;
 }
+
+.centered-mermaid {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.lineage-title {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #6d5a3d;
+}

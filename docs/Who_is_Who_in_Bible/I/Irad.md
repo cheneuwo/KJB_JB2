@@ -5,6 +5,39 @@
 
 (The name *Irad* first appeared in  {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`18<GENESIS_4_18>`)
 
+:::{div}
+:class: lineage-title
+
+The Lineage of irad
+:::
+
+```{mermaid}
+:label: fig:irad-lineage
+:class: centered-mermaid
+
+flowchart TB
+  Adam[Adam] --- union1(( ))
+  Eve[Eve] --- union1
+
+  union1 --> Cain[Cain]
+  union1 --> Abel[Abel]
+  union1 --> Seth[Seth]
+  Cain --> Enoch[Enoch]
+  Enoch --> Irad[Irad]
+  Irad --> Mehujael[Mahu'ja-el]
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Eve female;
+  class Adam,Cain,Abel,Seth,Enoch,Mehujael male;
+  class union1 union;
+  class Irad focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`18<GENESIS_4_18>`.
+
 Irad is the son of {ref}`Enoch<WHO_Enoch>`, the grandson of {ref}`Cain<WHO_Cain>` and the father of {ref}`Mehu'ja-el<WHO_Mehujael>`.
 
 (The Wikipedia entry for Irad contained additional information from the Book of Moses, but it should not be considered as legit as the Book of Moses is part not of Holy Bible)

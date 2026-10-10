@@ -17,7 +17,7 @@ THE DESCENDANTS OF SHEM
 :::
 
 10. There *are* the generations of {ref}`Shem<WHO_Shem>`: {ref}`Shem<WHO_Shem>` *was* a hundred years old, and begat {ref}`Arphax'ad<WHO_Arphaxad>` two years after the flood:
-1. and {ref}`Shem<WHO_Shem>` lived after he begat {ref}`Arphax'ed<WHO_Arphaxed>` five hundred years, and begat sons and daughters.
+1. and {ref}`Shem<WHO_Shem>` lived after he begat {ref}`Arphax'ed<WHO_Arphaxad>` five hundred years, and begat sons and daughters.
 1. And {ref}`Arphax'ed<WHO_Arphaxad>` lived five and thirty years, and begat {ref}`Salah<WHO_Salah>`:
 1. and {ref}`Arphax'ed<WHO_Arphaxad>` lived after he begat {ref}`Salah<WHO_Salah>` four hundred and three years, and begat sons and daughters.
 1. And {ref}`Salah<WHO_Salah>` lived thirty years, and begat {ref}`Eber<WHO_Eber>`:

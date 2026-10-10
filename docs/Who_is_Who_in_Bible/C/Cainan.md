@@ -5,6 +5,43 @@
 
 Ca-i'nan was the son of {ref}`Enos<WHO_Enos>`, born when {ref}`Enos<WHO_Enos>` was {ref}`90 years old<GENESIS_5_9>`. Ca-i'nan fathered {ref}`Mahal'aleel<WHO_Mahalaleel>` when he was {ref}`70 years old <GENESIS_5_12>`. Ca-i'nan also fathered {ref}`other sons and daughters<GENESIS_5_13>`. {ref}`Ca-i'nan died at the age of 910<GENESIS_5_14>`.
 
+:::{div}
+:class: lineage-title
+
+The Lineage of Ca-i'nan
+:::
+
+```{mermaid}
+:label: fig:cainan-lineage
+:class: centered-mermaid
+
+flowchart TB
+  Adam[Adam] --- union1(( ))
+  Eve[Eve] --- union1
+
+  union1 --> Cain[Cain]
+  union1 --> Abel[Abel]
+  union1 --> Seth[Seth]
+
+  Seth --> Enos[Enos]
+  Enos --> Cainan[Ca-i'nan]
+  Cainan --> Mahalaleel[Mahal'aleel]
+
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Eve female;
+  class Adam,Cain,Abel,Seth,Enos,Mahalaleel male;
+  class union1 union;
+  class Cainan focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`9<GENESIS_5_9>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`13<GENESIS_5_13>`.
+
+
+
 Ca-i'nan, also spelled *Qenan*, *Kaynan*, *Caynam* or *Kenan* depending on the translation, is an [antediluvian](https://en.wikipedia.org/wiki/Antediluvian) patriarch first mentioned in the {ref}`Book of Genesis<GENESIS>`.
 
 He is part of the [genealogy of Jesus](https://en.wikipedia.org/wiki/Genealogy_of_Jesus) as mentioned in {ref}`Luke<LUKE>` {ref}`3<LUKE_3>`:{ref}`37<LUKE_3_37>`. 

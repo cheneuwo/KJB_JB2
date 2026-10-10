@@ -5,6 +5,39 @@
 
 (The name *Enoch* first appeared in  {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`17<GENESIS_4_17>`, referring to the Enoch, son of {ref}`Cain<WHO_Cain>`)
 
+:::{div}
+:class: lineage-title
+
+The Lineage of enoch
+:::
+
+```{mermaid}
+:label: fig:enoch-lineage
+:class: centered-mermaid
+
+flowchart TB
+  Adam[Adam] --- union1(( ))
+  Eve[Eve] --- union1
+
+  union1 --> Cain[Cain]
+  union1 --> Abel[Abel]
+  union1 --> Seth[Seth]
+  Cain --> Enoch[Enoch]
+  Enoch --> Irad[Irad]
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Eve female;
+  class Adam,Cain,Abel,Seth,Irad male;
+  class union1 union;
+  class Enoch focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`17<GENESIS_4_17>`.
+
+
 The name *Enoch* refers to multiple biblical figures, in order of appearence:
 - **Enoch** in this article, son of {ref}`Cain<WHO_Cain>`, a descendant of {ref}`Cain<WHO_Cain>`, first appeared in  {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`17<GENESIS_4_17>`, and
 - {ref}`Enoch<WHO_Enoch_son_of_Jared>`, son of {ref}`Jared<WHO_Jared>`, a descendant of {ref}`Seth<WHO_Seth>`, first appeared in {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`18<GENESIS_5_18>`.

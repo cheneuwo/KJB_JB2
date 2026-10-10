@@ -7,6 +7,37 @@
 
 (The name *Cain* first appeared in  {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`)
 
+:::{div}
+:class: lineage-title
+
+The Lineage of cain
+:::
+
+```{mermaid}
+:label: fig:Cain-lineage
+:class: centered-mermaid
+
+flowchart TB
+  Adam[Adam] --- union1(( ))
+  Eve[Eve] --- union1
+
+  union1 --> Cain[Cain]
+  union1 --> Abel[Abel]
+  union1 --> Seth[Seth]
+  Cain --> Enoch[Enoch]
+
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Eve female;
+  class Adam,Abel,Seth,Enoch male;
+  class union1 union;
+  class Cain focus;
+```
+Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`17<GENESIS_4_17>`.
+
 The firstborn son of **{ref}`Adam<WHO_Adam>`** and **{ref}`Eve<WHO_Eve>`**, Cain was a farmer and the older brother of the shepherd **{ref}`Abel<WHO_Abel>`**. When Cain offered in sacrifice the produce of the field (stintingly given, according to tradition, though the Bible does not say that), God disdained the offering, preferring {ref}`Abel<WHO_Abel>`'s sacrifice of the firstborn sheep of his flock. This enraged Cain, who summoned his brother out to a field and {ref}`killed him<GENESIS_4_8>`. Legend supplies another detail omitted from the bare biblical narrative: The murder weapon was a stone.
 
 ```{figure} ./../../../imgs/Who/C/Ivory_Cain_Abel_Louvre_AO4052.jpg
