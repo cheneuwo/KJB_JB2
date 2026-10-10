@@ -7,28 +7,28 @@ CAIN AND ABEL
 :::
 
 (GENESIS_4_1)=
-1. And {ref}`Adam<WHO_Adam>` knew {ref}`Eve<WHO_Eve>` his wife; and she conceived, and bare {ref}`Cain<WHO_Cain>`, and said, I have gotten a man from the LORD.
+1. And {ref}`Adam<WHO_Adam>` knew {ref}`Eve<WHO_Eve>` his wife; and she conceived, and bare {ref}`Cain<WHO_Cain>`, and said, I have gotten a man from the {span .divine-name}`LORD`.
 (GENESIS_4_2)=
 2. And she again bare his brother {ref}`Abel<WHO_Abel>`. And {ref}`Abel<WHO_Abel>` was a keeper of sheep, but {ref}`Cain<WHO_Cain>` was a tiller of the ground.
-1. And in process of time it come to pass, that {ref}`Cain<WHO_Cain>` brought of the fruit of the ground an offering unto the LORD.
-1. And {ref}`Abel<WHO_Abel>`, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto {ref}`Abel<WHO_Abel>` and to his offering:
+1. And in process of time it come to pass, that {ref}`Cain<WHO_Cain>` brought of the fruit of the ground an offering unto the {span .divine-name}`LORD`.
+1. And {ref}`Abel<WHO_Abel>`, he also brought of the firstlings of his flock and of the fat thereof. And the {span .divine-name}`LORD` had respect unto {ref}`Abel<WHO_Abel>` and to his offering:
 1. but unto {ref}`Cain<WHO_Cain>` and to his offering he had not respect. And {ref}`Cain<WHO_Cain>` was very wroth, and his countenance fell.
-1. And the LORD said unto {ref}`Cain<WHO_Cain>`, Why art thou wroth? and why is thy countenance fallen?
+1. And the {span .divine-name}`LORD` said unto {ref}`Cain<WHO_Cain>`, Why art thou wroth? and why is thy countenance fallen?
 1. If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door: and unto thee *shall* be his desire, and thou shalt rule over him.
 (GENESIS_4_8)=
 8. And {ref}`Cain<WHO_Cain>` talked with {ref}`Abel<WHO_Abel>` his brother: and it come to pass, when they were in the field, that {ref}`Cain<WHO_Cain>` rose up against {ref}`Abel<WHO_Abel>` his brother, and slew him.
 (GENESIS_4_9)=
-9. And the LORD said unto {ref}`Cain<WHO_Cain>`, where *is* {ref}`Abel<WHO_Abel>` thy brother? and he said, I know not: *Am* I my brother's keeper?
+9. And the {span .divine-name}`LORD` said unto {ref}`Cain<WHO_Cain>`, where *is* {ref}`Abel<WHO_Abel>` thy brother? and he said, I know not: *Am* I my brother's keeper?
 (GENESIS_4_10)=
 10. And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.
 1. And now *art* thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand.
 1. When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earlth.
 (GENESIS_4_13)=
-13. And {ref}`Cain<WHO_Cain>` said unto the LORD, My punishment *is* greater than I can bear.
+13. And {ref}`Cain<WHO_Cain>` said unto the {span .divine-name}`LORD`, My punishment *is* greater than I can bear.
 1. Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, *that* every one that findeth me shall slay me.
-1. And the LORD said unto him, Therefore whosoever slayeth {ref}`Cain<WHO_Cain>`, vengeance shall be taken on him sevenfold. And the LORD set a mark upon {ref}`Cain<WHO_Cain>`, lest any finding him should kill him.
+1. And the {span .divine-name}`LORD` said unto him, Therefore whosoever slayeth {ref}`Cain<WHO_Cain>`, vengeance shall be taken on him sevenfold. And the {span .divine-name}`LORD` set a mark upon {ref}`Cain<WHO_Cain>`, lest any finding him should kill him.
 (GENESIS_4_16)=
-16. And {ref}`Cain<WHO_Cain>` went out from the presence of the LORD, and dwelt in the [land of Nod](https://en.wikipedia.org/wiki/Land_of_Nod), on the east of Eden.
+16. And {ref}`Cain<WHO_Cain>` went out from the presence of the {span .divine-name}`LORD`, and dwelt in the [land of Nod](https://en.wikipedia.org/wiki/Land_of_Nod), on the east of Eden.
 (GENESIS_4_17)=
 17. And {ref}`Cain<WHO_Cain>` knew his wife; and she conceived, and bare {ref}`Enoch<WHO_Enoch>`: and he builded a city, and called the name of the city, after the name of his son, Enoch.
 (GENESIS_4_18)=
@@ -48,7 +48,7 @@ CAIN AND ABEL
 (GENESIS_4_25)=
 25. And {ref}`Adam<WHO_Adam>` knew his wife again; and she bare a son, and called his name {ref}`Seth<WHO_Seth>`: For God, *said she*, hath appointed me another seed instead of {ref}`Abel<WHO_Abel>`, who {ref}`Cain<WHO_Cain>` slew.
 (GENESIS_4_26)=
-26. And to {ref}`Seth<WHO_Seth>`, to him also there was born a son; and he called his name {ref}`Enos<WHO_Enos>`: then began men to call upon the name of the LORD.
+26. And to {ref}`Seth<WHO_Seth>`, to him also there was born a son; and he called his name {ref}`Enos<WHO_Enos>`: then began men to call upon the name of the {span .divine-name}`LORD`.
 
 ```{figure} ./../../../imgs/Old/01_Genesis/Chapter_004/Mesopotamia,_Periodo_proto-dinastico,_frammento_di_contenitore_in_clorite_con_procesisone_di_musici,_2700-2500_ac_ca,_da_bismaya.jpg
 ---

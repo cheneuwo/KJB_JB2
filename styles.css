@@ -26,3 +26,12 @@
   font-weight: bold;
   color: red;
 }
+
+.divine-name {
+  display: inline-block;
+  font-variant-caps: all-small-caps;
+}
+
+.divine-name::first-letter {
+  font-variant-caps: normal;
+}

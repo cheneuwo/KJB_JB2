@@ -39,7 +39,7 @@ GOD'S COVENANT WITH NOAH
 1. And {ref}`Noah<WHO_Noah>` awoke from his wine, and knew what his younger son had done unto him.
 (GENESIS_9_25)=
 25. And he said, Cursed *be* {ref}`Canaan<WHO_Canaan>`; a servant of servants shall he be unto his brethren.
-1. And he said, Blessed *be* the LORD God of {ref}`Shem<WHO_Shem>`; and {ref}`Canaan<WHO_Canaan>` shall be his servant.
+1. And he said, Blessed *be* the {span .divine-name}`LORD` God of {ref}`Shem<WHO_Shem>`; and {ref}`Canaan<WHO_Canaan>` shall be his servant.
 1. God shall enlarge {ref}`Japheth<WHO_Japheth>`, and he shall dwell in the tents of {ref}`Shem<WHO_Shem>`; and {ref}`Canaan<WHO_Canaan>` shall be his servant.
 1. And {ref}`Noah<WHO_Noah>` lived after the flood three hundred and fifty years.
 1. And all the days of {ref}`Noah<WHO_Noah>` were nine hundred and fifty years: and he died.

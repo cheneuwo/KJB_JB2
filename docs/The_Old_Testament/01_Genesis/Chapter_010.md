@@ -23,7 +23,7 @@ THE DESCENDENTS OF THE SONS OF NOAH
 (GENESIS_10_8)=
 8. And {ref}`Cush<WHO_Cush>` begat {ref}`Nimrod<WHO_Nimrod>`: he began to be a mighty one in the earth.
 (GENESIS_10_9)=
-9. He was a mighty hunter before the LORD: wherefore it is said, Even as {ref}`Nimrod<WHO_Nimrod>` the mighty hunter before the LORD.
+9. He was a mighty hunter before the {span .divine-name}`LORD`: wherefore it is said, Even as {ref}`Nimrod<WHO_Nimrod>` the mighty hunter before the {span .divine-name}`LORD`.
 1. And the beginning of his kingdom was [Babel](https://en.wikipedia.org/wiki/Babylon), and [Erech](https://en.wikipedia.org/wiki/Uruk), and [Accad](https://en.wikipedia.org/wiki/Akkad_(city)), and [Calneh](https://en.wikipedia.org/wiki/Calneh), in the [land of Shinar](https://en.wikipedia.org/wiki/Shinar).
 (GENESIS_10_11)=
 11. Out of that land went forth {ref}`Asshur<WHO_Asshur>`, and builded [Nin'eveh](https://en.wikipedia.org/wiki/Nineveh), and the city [Reho'both](https://en.wikipedia.org/wiki/Rehoboth_(Bible)), and [Calah](https://en.wikipedia.org/wiki/Nimrud).

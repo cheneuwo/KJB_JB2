@@ -59,7 +59,7 @@
 (GENESIS_5_28)=
 28. And {ref}`Lamech<WHO_Lamech_son_of_Methuselah>` lived an hundred eighty and two years, and begat a son:
 (GENESIS_5_29)=
-29. and he called his name {ref}`Noah<Who_Noah>`, saying, This *same* shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.
+29. and he called his name {ref}`Noah<Who_Noah>`, saying, This *same* shall comfort us concerning our work and toil of our hands, because of the ground which the {span .divine-name}`LORD` hath cursed.
 (GENESIS_5_30)=
 30. And {ref}`Lamech<WHO_Lamech_son_of_Methuselah>` lived after he begat {ref}`Noah<WHO_Noah>` five hundred ninety and five years, and begat sons and daughters:
 (GENESIS_5_31)=

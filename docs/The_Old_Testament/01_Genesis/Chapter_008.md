@@ -25,8 +25,8 @@
 1. Bring forth with thee every living thing that *is* with thee, of all flesh, *both* of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.
 1. And {ref}`Noah<WHO_Noah>` went forth, and his sons, and his wife, and his sons' wives with him:
 1. Every beast, every creeping thing, and every fowl, *and* whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.
-1. And {ref}`Noah<WHO_Noah>` builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
-1. And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart *is* evil from his youth; neither will I again smite any more every thing living, as I have done.
+1. And {ref}`Noah<WHO_Noah>` builded an altar unto the {span .divine-name}`LORD`; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
+1. And the {span .divine-name}`LORD` smelled a sweet savour; and the {span .divine-name}`LORD` said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart *is* evil from his youth; neither will I again smite any more every thing living, as I have done.
 1. While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
 
 ```{figure} ./../../../imgs/Old/01_Genesis/Chapter_008/Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_05.jpg
