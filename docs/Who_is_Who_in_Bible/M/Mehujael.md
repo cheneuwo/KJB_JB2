@@ -24,7 +24,7 @@ flowchart TB
   union1 --> Seth[Seth]
   Cain --> Enoch[Enoch]
   Enoch --> Irad[Irad]
-  Irad --> Mehujael[Mahu'ja-el]
+  Irad --> Mehujael[Mehu'ja-el]
   Mehujael --> Methusael[Methu'sa-el]
 
   click Adam href "../adam" "about Adam" _self
