@@ -12,7 +12,7 @@ In {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`18<GENESIS_4_18>`, Lamech i
 :::{div}
 :class: lineage-title
 
-The Lineage of Lamech
+The Genealogy of Lamech
 :::
 
 ```{mermaid}

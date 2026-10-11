@@ -10,7 +10,7 @@
 :::{div}
 :class: lineage-title
 
-The Lineage of abel
+The Genealogy of abel
 :::
 
 ```{mermaid}

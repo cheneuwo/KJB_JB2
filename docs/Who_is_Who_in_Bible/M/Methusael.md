@@ -8,7 +8,7 @@ HEBREW: Məṯūšāʾēl
 :::{div}
 :class: lineage-title
 
-The Lineage of Methusael
+The Genealogy of Methusael
 :::
 
 ```{mermaid}

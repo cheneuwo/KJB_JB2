@@ -8,7 +8,7 @@
 :::{div}
 :class: lineage-title
 
-The Lineage of enoch
+The Genealogy of enoch
 :::
 
 ```{mermaid}

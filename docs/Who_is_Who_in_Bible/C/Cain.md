@@ -10,7 +10,7 @@
 :::{div}
 :class: lineage-title
 
-The Lineage of cain
+The Genealogy of cain
 :::
 
 ```{mermaid}

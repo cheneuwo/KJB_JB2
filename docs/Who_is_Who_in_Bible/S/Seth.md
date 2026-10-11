@@ -8,7 +8,7 @@ HEBREW: SHET
 :::{div}
 :class: lineage-title
 
-The Lineage of Seth
+The Genealogy of Seth
 :::
 
 ```{mermaid}

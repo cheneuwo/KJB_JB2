@@ -8,7 +8,7 @@
 :::{div}
 :class: lineage-title
 
-The Lineage of irad
+The Genealogy of irad
 :::
 
 ```{mermaid}
@@ -32,7 +32,7 @@ flowchart TB
   click Abel href "../abel" "about Abel" _self
   click Seth href "../seth" "about Seth" _self
   click Enoch href "../enoch" "about Enoch" _self
-  click Mehujael href "../mehujael" "about Mahu'ja-el" _self
+  click Mehujael href "../mehujael" "about Mehu'ja-el" _self
   
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;

@@ -8,7 +8,7 @@ HEBREW: Məḥūyāʾēl
 :::{div}
 :class: lineage-title
 
-The Lineage of mehu'ja-el
+The Genealogy of mehu'ja-el
 :::
 
 ```{mermaid}
