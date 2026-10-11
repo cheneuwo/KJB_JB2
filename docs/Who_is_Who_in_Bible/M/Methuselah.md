@@ -12,7 +12,7 @@ Methu'selah is a biblical [patriarch](https://en.wikipedia.org/wiki/Patriarchs_(
 :::{div}
 :class: lineage-title
 
-The Lineage of Methu'selah
+The Genealogy of Methu'selah
 :::
 
 ```{mermaid}
@@ -34,6 +34,18 @@ flowchart TB
   Jared --> Enoch[Enoch]
   Enoch --> Methuselah[Methu'selah]
   Methuselah --> Lamech[Lamech]
+
+  click Adam href "../adam" "about Adam" _self
+  click Eve href "../eve" "about Eve" _self
+  click Cain href "../cain" "about Cain" _self
+  click Abel href "../abel" "about Abel" _self
+  click Seth href "../seth" "about Seth" _self
+  click Enos href "../enos" "about Enos" _self
+  click Cainan href "../cainan" "about Ca-i'nan" _self
+  click Mahalaleel href "../Mahalaleel" "about Mahal'aleel" _self
+  click Jared href "../jared" "about Jared" _self
+  click Enoch href "../enoch" "about Enoch" _self
+  click Lamech href "../lamech2" "about Lamech" _self
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
