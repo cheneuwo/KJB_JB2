@@ -44,7 +44,7 @@ flowchart TB
   click Cainan href "../cainan" "about Ca-i'nan" _self
   click Mahalaleel href "../Mahalaleel" "about Mahal'aleel" _self
   click Jared href "../jared" "about Jared" _self
-  click Enoch href "../enoch" "about Enoch" _self
+  click Enoch href "../enoch2" "about Enoch" _self
   click Lamech href "../lamech2" "about Lamech" _self
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
