@@ -8,7 +8,7 @@ Ca-i'nan was the son of {ref}`Enos<WHO_Enos>`, born when {ref}`Enos<WHO_Enos>` w
 :::{div}
 :class: lineage-title
 
-The Lineage of Ca-i'nan
+The Genealogy of Ca-i'nan
 :::
 
 ```{mermaid}
@@ -26,7 +26,14 @@ flowchart TB
   Seth --> Enos[Enos]
   Enos --> Cainan[Ca-i'nan]
   Cainan --> Mahalaleel[Mahal'aleel]
-
+  
+  click Adam href "../adam" "about Adam" _self
+  click Eve href "../eve" "about Eve" _self
+  click Cain href "../cain" "about Cain" _self
+  click Abel href "../abel" "about Abel" _self
+  click Seth href "../seth" "about Seth" _self
+  click Enos href "../enos" "about Enos" _self
+  click Mahalaleel href "../mahalaleel" "about Maha'aleel" _self
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
