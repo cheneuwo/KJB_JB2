@@ -3,6 +3,7 @@
 
 (The name *Tarshish* first appeared in  {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`4<GENESIS_10_4>`, referring to the Tarshish, son of {ref}`Javan<WHO_Javan>`, grandson of {ref}`Japheth<WHO_Japheth>`.)
 
+Tarshish is one of the four named sons of {ref}`Javan<WHO_Javan>`, a son of {ref}`Japheth<WHO_Japheth>` and a grandson of {ref}`Noah<WHO_Noah>`. Scripture does not name any descendants of Tarshish.
 
 :::{div}
 :class: lineage-title

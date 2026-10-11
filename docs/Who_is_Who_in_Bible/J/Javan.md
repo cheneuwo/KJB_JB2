@@ -3,7 +3,7 @@
 
 (The name *Javan* first appeared in  {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`2<GENESIS_10_2>`, referring to the Javan, son of {ref}`Japheth<WHO_Japheth>`)
 
-Javan was the fourth son of {ref}`Japheth<WHO_Japheth>` and a grandson of {ref}`Noah<WHO_Noah>`. The traditional belief is that Javan was the ancestor of the Greeks. According to {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`4<GENESIS_10_4>`, he has four named sons, {ref}`Eli'shah<WHO_Elishah>`, {ref}`Tarshish<WHO_Tarshish>`, {ref}`Kittim<WHO_Kittim>`, and {ref}Do'danim<WHO_Dodanim>`.
+Javan was the fourth son of {ref}`Japheth<WHO_Japheth>` and a grandson of {ref}`Noah<WHO_Noah>`. The traditional belief is that Javan was the ancestor of the Greeks. According to {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`4<GENESIS_10_4>`, he has four named sons, {ref}`Eli'shah<WHO_Elishah>`, {ref}`Tarshish<WHO_Tarshish>`, {ref}`Kittim<WHO_Kittim>`, and {ref}`Do'danim<WHO_Dodanim>`.
 
 
 :::{div}
