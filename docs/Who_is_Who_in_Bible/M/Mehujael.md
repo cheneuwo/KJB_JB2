@@ -27,6 +27,15 @@ flowchart TB
   Irad --> Mehujael[Mahu'ja-el]
   Mehujael --> Methusael[Methu'sa-el]
 
+  click Adam href "../adam" "about Adam" _self
+  click Eve href "../eve" "about Eve" _self
+  click Cain href "../cain" "about Cain" _self
+  click Abel href "../abel" "about Abel" _self
+  click Seth href "../seth" "about Seth" _self
+  click Enoch href "../enoch" "about Enoch" _self
+  click Irad href "../irad" "about Irad" _self
+  click Methusael href "../methusael" "about Methu'sa-el" _self
+
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
   classDef union fill:none,stroke:none;
