@@ -68,5 +68,6 @@ flowchart TB
   class union1,unionAdah,unionZillah union;
   class Adah focus;
 ```
+Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`19<GENESIS_4_19>`--{ref}`22<GENESIS_4_22>`.
 
 **[Source](https://en.wikipedia.org/wiki/List_of_minor_Hebrew_Bible_figures,_A%E2%80%93K#Adah)**, Accessed August, 31, 2025.
