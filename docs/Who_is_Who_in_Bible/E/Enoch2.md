@@ -15,7 +15,7 @@ The name *Enoch* refers to multiple biblical figures, in order of appearence:
 :::{div}
 :class: lineage-title
 
-The Lineage of EnochJared
+The Genealogy of EnochJared
 :::
 
 ```{mermaid}
@@ -37,6 +37,16 @@ flowchart TB
   Jared --> Enoch[Enoch]
   Enoch --> Methuselah[Methu'selah]
 
+  click Adam href "../adam" "about Adam" _self
+  click Eve href "../eve" "about Eve" _self
+  click Cain href "../cain" "about Cain" _self
+  click Abel href "../abel" "about Abel" _self
+  click Seth href "../seth" "about Seth" _self
+  click Enos href "../enos" "about Enos" _self
+  click Cainan href "../cainan" "about Ca-i'nan" _self
+  click Mahalaleel href "../Mahalaleel" "about Mahal'aleel" _self
+  click Jared href "../jared" "about Jared" _self
+  click Mathuselah href "../mathuselah" "about Methu'selah" _self
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
