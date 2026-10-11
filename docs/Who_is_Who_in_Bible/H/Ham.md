@@ -33,6 +33,8 @@ flowchart LR
   Ham --> Phut[Phut]
   Ham --> Canaan[Canaan]
 
+  click Noah href "../noah" "about Noah" _self
+
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
   classDef union fill:none,stroke:none;

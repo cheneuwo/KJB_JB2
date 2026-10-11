@@ -19,7 +19,7 @@ Adam's story is recapitulated in this 15th-century manuscript illumination: the 
 :::{div}
 :class: lineage-title
 
-The Lineage of Adam
+The Genealogy of Adam
 :::
 
 ```{mermaid}
@@ -33,6 +33,12 @@ flowchart TB
   union1 --> Cain[Cain]
   union1 --> Abel[Abel]
   union1 --> Seth[Seth]
+  
+  click Eve href "../eve" "about Eve" _self
+  click Cain href "../cain" "about Cain" _self
+  click Abel href "../abel" "about Abel" _self
+  click Seth href "../seth" "about Seth" _self
+
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
