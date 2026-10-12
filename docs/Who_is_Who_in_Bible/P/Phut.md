@@ -30,7 +30,7 @@ flowchart LR
   click Japheth "../japheth" "about Japheth" _self
   
   click Cush href "../cush" "about Cush" _self
-  click Mizraim href "../mizraim" "about Mizraim" _self
+  click Mizraim href "../mizraim" "about Miz'ra-im" _self
   click Canaan href "../Canaan" "about Canaan" _self
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;

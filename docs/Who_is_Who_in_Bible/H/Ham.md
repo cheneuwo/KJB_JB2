@@ -29,7 +29,7 @@ flowchart LR
   Noah --> Ham[Ham]
   Noah --> Japheth[Japheth]
   Ham --> Cush[Cush]
-  Ham --> Mizraim[Miz'raim]
+  Ham --> Mizraim[Miz'ra-im]
   Ham --> Phut[Phut]
   Ham --> Canaan[Canaan]
 

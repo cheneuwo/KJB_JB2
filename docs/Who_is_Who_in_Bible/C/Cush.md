@@ -36,7 +36,7 @@ flowchart LR
   click Ham href "../ham" "about Ham" _self
   click Japheth "../japheth" "about Japheth" _self
   
-  click Mizraim href "../mizraim" "about Mizraim" _self
+  click Mizraim href "../mizraim" "about Miz'ra-im" _self
   click Phut href "../phut" "about Phut" _self
   click Canaan href "../Canaan" "about Canaan" _self
 
