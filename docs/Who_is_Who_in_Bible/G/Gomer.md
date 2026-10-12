@@ -6,7 +6,7 @@
 :::{div}
 :class: lineage-title
 
-The Lineage of Gomer
+The Genealogy of Gomer
 :::
 
 ```{mermaid}

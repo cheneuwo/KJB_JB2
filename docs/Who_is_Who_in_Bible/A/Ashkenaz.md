@@ -7,7 +7,7 @@
 :::{div}
 :class: lineage-title
 
-The Lineage of Ash'kenaz
+The Genealogy of Ash'kenaz
 :::
 
 ```{mermaid}
