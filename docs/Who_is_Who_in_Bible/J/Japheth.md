@@ -38,7 +38,7 @@ flowchart LR
   
   click Noah href "../noah" "about Noah" _self
   click Shem href "../shem" "about Shem" _self
-  click Ham href "../ham" "about Ham" _self  
+  click Ham href "../ham" "about Ham" _self
   click Gomer href "../gomer" "about Gomer" _self
   click Magog href "../magog" "about Magog" _self
   click Madai href "../madai" "about Ma'dai" _self
