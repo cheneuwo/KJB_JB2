@@ -45,13 +45,25 @@ flowchart LR
   click Cush href "../cush" "about Cush" _self
   click Mizraim href "../mizraim" "about Miz'ra-im" _self
   click Phut href "../phut" "about Phut" _self
+  
+  click Sidon href "../sidon" "about Sidon" _self
+  click Heth href "../heth" "about Heth" _self
+  click Jebusite href "../jebusite" "about Jeb'usite" _self
+  click Amorite href "../amorite" "about Amorite" _self
+  click Girgashite href "../girgashite" "about Gir'gashite" _self
+  click Hivite href "../hivite" "about Hivite" _self
+  click Arkite href "../arkite" "about Arkite" _self
+  click Sinite href "../sinite" "about Sinite" _self
+  click Arvadite href "../arvadiate" "about Ar'vadite" _self
+  click Zemarite href "../zemarite" "about Zem'arite" _self
+  click Hamathite href "../hamathite" "about Ha'mathite" _self
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
   classDef union fill:none,stroke:none;
   classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
 
-  class Noah,Shem,Ham,Japheth,Cush,Mizraim,Phut male;
+  class Noah,Shem,Ham,Japheth,Cush,Mizraim,Phut,Sidon,Heth,Jebusite,Amorite,Girgashite,Hivite,Arkite,Sinite,Arvadite,Zemarite,Hamathite male;
   class union1 union;
   class Canaan focus;
 ```
