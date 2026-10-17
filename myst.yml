@@ -667,6 +667,7 @@ project:
         - file: docs/Who_is_Who_in_Bible/Y/Y.md
         - file: docs/Who_is_Who_in_Bible/Z/Z.md
           children:
+            - file: docs/Who_is_Who_in_Bible/Z/Zemarite.md
             - file: docs/Who_is_Who_in_Bible/Z/Zillah.md
 site:
   template: book-theme

@@ -54,7 +54,7 @@ flowchart LR
   click Hivite href "../hivite" "about Hivite" _self
   click Arkite href "../arkite" "about Arkite" _self
   click Sinite href "../sinite" "about Sinite" _self
-  click Arvadite href "../arvadiate" "about Ar'vadite" _self
+  click Arvadite href "../arvadite" "about Ar'vadite" _self
   click Zemarite href "../zemarite" "about Zem'arite" _self
   click Hamathite href "../hamathite" "about Ha'mathite" _self
 
