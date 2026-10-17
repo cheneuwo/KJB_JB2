@@ -56,7 +56,7 @@ flowchart LR
   class union1 union;
   class Seba focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`6<GENESIS_10_6>`, {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`7<GENESIS_10_7>`, and {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`8<GENESIS_10_8>`
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`6<GENESIS_10_6>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`7<GENESIS_10_7>`, and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`8<GENESIS_10_8>`
 
 
  {ref}`Psalm<Psalms>` {ref}`72<Psalms_72>`:{ref}`10<Psalms_72_10>` and {ref}`Isaiah<ISAIAH>` {ref}`43<ISAIAH_43>`:{ref}`3<ISAIAH_43_3>` both imply that Seba was a wealthy kingdom. The land of Seba is usually located in South Arabia or the Horn of Africa. On balance, the biblical evidence points to an African location. Both passages in <ref>`Isaiah<ISAIAH>` associate it with Egypt and {ref}`Cush<WHO_Cush>`.

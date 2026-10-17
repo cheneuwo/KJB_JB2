@@ -45,11 +45,11 @@ flowchart LR
   click Seba href "../seba" "about Seba" _self
   click Havilah href "../havilah" "about Hav'ilah" _self
   click Sabtah href "../sabtah" "about Sabtah" _self
+  click Raamah href "../raamah" "about Ra'amah" _self
   click Sabtecha href "../sabtecha" "about Sab'techa" _self
   click Nimrod href "../nimrod" "about Nimrod" _self
 
   click Sheba href "../sheba" "about Sheba" _self
-  click Dedan href "../dedan" "about Dedan" _self
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
@@ -60,4 +60,4 @@ flowchart LR
   class union1 union;
   class Dedan focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`6<GENESIS_10_6>`, {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`7<GENESIS_10_7>`, and {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`8<GENESIS_10_8>`
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`6<GENESIS_10_6>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`7<GENESIS_10_7>`, and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`8<GENESIS_10_8>`

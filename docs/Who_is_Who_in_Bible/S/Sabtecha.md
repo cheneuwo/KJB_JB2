@@ -54,4 +54,4 @@ flowchart LR
   class union1 union;
   class Sabtecha focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`6<GENESIS_10_6>`, {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`7<GENESIS_10_7>`, and {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`8<GENESIS_10_8>`
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`6<GENESIS_10_6>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`7<GENESIS_10_7>`, and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`8<GENESIS_10_8>`

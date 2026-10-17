@@ -51,4 +51,4 @@ flowchart LR
   class union1 union;
   class Riphath focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`3<GENESIS_10_3>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`3<GENESIS_10_3>`.
