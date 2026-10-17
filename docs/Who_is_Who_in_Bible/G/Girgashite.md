@@ -1,7 +1,7 @@
 (WHO_Girgashite)=
 # Gir'gashite
 
-(The name *Gir'gashite* first appeared in  {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`16<GENESIS_10_16>`, referring to the Girgashite, son of {ref}`Canaan<WHO_Canaan>`, grandson of {ref}`Noah<WHO_Noah>`.)
+(The name *Gir'gashite* first appeared in  {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`16<GENESIS_10_16>`, referring to the Gir'gashite, son of {ref}`Canaan<WHO_Canaan>`, grandson of {ref}`Noah<WHO_Noah>`.)
 
 :::{div}
 :class: lineage-title
