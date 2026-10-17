@@ -63,7 +63,7 @@ flowchart TB
   class union1,unionAdah,unionZillah union;
   class Naamah focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`19<GENESIS_4_19>`--{ref}`22<GENESIS_4_22>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`--{ref}`22<GENESIS_4_22>`, and {ref}`25<GENESIS_4_25>`.
 
 Na'amah is a descendant of {ref}`Cain<WHO_Cain>`, the only mentioned daughter of {ref}`Lamech<WHO_Lamech>` and {ref}`Zillah<WHO_Zillah>` and their youngest mentioned child. Her brother was {ref}`Tubal-cain<WHO_Tubalcain>`, while {ref}`Jabal<WHO_Jabal>` and {ref}`Jubal<WHO_Jubal>` were her half-brothers, sons of {ref}`Lamech<WHO_Lamech>`'s other wife {ref}`Adah<WHO_Adah>`. 
 

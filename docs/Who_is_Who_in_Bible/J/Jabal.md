@@ -63,7 +63,7 @@ flowchart TB
   class union1,unionAdah,unionZillah union;
   class Jabal focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`19<GENESIS_4_19>`--{ref}`22<GENESIS_4_22>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`--{ref}`22<GENESIS_4_22>`, and {ref}`25<GENESIS_4_25>`.
 
 
 Jabal, a descedant of {ref}`Cain<WHO_Cain>`, was the son of {ref}`Lamech<WHO_Lamech>` and {ref}`Adah<WHO_Adah>`, and the brother of {ref}`Jubal<WHO_Jubal>`, half-brother of {ref}`Tu'bal-cain<WHO_Tubalcain>` and {ref}`Na'amah<WHO_Naamah>`. He is described as the "{ref}`ancestor of all who live in tents and raise livestock<GENESIS_4_20>`." ({ref}`Gen.<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`20<GENESIS_4_20>`)

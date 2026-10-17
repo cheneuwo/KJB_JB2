@@ -44,7 +44,7 @@ flowchart TB
   class union1 union;
   class Irad focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`18<GENESIS_4_18>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`, {ref}`18<GENESIS_4_18>`,and {ref}`25<GENESIS_4_25>`.
 
 Irad is the son of {ref}`Enoch<WHO_Enoch>`, the grandson of {ref}`Cain<WHO_Cain>` and the father of {ref}`Mehu'ja-el<WHO_Mehujael>`.
 

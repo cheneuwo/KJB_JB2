@@ -40,7 +40,7 @@ flowchart TB
   class union1 union;
   class Abel focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`17<GENESIS_4_17>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>` and {ref}`25<GENESIS_4_25>`.
 
 
 The second son of **{ref}`Adam<WHO_Adam>`** and **{ref}`Eve<WHO_Eve>`** bore a name that matched his shortened life. Unlike his father and elder brother, **{ref}`Cain<WHO_Cain>`**, who were farmers, Abel became "{ref}`a keeper of sheep<GENESIS_4_2>`" ({ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`2<GENESIS_4_2>`). In time, the brothers brought offerings to God, {ref}`Cain<WHO_Cain>`'s being some of his crops and Abel's being the fat portions of the first born lambs, in ancient time considered the very best kind of sacrifice. Somehow it became clear to the brothers that God had accepted Abel's offering but not {ref}`Cain<WHO_Cain>`'s. {ref}`Cain<WHO_Cain>` was enraged and, luring his brother into the fields, {ref}`he struck and killed him<GENESIS_4_8>`. Thus, Abel, the first to offer an animal sacrifice, also became the first victim of violence in a religious controversy.

@@ -50,7 +50,7 @@ flowchart TB
   class union1 union;
   class Adam focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`1<GENESIS_4_1>`,{ref}`2<GENESIS_4_2>`,{ref}`25<GENESIS_4_25>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, and {ref}`25<GENESIS_4_25>`.
 
 The book of {ref}`Genesis<GENESIS>` provides two versions of the creation of the first man, Adam. In the {ref}`first chapter<GENESIS_1>`, a male and female are created "in the image of God' ({ref}`Gen. 1:27<GENESIS_1_27>`) on the sixth day of creation. Blessed and set above all of the other animals, this pair is given a specific command: "be fruitful and multiply, and fill the earth and subdue it; and have dominion over the fish of the sea and over the birds of the air and over every living thing that moves upon the earth" ({ref}`Gen. 1:28<GENESIS_1_28>`). Furthermore, God makes clear that sufficient food has been provided for all living creatures, humans included, in the form of green plants and fruit-bearing trees. The world thus begins without the need to struggle for survival, with all of creation in perfect balance and harmony.
 

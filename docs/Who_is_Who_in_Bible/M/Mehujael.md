@@ -46,7 +46,7 @@ flowchart TB
   class union1 union;
   class Mehujael focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`18<GENESIS_4_18>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`, {ref}`18<GENESIS_4_18>`,and {ref}`25<GENESIS_4_25>`.
 
 In {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`18<GENESIS_4_18>`, Mehu'ja-el is a descendant of {ref}`Cain<WHO_Cain>`, the son of {ref}`Irad<WHO_Irad>` and the father of {ref}`Methu'sa-el<WHO_Methusael>`. The name means "[El (or) the god enlivens](https://books.google.ca/books?id=2jNoqNRDYDUC&pg=PA144&redir_esc=y#v=onepage&q&f=false)."
 

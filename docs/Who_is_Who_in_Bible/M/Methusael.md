@@ -48,7 +48,7 @@ flowchart TB
   class union1 union;
   class Methusael focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`18<GENESIS_4_18>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`, {ref}`18<GENESIS_4_18>`,and {ref}`25<GENESIS_4_25>`.
 
 In {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`18<GENESIS_4_18>`, Methu'sa-el is a descendant of {ref}`Cain<WHO_Cain>`, the son of {ref}`Mehu'ja-el<WHO_Mehujael>` and the father of {ref}`Lamech<WHO_Lamech>`.
 

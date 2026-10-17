@@ -42,7 +42,8 @@ flowchart TB
   class union1 union;
   class Cain focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`17<GENESIS_4_17>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`, and {ref}`25<GENESIS_4_25>`.
+
 
 The firstborn son of **{ref}`Adam<WHO_Adam>`** and **{ref}`Eve<WHO_Eve>`**, Cain was a farmer and the older brother of the shepherd **{ref}`Abel<WHO_Abel>`**. When Cain offered in sacrifice the produce of the field (stintingly given, according to tradition, though the Bible does not say that), God disdained the offering, preferring {ref}`Abel<WHO_Abel>`'s sacrifice of the firstborn sheep of his flock. This enraged Cain, who summoned his brother out to a field and {ref}`killed him<GENESIS_4_8>`. Legend supplies another detail omitted from the bare biblical narrative: The murder weapon was a stone.
 

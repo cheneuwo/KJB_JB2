@@ -65,8 +65,7 @@ flowchart TB
   class union1,unionAdah,unionZillah union;
   class Jubal focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`19<GENESIS_4_19>`--{ref}`22<GENESIS_4_22>`.
-
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`--{ref}`22<GENESIS_4_22>`, and {ref}`25<GENESIS_4_25>`.
 
 
 Jubal, also Yuval, Yubal or Tubal, is a biblical figure first mentioned in {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`21<GENESIS_4_21>` of the Old Testament. Mentioned **only once**, he is sometimes regarded by Christians, particularly by medieval commentators, as the *inventor of music*. 

@@ -40,7 +40,7 @@ flowchart TB
   class union1 union;
   class Eve focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`1<GENESIS_4_1>`,{ref}`2<GENESIS_4_2>`,{ref}`25<GENESIS_4_25>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, and {ref}`25<GENESIS_4_25>`.
 
 As the first woman and wife of {ref}`Adam<WHO_Adam>`, Eve plays a leading role in the drama of the early chapter of {ref}`Genesis<GENESIS>`. The name Eve is actually the third designation given to the first woman. In {ref}`Genesis<GENESIS>` {ref}`1<GENESIS_1>` and {ref}`5<GENESIS_5>`, God created male and female together and in the latter chapter call them by the single Hebrew word *adam*, meaning human bring: "{ref}`Male and female he created them, and he blessed them and named them Man [adam]<GENESIS_5_2>`" ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`2<GENESIS_5_2>`). In {ref}`Genesis<GENESIS>` {ref}`2<GENESIS_2>`:{ref}`23<GENESIS_2_23>`, however, the female receives a separate designation: "{ref}`She shall be called Woman [ishshah], because she was taken out of Man [ish].<GENESIS_2_23>`" Her third name, Eve, is given by her husband as the couple is about to leave the garden of Eden and is a play on the Hebrew verb *[hayya](https://www.blueletterbible.org/lexicon/h1961/kjv/wlc/0-1/)*, meaning to live. The woman will bear her husband's children and thus be "{ref}`the mother of all living<GENESIS_3_20>`" ({ref}`Genesis<GENESIS>` {ref}`3<GENESIS_3>`:{ref}`20<GENESIS_3_20>`). In the same context, the word *adam* begins to be used as the proper name for the first man.
 

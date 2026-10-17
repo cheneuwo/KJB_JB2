@@ -42,8 +42,7 @@ flowchart TB
   class union1 union;
   class Enoch focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`17<GENESIS_4_17>`.
-
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`, {ref}`18<GENESIS_4_18>`,and {ref}`25<GENESIS_4_25>`.
 
 The name *Enoch* refers to multiple biblical figures, in order of appearence:
 - **Enoch** in this article, son of {ref}`Cain<WHO_Cain>`, a descendant of {ref}`Cain<WHO_Cain>`, first appeared in  {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`17<GENESIS_4_17>`, and

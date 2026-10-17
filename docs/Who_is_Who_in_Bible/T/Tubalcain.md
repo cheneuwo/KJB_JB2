@@ -65,9 +65,7 @@ flowchart TB
   class union1,unionAdah,unionZillah union;
   class Tubalcain focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`19<GENESIS_4_19>`--{ref}`22<GENESIS_4_22>`.
-
-
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`17<GENESIS_4_17>`--{ref}`22<GENESIS_4_22>`, and {ref}`25<GENESIS_4_25>`.
 
 Tubal-cain is first mentioned in the Bible, in {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`22<GENESIS_4_22>`, named therein as the first [blacksmith](https://en.wikipedia.org/wiki/Blacksmith). He is stated as the *an instructor of every artificer in brass and iron*.
 

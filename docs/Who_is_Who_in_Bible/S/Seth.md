@@ -40,8 +40,7 @@ flowchart TB
   class union1 union;
   class Seth focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`25<GENESIS_4_25>`--{ref}`26<GENESIS_4_26>`.
-
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`25<GENESIS_4_25>`--{ref}`26<GENESIS_4_26>`.
 
 Seth was the son of {ref}`Adam<WHO_Adam>` and {ref}`Eve<WHO_Eve>`, born when {ref}`Adam<WHO_Adam>` was {ref}`130 years old<GENESIS_5_3>`. Seth fathered {ref}`Enos<WHO_Enos>` when he was {ref}`105 years old<GENESIS_5_6>`. Seth also fathered {ref}`other sons and daughters<GENESIS_5_7>`. {ref}`Seth died at the age of 912<GENESIS_5_8>`.
 
