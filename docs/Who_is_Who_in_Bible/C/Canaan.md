@@ -67,7 +67,7 @@ flowchart LR
   class union1 union;
   class Canaan focus;
 ```
-Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`6<GENESIS_10_6>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`15<GENESIS_10_15>`:{ref}`18<GENESIS_10_18>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`6<GENESIS_10_6>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`15<GENESIS_10_15>`-{ref}`18<GENESIS_10_18>`.
 
 The son of {ref}`Ham<WHO_Ham>` and grandson of {ref}`Noah<WHO_Noah>`, Canaan was the ancestor of the [Canaanites](https://en.wikipedia.org/wiki/Canaan), a loose grouping of peoples who proved troublesome to the [Israelites](https://en.wikipedia.org/wiki/Israelites) during the period of settlement in the [Promised Land](https://en.wikipedia.org/wiki/Promised_Land). It was {ref}`Ham<WHO_Ham>` who "{ref}`saw the nakedness<GENESIS_9_22>`" of the drunken {ref}`Noah<WHO_Noah>`, but Canaan who received the curse: "{ref}`a slave of slaves shall he be to his brothers<GENESIS_9_25>`" ({ref}`Gen.<GENESIS>` {ref}`9<GENESIS_9>`:{ref}`22<GENESIS_9_22>`, {ref}`25<GENESIS_9_25>`).
 
