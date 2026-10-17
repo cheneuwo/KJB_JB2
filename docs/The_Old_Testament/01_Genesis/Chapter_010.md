@@ -34,8 +34,10 @@ THE DESCENDENTS OF THE SONS OF NOAH
 14. and {ref}`Path'rusim<WHO_Pathrusim>`, and {ref}`Cas'luhim<WHO_Casluhim>`, (out of whom came {ref}`Philistim<WHO_Philistim>`,) and {ref}`Caph'torim<WHO_Caphtorim>`.
 (GENESIS_10_15)=
 15. And {ref}`Canaan<WHO_Canaan>` begat {ref}`Sidon<WHO_Sidon>` his firstborn, and {ref}`Heth<WHO_Heth>`,
+(GENESIS_10_16)=
 16. and the [Jeb'usite](https://en.wikipedia.org/wiki/Jebusites), and the [Amorite](https://en.wikipedia.org/wiki/Amorites), and the [Gir'gashite](https://en.wikipedia.org/wiki/List_of_minor_biblical_tribes#Girgashites),
-1. and the [Hivite](https://en.wikipedia.org/wiki/Hivites), and the [Arkite](https://en.wikipedia.org/wiki/Arqa), and the [Sinite](https://en.wikipedia.org/wiki/List_of_minor_biblical_tribes#Sinites),
+(GENESIS_10_17)=
+17. and the [Hivite](https://en.wikipedia.org/wiki/Hivites), and the [Arkite](https://en.wikipedia.org/wiki/Arqa), and the [Sinite](https://en.wikipedia.org/wiki/List_of_minor_biblical_tribes#Sinites),
 (GENESIS_10_18)=
 18. and the [Ar'vadite](https://en.wikipedia.org/wiki/List_of_minor_biblical_tribes#Arvadites), and the [Zem'arite](https://en.wikipedia.org/wiki/List_of_minor_biblical_tribes#Zemarites), and the [Ha'mathite](https://en.wikipedia.org/wiki/List_of_minor_biblical_tribes#Hamathites): and afterward were the families of the [Canaanites](https://en.wikipedia.org/wiki/Canaan#Canaanites) spread abroad.
 1. And the border of the [Canaanites](https://en.wikipedia.org/wiki/Canaan#Canaanites) was from {ref}`Sidon<WHO_Sidon>`, as thou comest to [Gerar](https://en.wikipedia.org/wiki/Gerar), unto [Gaza](https://en.wikipedia.org/wiki/History_of_Gaza); as thou goest unto [Sodom](https://en.wikipedia.org/wiki/Sodom_and_Gomorrah) and [Gomorrah](https://en.wikipedia.org/wiki/Sodom_and_Gomorrah), and [Admah](https://en.wikipedia.org/wiki/Admah), and [Zebo'im](https://en.wikipedia.org/wiki/Zeboim_(Hebrew_Bible)), even unto [Lasha](https://en.wikipedia.org/wiki/Lasha).
