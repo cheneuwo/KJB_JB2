@@ -46,5 +46,4 @@ flowchart LR
 ```
 Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`.
 
-
 [Elam](Wiki:Elam) also refers to people, an ancient civilization, centered in the far west and southwest of what is today [Iran](Wiki:Iran).
