@@ -15,7 +15,6 @@ Shem was a son of {ref}`Noah<WHO_Noah>` in Old Testament, (Published by [Guillau
 
 The eponymous ancestor of the [Semites](https://en.wikipedia.org/wiki/Semitic_people), Shem was the eldest of {ref}`Noah<WHO_Noah>`'s three sons; the other two were **{ref}`Ham<WHO_Ham>`** and **{ref}`Japheth<WHO_Japheth>`**. In {ref}`1 Chronicles<CHRONICLES_1>` {ref}`1<CHRONICLES_1_1>`:{ref}`24<CHRONICLES_1_1_24>`, Shem's ineage is recorded down to the tenth generation, which included {ref}`Abraham<WHO_Abraham>`.
 
-
 :::{div}
 :class: lineage-title
 
@@ -31,22 +30,32 @@ flowchart LR
   Noah --> Ham[Ham]
   Noah --> Japheth[Japheth]
 
+  Shem --> Elam[Elam]
+  Shem --> Asshur[Asshur]
+  Shem --> Arphaxad[Arphax'ad]
+  Shem --> Lud[Lud]
+  Shem --> Aram[Aram]
+
   click Noah href "../noah" "about Noah" _self
   click Ham href "../ham" "about Hamm" _self
   click Japheth "../japheth" "about Japheth" _self
+
+  click Elam href "../elam" "about Elam" _self
+  click Asshur href "../asshur" "about Asshur" _self
+  click Arphaxad href "../arphaxad" "about Arphax'ad" _self
+  click Lud href "../lud" "about Lud" _self
+  click Aram href "../aram" "about Aram" _self
   
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
   classDef union fill:none,stroke:none;
   classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
 
-  class Noah,Hamm,Japheth male;
+  class Noah,Ham,Japheth,Elam,Asshur,Arphaxad,Lud,Aram male;
   class union1 union;
   class Shem focus;
 ```
-Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`.
-
-
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`.
 
 {ref}`Noah<WHO_Noah>`'s three sons and their wives accompanied their father and mother on the ark, riding out the storm that inundated the world and sharing in {ref}`Noah<WHO_Noah>`'s covenant with God after [the Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative). Thus, biblical tradition credits {ref}`Noah<WHO_Noah>`'s sons with repopulating the earth, dividing the human race into three groups, each of which is descended from one of the sons.
 
