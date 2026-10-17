@@ -548,6 +548,7 @@ project:
         - file: docs/Who_is_Who_in_Bible/G/G.md
           children:
             - file: docs/Who_is_Who_in_Bible/G/Gether.md
+            - file: docs/Who_is_Who_in_Bible/G/Girgashite.md
             - file: docs/Who_is_Who_in_Bible/G/Gomer.md
         - file: docs/Who_is_Who_in_Bible/H/H.md
           children:
