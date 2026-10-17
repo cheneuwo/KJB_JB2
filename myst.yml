@@ -556,6 +556,7 @@ project:
           children:
             - file: docs/Who_is_Who_in_Bible/H/Hadoram.md
             - file: docs/Who_is_Who_in_Bible/H/Ham.md
+            - file: docs/Who_is_Who_in_Bible/H/Hamathite.md
             - file: docs/Who_is_Who_in_Bible/H/Havilah.md
             - file: docs/Who_is_Who_in_Bible/H/Havilah2.md
             - file: docs/Who_is_Who_in_Bible/H/Hazarmaveth.md

@@ -45,7 +45,6 @@ flowchart LR
   click Phut href "../phut" "about Phut" _self
   click Canaan href "../canaan" "about Canaan" _self
   
-  click Sidon href "../sidon" "about Sidon" _self
   click Heth href "../heth" "about Heth" _self
   click Jebusite href "../jebusite" "about Jeb'usite" _self
   click Amorite href "../amorite" "about Amorite" _self
