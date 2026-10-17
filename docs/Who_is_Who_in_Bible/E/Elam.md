@@ -29,7 +29,6 @@ flowchart LR
   click Ham href "../ham" "about Ham" _self
   click Japheth "../japheth" "about Japheth" _self
   
-  click Elam href "../elam" "about Elam" _self
   click Asshur href "../asshur" "about Asshur" _self
   click Arphaxad href "../arphaxad" "about Arphax'ad" _self
   click Lud href "../lud" "about Lud" _self
