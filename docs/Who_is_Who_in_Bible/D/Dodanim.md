@@ -57,4 +57,4 @@ flowchart LR
   class union1 union;
   class Dodanim focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`2<GENESIS_10_2>` and {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`4<GENESIS_10_4>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`2<GENESIS_10_2>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`4<GENESIS_10_4>`.
