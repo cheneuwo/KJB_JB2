@@ -30,6 +30,8 @@ flowchart LR
   Mizraim -->Casluhim[Cas'luhim]
   Mizraim -->Caphtorim[Caph'torim]
 
+  Casluhim --> Philistim[Phil'istim]
+
   click Noah href "../noah" "about Noah" _self
   click Shem href "../shem" "about Shem" _self
   click Ham href "../ham" "about Ham" _self
@@ -47,12 +49,14 @@ flowchart LR
   click Pathrusim href "../pathrusim" "about Path'rusim" _self
   click Caphtorim href "../caphtorim" "about Caph'torim" _self
 
+  click Philistim href "../philistim" "about Phil'istim" _self
+
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
   classDef union fill:none,stroke:none;
   classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
 
-  class Noah,Shem,Ham,Japheth,Cush,Mizraim,Phut,Canaan,Ludim,Anamin,Lehabim,Naphtuhim,Pathrusim,Caphtorim male;
+  class Noah,Shem,Ham,Japheth,Cush,Mizraim,Phut,Canaan,Ludim,Anamin,Lehabim,Naphtuhim,Pathrusim,Caphtorim,Philistim male;
   class union1 union;
   class Casluhim focus;
 ```
