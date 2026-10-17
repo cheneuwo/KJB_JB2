@@ -51,7 +51,7 @@ flowchart LR
   class union1 union;
   class Ham focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`32<GENESIS_5_32>` and {ref}`Genesis<GENESIS>`:{ref}`10<GENESIS_10>`,{ref}`6<GENESIS_10_6>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`6<GENESIS_10_6>`.
 
 
 Although he is always listed between his two brothers, {ref}`Shem<WHO_Shem>` and {ref}`Japheth<WHO_Japheth>`, Ham was apparently the youngest son of {ref}`Noah<WHO_Noah>`. All three brothers and their wives accompanied their father on the ark. After the floodwaters receded, {ref}`Noah<WHO_Noah>` planted a vineyard, and one day {ref}`Ham<WHO_Ham>` came upon his father naked and intoxicated in his tent. He told his brothers of {ref}`Noah<WHO_Noah>`'s condition, and they carefully covered their father, walking backward so as not to see his body, since Israelite tradition prohibited viewing the nakedness of a parent.

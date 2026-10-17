@@ -15,6 +15,39 @@ Shem was a son of {ref}`Noah<WHO_Noah>` in Old Testament, (Published by [Guillau
 
 The eponymous ancestor of the [Semites](https://en.wikipedia.org/wiki/Semitic_people), Shem was the eldest of {ref}`Noah<WHO_Noah>`'s three sons; the other two were **{ref}`Ham<WHO_Ham>`** and **{ref}`Japheth<WHO_Japheth>`**. In {ref}`1 Chronicles<CHRONICLES_1>` {ref}`1<CHRONICLES_1_1>`:{ref}`24<CHRONICLES_1_1_24>`, Shem's ineage is recorded down to the tenth generation, which included {ref}`Abraham<WHO_Abraham>`.
 
+
+:::{div}
+:class: lineage-title
+
+The Genealogy of Shem
+:::
+
+```{mermaid}
+:label: fig:Shem-lineage
+:class: centered-mermaid
+
+flowchart LR
+  Noah[Noah] --> Shem[Shem]
+  Noah --> Ham[Ham]
+  Noah --> Japheth[Japheth]
+
+  click Noah href "../noah" "about Noah" _self
+  click Ham href "../ham" "about Hamm" _self
+  click Japheth "../japheth" "about Japheth" _self
+  
+  classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
+  classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
+  classDef union fill:none,stroke:none;
+  classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
+
+  class Noah,Hamm,Japheth male;
+  class union1 union;
+  class Shem focus;
+```
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`.
+
+
+
 {ref}`Noah<WHO_Noah>`'s three sons and their wives accompanied their father and mother on the ark, riding out the storm that inundated the world and sharing in {ref}`Noah<WHO_Noah>`'s covenant with God after [the Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative). Thus, biblical tradition credits {ref}`Noah<WHO_Noah>`'s sons with repopulating the earth, dividing the human race into three groups, each of which is descended from one of the sons.
 
 Those who descended from Shem inhereited the [Promised Land](https://en.wikipedia.org/wiki/Promised_Land), displacing the [Canaanites](https://en.wikipedia.org/wiki/Canaan#Canaanites), who were descendants of {ref}`Ham<WHO_Ham>`. The book of {ref}`Genesis<GENESIS>` foreshadows this change of fortune with a story in which {ref}`Ham<WHO_Ham>` behaved disrespectfully toward his fater, gazing at {ref}`Noah<WHO_Noah>` when he "{ref}`became drunk, and lay uncovered in his tent<GENESIS_9_21>`" ({ref}`Gen<GENESIS>`. {ref}`9<GENESIS_9>`:{ref}`21<GENESIS_9_21>`). {ref}`Shem<Who_Shem>` and {ref}`Japheth<WHO_Japheth>` responded by walking backwards into the tent and covering their father without looking at him. When he awakened and learned of {ref}`Ham<WHO_Ham>`'s disrespect, {ref}`Noah<WHO_Noah>` cursed **{ref}`Canaan<WHO_Canaan>`**, the son of {ref}`Ham<WHO_Ham>`, and blessed {ref}`Shem<Who_Shem>` and {ref}`Japheth<WHO_Japheth>`.
