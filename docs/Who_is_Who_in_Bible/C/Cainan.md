@@ -45,9 +45,7 @@ flowchart TB
   class union1 union;
   class Cainan focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`9<GENESIS_5_9>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`13<GENESIS_5_13>`.
-
-
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`25<GENESIS_4_25>`, {ref}`26<GENESIS_4_26>`, {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`9<GENESIS_5_9>` and {ref}`13<GENESIS_5_13>`.
 
 Ca-i'nan, also spelled *Qenan*, *Kaynan*, *Caynam* or *Kenan* depending on the translation, is an [antediluvian](https://en.wikipedia.org/wiki/Antediluvian) patriarch first mentioned in the {ref}`Book of Genesis<GENESIS>`.
 

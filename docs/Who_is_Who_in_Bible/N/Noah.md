@@ -71,8 +71,7 @@ flowchart TB
   class union1 union;
   class Noah focus;
 ```
-Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`29<GENESIS_5_29>` and {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`.
-
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`25<GENESIS_4_25>`, {ref}`26<GENESIS_4_26>`, {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`9<GENESIS_5_9>`, {ref}`13<GENESIS_5_13>`, {ref}`15<GENESIS_5_15>`, {ref}`18<GENESIS_5_18>`, {ref}`21<GENESIS_5_21>`, {ref}`25<GENESIS_5_25>`, {ref}`29<GENESIS_5_29>` and {ref}`32<GENESIS_5_32>`.
 
 Revered along with **{ref}`Daniel<WHO_Daniel>`** and **{ref}`Job<WHO_Job>`** as one of ancient Israel's three righteous men, Noah plays two important roles in history. First, he is virtually the second father of humankind, because all of **{ref}`Adam<WHO_Adam>`**'s other descendants were destroyed in the great Flood that covered the world more than 1,600 years after creation. In that role, he acts as a link between the fragmentary accounts of humanity's first generations and the more detailed biographies of Israel's patriarchs that follow in the book of {ref}`Genesis<INTRO_GENESIS>`. Second, he is the discoverer of viniculture, or the growing of grapes, and the first person known to make wine.
 

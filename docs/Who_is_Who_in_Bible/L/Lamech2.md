@@ -59,7 +59,7 @@ flowchart TB
   class union1 union;
   class Lamech focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`25<GENESIS_5_25>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`29<GENESIS_5_29>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`25<GENESIS_4_25>`, {ref}`26<GENESIS_4_26>`, {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`9<GENESIS_5_9>`, {ref}`13<GENESIS_5_13>`, {ref}`15<GENESIS_5_15>`, {ref}`18<GENESIS_5_18>`, {ref}`21<GENESIS_5_21>`, {ref}`25<GENESIS_5_25>`, and {ref}`29<GENESIS_5_29>`.
 
 
 The biblical figure who lived before the [Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative) -- "{ref}`the generation of Adam<GENESIS_5_1>` ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`1<GENESIS_5_1>`) -- were given remarkably long lives. A descendant of {ref}`Adam<WHO_Adam>`'s son {ref}`Seth<WHO_Seth>`, Lamech was the son of {ref}`Methu'selah<WHO_Methuselah>` and the father of {ref}`Noah<WHO_Noah>`, who was born when {ref}`Lamech was 182<GENESIS_5_28>`. Of {ref}`Noah<WHO_Noah>`, Lamech said, "{ref}`Out of ground which the LORD has cursed this one shall bring us relief from our work and from the toil of our hands<GENESIS_5_29>`"  ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`29<GENESIS_5_29>`). This is a unique Old Testament reference to the lost paradise, which {ref}`Noah<WHO_Noah>` was to restore.

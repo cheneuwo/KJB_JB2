@@ -48,7 +48,8 @@ flowchart TB
   class union1 union;
   class Enos focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`4<GENESIS_4>`,{ref}`26<GENESIS_4_26>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`9<GENESIS_5_9>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`25<GENESIS_4_25>`, {ref}`26<GENESIS_4_26>` and {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`9<GENESIS_5_9>`.
+
 
 Enos, or *Enosh* depending on translation, is a figure in {ref}`Genesis<GENESIS>`. He is described as the first son of {ref}`Seth<WHO_Seth>` who figures in the {ref}`Generations of Adam<GENESIS_5_1>`, and is also referred to within the genealogies of {ref}`1 Chronicles<CHRONICLES_1>`.
 

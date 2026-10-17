@@ -51,8 +51,7 @@ flowchart TB
   class union1 union;
   class Jared focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`15<GENESIS_5_15>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`18<GENESIS_5_18>`.
-
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`25<GENESIS_4_25>`, {ref}`26<GENESIS_4_26>`, {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`9<GENESIS_5_9>`, {ref}`13<GENESIS_5_13>`, {ref}`15<GENESIS_5_15>`, and {ref}`18<GENESIS_5_18>`.
 
 Jared fathered {ref}`Enoch<WHO_Enoch_son_of_Jared>` when he was {ref}`162 years old<GENESIS_5_18>`. Jared also fathered {ref}`sons and daughters<GENESIS_5_19>`. {ref}`Jared died at the age of 962<GENESIS_5_20>`, making him the second-oldest person mentioned in the Hebrew Bible.
 

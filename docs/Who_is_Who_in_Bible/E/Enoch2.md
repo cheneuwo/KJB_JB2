@@ -58,7 +58,7 @@ flowchart TB
   class union1 union;
   class Enoch focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`18<GENESIS_5_18>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`21<GENESIS_5_21>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`25<GENESIS_4_25>`, {ref}`26<GENESIS_4_26>`, {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`9<GENESIS_5_9>`, {ref}`13<GENESIS_5_13>`, {ref}`15<GENESIS_5_15>`, {ref}`18<GENESIS_5_18>`, and {ref}`21<GENESIS_5_21>`.
 
 
 Enoch was a member of "{ref}`the generations of Adam<GENESIS_5_1>`" ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`1<GENESIS_5_1>`), the incredibly long-lived group that extended from **{ref}`Adam<WHO_Adam>`** to **{ref}`Noah<WHO_Noah>`**. {ref}`At age 65 Enoch became the father of<GENESIS_5_21>` **{ref}`Methu'selah<WHO_Methuselah>`**, and later he {ref}`had other sons and daughters<GENESIS_5_22>`. He "{ref}`walked with God<GENESIS_5_22>`" ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`22<GENESIS_5_22>`) -- that is, he was in close spiritual communion with the Lord. {ref}`After 365 years of this holy life<GENESIS_5_23>` (a relatively short span for these men), {ref}`Enoch was taken by God<GENESIS_5_24>`. The anonymous author of Hebrews explains: "{ref}`Enoch was taken up so that he should not see death<HEBREWS_11_5>`" ({ref}`Heb<HEBREWS>`. {ref}`11<HEBREWS_11>`:{ref}`5<HEBREWS_11_5>`) because his faith was pleasing to God.

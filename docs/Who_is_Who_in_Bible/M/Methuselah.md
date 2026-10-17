@@ -57,8 +57,7 @@ flowchart TB
   class union1 union;
   class Methuselah focus;
 ```
-Based on {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`21<GENESIS_5_21>` and {ref}`Genesis<GENESIS>`:{ref}`5<GENESIS_5>`,{ref}`25<GENESIS_5_25>`.
-
+Based on {ref}`Genesis<GENESIS>` {ref}`4<GENESIS_4>`:{ref}`1<GENESIS_4_1>`, {ref}`2<GENESIS_4_2>`, {ref}`25<GENESIS_4_25>`, {ref}`26<GENESIS_4_26>`, {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`9<GENESIS_5_9>`, {ref}`13<GENESIS_5_13>`, {ref}`15<GENESIS_5_15>`, {ref}`18<GENESIS_5_18>`, {ref}`21<GENESIS_5_21>`, and {ref}`25<GENESIS_5_25>`.
 
 Most often recalled for his extraordinary longevity and fertility. Becoming the father of {ref}`Lamech<WHO_Lamech_son_of_Methuselah>` at {ref}`the age of 187<GENESIS_5_25>`, Methu'selah lived {ref}`another 782 years and had other sons and daughters<GENESIS_5_26>`. "{ref}`and and all the days of Methu'selah were nine hundred sixty and nine years<GENESIS_5_27>`" ({ref}`Gen<GENESIS>`. {ref}`5<GENESIS_5>`:{ref}`27<GENESIS_5_27>`), making him the longest-lived person in the Bible.
 
