@@ -513,6 +513,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/A/Amorite.md
             - file: docs/Who_is_Who_in_Bible/A/Anamin.md
             - file: docs/Who_is_Who_in_Bible/A/Aram.md
+            - file: docs/Who_is_Who_in_Bible/A/Arkite.md
             - file: docs/Who_is_Who_in_Bible/A/Arphaxad.md
             - file: docs/Who_is_Who_in_Bible/A/Ashkenaz.md
             - file: docs/Who_is_Who_in_Bible/A/Asshur.md
@@ -647,6 +648,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/S/Sheleph.md
             - file: docs/Who_is_Who_in_Bible/S/Shem.md
             - file: docs/Who_is_Who_in_Bible/S/Sidon.md
+            - file: docs/Who_is_Who_in_Bible/S/Sinite.md
         - file: docs/Who_is_Who_in_Bible/T/T.md
           children:
             - file: docs/Who_is_Who_in_Bible/T/Tarshish.md
