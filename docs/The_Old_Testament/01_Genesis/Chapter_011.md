@@ -44,7 +44,8 @@ THE DESCENDANTS OF SHEM
 THE DESCENDANTS OF TERAH
 :::
 
-27. N
+(GENESIS_11_27)=
+27. Now these *are* the generations of {ref}`Terah<WHO_Terah>`: {ref}`Terah<WHO_Terah>` begat {ref}`Abram<WHO_Abram>`, {ref}`Nahor<WHO_Nahor2>`, and {ref}`Haran<WHO_Haran>`; and {ref}`Haran<WHO_Haran>` begat {ref}`Lot<WHO_Lot>`.
 1. A
 (GENESIS_11_29)=
 29. A

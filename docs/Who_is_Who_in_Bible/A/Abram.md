@@ -1,7 +1,7 @@
 (WHO_Abram)=
 # Abram
 
-(The name *Abram* first appeared in {ref}`Genesis<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`26<GENESIS_10_26>`, referring to the Abram, son of {ref}`Terah<WHO_Terah>`, descendent of {ref}`Noah<WHO_Noah>` via {ref}`Shem<WHO_Shem>`.)
+(The name *Abram* first appeared in {ref}`Genesis<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`26<GENESIS_11_26>`, referring to the Abram, son of {ref}`Terah<WHO_Terah>`, descendent of {ref}`Noah<WHO_Noah>` via {ref}`Shem<WHO_Shem>`.)
 
 :::{div}
 :class: lineage-title
