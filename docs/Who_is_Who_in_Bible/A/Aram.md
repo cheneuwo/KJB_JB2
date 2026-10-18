@@ -49,7 +49,7 @@ flowchart LR
   classDef union fill:none,stroke:none;
   classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
 
-  class Noah,Shem,Ham,Japheth,Asshur,Arphaxad,Lud,Elam,Uz,Hull,Gether,Mush male;
+  class Noah,Shem,Ham,Japheth,Asshur,Arphaxad,Lud,Elam,Uz,Hul,Gether,Mash male;
   class union1 union;
   class Aram focus;
 ```
