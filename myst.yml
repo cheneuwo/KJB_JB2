@@ -615,6 +615,7 @@ project:
         - file: docs/Who_is_Who_in_Bible/N/N.md
           children:
             - file: docs/Who_is_Who_in_Bible/N/Naamah.md
+            - file: docs/Who_is_Who_in_Bible/N/Nahor.md
             - file: docs/Who_is_Who_in_Bible/N/Naphtuhim.md
             - file: docs/Who_is_Who_in_Bible/N/Nimrod.md
             - file: docs/Who_is_Who_in_Bible/N/Noah.md
