@@ -35,6 +35,7 @@ flowchart LR
   
   click Elam href "../elam" "about Elam" _self
   click Asshur href "../asshur" "about Asshur" _self
+  click Arphaxad href "../arphaxad" "about Arphax'ad" _self
   click Lud href "../lud" "about Lud" _self
   click Aram href "../aram" "about Aram" _self
 
