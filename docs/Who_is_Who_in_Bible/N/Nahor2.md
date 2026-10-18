@@ -43,7 +43,16 @@ flowchart TB
 
   Terah --> Abram[Abram]
   Terah --> Nahor2[Nahor]
+
+  Nahor2 --- union1(( ))
+
   Terah --> Haran[Haran]
+  
+  Haran --> Lot[Lot]
+  Haran --> Milcah[Milcah]
+  Haran --> Iscah[Iscah]
+  
+  Milcah --- union1
 
   click Noah href "../noah" "about Noah" _self
   click Shem href "../shem" "about Shem" _self
@@ -73,14 +82,19 @@ flowchart TB
   
   click Abram href "../abram" "about Abram" _self
   click Haran href "../haran" "about Haran" _self
+  
+  click Lot href "../lot" "about Lot" _self
+  click Milcah href "../milcah" "about Milcah" _self
+  click Iscah href "../iscah" "about Iscah" _self
 
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
   classDef union fill:none,stroke:none;
   classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
 
-  class Noah,Shem,Ham,Japheth,Asshur,Elam,Lud,Aram,Arphaxad,Salah,Eber,Peleg,Joktan,Reu,Serug,Nahor,Terah,Abram,Haran male;
+  class Noah,Shem,Ham,Japheth,Asshur,Elam,Lud,Aram,Arphaxad,Salah,Eber,Peleg,Joktan,Reu,Serug,Nahor,Terah,Abram,Haran,Lot male;
+  class Milcah,Iscah female;
   class union1 union;
   class Nahor2 focus;
 ```
-Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`,{ref}`23<GENESIS_10_23>`,{ref}`24<GENESIS_10_24>`,{ref}`25<GENESIS_10_25>` and {ref}`Genesis<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`18<GENESIS_11_18>`,{ref}`20<GENESIS_11_20>`,{ref}`22<GENESIS_11_22>`,{ref}`24<GENESIS_11_24>`,{ref}`26<GENESIS_11_26>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`,{ref}`23<GENESIS_10_23>`,{ref}`24<GENESIS_10_24>`,{ref}`25<GENESIS_10_25>` and {ref}`Genesis<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`18<GENESIS_11_18>`,{ref}`20<GENESIS_11_20>`,{ref}`22<GENESIS_11_22>`,{ref}`24<GENESIS_11_24>`,{ref}`26<GENESIS_11_26>`,{ref}`29<GENESIS_11_29>`.

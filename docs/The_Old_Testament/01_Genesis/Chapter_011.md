@@ -48,7 +48,7 @@ THE DESCENDANTS OF TERAH
 27. Now these *are* the generations of {ref}`Terah<WHO_Terah>`: {ref}`Terah<WHO_Terah>` begat {ref}`Abram<WHO_Abram>`, {ref}`Nahor<WHO_Nahor2>`, and {ref}`Haran<WHO_Haran>`; and {ref}`Haran<WHO_Haran>` begat {ref}`Lot<WHO_Lot>`.
 1. And {ref}`Haran<WHO_Haran>` died before his father {ref}`Terah<WHO_Terah>` in the land of his nativity, in [Ur](wiki:Ur) of the [Chaldees](wiki:Chaldea).
 (GENESIS_11_29)=
-29. And {ref}`Abram<WHO_Abram>` and {ref}`Nahor<WHO_Nahor2>` took them wives: the name of {ref}`Abram<WHO_Abram>`'s wife *was* {ref}`Sarai<WHO_Sarai>`;
+29. And {ref}`Abram<WHO_Abram>` and {ref}`Nahor<WHO_Nahor2>` took them wives: the name of {ref}`Abram<WHO_Abram>`'s wife *was* {ref}`Sarai<WHO_Sarai>`; and the name of {ref}`Nahor<WHO_Nahor>`'s wife, {ref}`Milcah<WHO_Milcah>`,
 1. B
 1. A
 1. A
