@@ -54,4 +54,4 @@ flowchart LR
   class union1 union;
   class Uz focus;
 ```
-Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`,{ref}`23<GENESIS_10_23>`.
