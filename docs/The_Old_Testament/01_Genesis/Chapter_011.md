@@ -26,8 +26,9 @@ THE DESCENDANTS OF SHEM
 1. and {ref}`Eber<WHO_Eber>` lived after he begat {ref}`Peleg<WHO_Peleg>` four hundred and thirty years, and begat sons and daughters.
 (GENESIS_11_18)=
 18. And {ref}`Peleg<WHO_Peleg>` lived thirty years, and begat {ref}`Re'u<WHO_Reu>`:
-1. a
-1. A
+1. and {ref}`Peleg<WHO_Peleg>` lived after he begat {ref}`Re'u<WHO_Reu>` two hundred and nine years, and begat sons and daughters.
+(GENESIS_11_20)=
+20. And {ref}`Re'u<WHO_Reu>` lived two and thirty years, and begat {ref}`Serug<WHO_Serug>`:
 1. a
 1. A
 1. a

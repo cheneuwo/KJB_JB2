@@ -31,6 +31,8 @@ flowchart LR
   Eber --> Peleg[Peleg]
   Eber --> Joktan[Joktan]
 
+    Peleg --> Reu[Re'u]
+
   click Noah href "../noah" "about Noah" _self
   click Shem href "../shem" "about Shem" _self
   click Ham href "../ham" "about Ham" _self
@@ -48,13 +50,15 @@ flowchart LR
 
   click Joktan href "../joktan" "about Joktan" _self
 
+  click Reu href "../reu" "about Re'u" _self
+
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
   classDef union fill:none,stroke:none;
   classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
 
-  class Noah,Shem,Ham,Japheth,Asshur,Elam,Lud,Aram,Arphaxad,Salah,Eber,Joktan male;
+  class Noah,Shem,Ham,Japheth,Asshur,Elam,Lud,Aram,Arphaxad,Salah,Eber,Joktan,Reu male;
   class union1 union;
   class Peleg focus;
 ```
-Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>` and {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`,{ref}`23<GENESIS_10_23>`,{ref}`24<GENESIS_10_24>`,{ref}`25<GENESIS_10_25>`.
+Based on {ref}`Genesis<GENESIS>` {ref}`5<GENESIS_5>`:{ref}`32<GENESIS_5_32>`, {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`22<GENESIS_10_22>`,{ref}`23<GENESIS_10_23>`,{ref}`24<GENESIS_10_24>`,{ref}`25<GENESIS_10_25>` and {ref}`Genesis<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`18<GENESIS_11_18>`.
