@@ -504,6 +504,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/A/Abel.md
             - file: docs/Who_is_Who_in_Bible/A/Abimael.md
             - file: docs/Who_is_Who_in_Bible/A/Abraham.md
+            - file: docs/Who_is_Who_in_Bible/A/Abram.md
             - file: docs/Who_is_Who_in_Bible/A/Adah.md
             - file: docs/Who_is_Who_in_Bible/A/Adam.md
             - file: docs/Who_is_Who_in_Bible/A/Adoni-Zedek.md
@@ -557,6 +558,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/H/Hadoram.md
             - file: docs/Who_is_Who_in_Bible/H/Ham.md
             - file: docs/Who_is_Who_in_Bible/H/Hamathite.md
+            - file: docs/Who_is_Who_in_Bible/H/Haran.md
             - file: docs/Who_is_Who_in_Bible/H/Havilah.md
             - file: docs/Who_is_Who_in_Bible/H/Havilah2.md
             - file: docs/Who_is_Who_in_Bible/H/Hazarmaveth.md
@@ -616,6 +618,7 @@ project:
           children:
             - file: docs/Who_is_Who_in_Bible/N/Naamah.md
             - file: docs/Who_is_Who_in_Bible/N/Nahor.md
+            - file: docs/Who_is_Who_in_Bible/N/Nahor2.md
             - file: docs/Who_is_Who_in_Bible/N/Naphtuhim.md
             - file: docs/Who_is_Who_in_Bible/N/Nimrod.md
             - file: docs/Who_is_Who_in_Bible/N/Noah.md
