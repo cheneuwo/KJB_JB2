@@ -27,7 +27,7 @@ flowchart LR
   Aram --> Uz[Uz]
   Aram --> Hul[Hul]
   Aram --> Gether[Gether]
-  Aram --> Mash[Mush]
+  Aram --> Mash[Mash]
 
   click Noah href "../noah" "about Noah" _self
   click Shem href "../shem" "about Shem" _self
