@@ -40,10 +40,12 @@ flowchart TB
   Nahor --> Terah[Terah]
 
   Terah --> Abram[Abram]
+
+  Abram --- union1(( ))
+  Sarai[Sarai] --- union1
+
   Terah --> Nahor2[Nahor]
   Terah --> Haran[Haran]
-
-  Abram --> Sarai[Sarai]
 
   click Noah href "../noah" "about Noah" _self
   click Shem href "../shem" "about Shem" _self
