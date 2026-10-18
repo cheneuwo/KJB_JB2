@@ -3,6 +3,8 @@
 
 (The name *Nahor* first appeared in {ref}`Genesis<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`22<GENESIS_10_22>`, referring to the Nahor, son of {ref}`Serug<WHO_Serug>`, descendent of {ref}`Noah<WHO_Noah>` via {ref}`Shem<WHO_Shem>`.)
 
+(A second *Nahor* appeared in {ref}`Genesis<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`26<GENESIS_10_26>`, referring to the Nahor, son of {ref}`Terah<WHO_Terah>`, descendent of {ref}`Noah<WHO_Noah>` via {ref}`Shem<WHO_Shem>`, grandson of **this** {ref}`Nahor<WHO_Nahor>`.)
+
 :::{div}
 :class: lineage-title
 
