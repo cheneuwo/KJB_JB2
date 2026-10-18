@@ -637,6 +637,7 @@ project:
         - file: docs/Who_is_Who_in_Bible/R/R.md
           children:
             - file: docs/Who_is_Who_in_Bible/R/Raamah.md
+            - file: docs/Who_is_Who_in_Bible/R/Reu.md
             - file: docs/Who_is_Who_in_Bible/R/Riphath.md
         - file: docs/Who_is_Who_in_Bible/S/S.md
           children:
