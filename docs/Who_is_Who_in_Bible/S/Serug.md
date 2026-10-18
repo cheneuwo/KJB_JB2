@@ -55,7 +55,7 @@ flowchart TB
   click Peleg href "../peleg" "about Peleg" _self
   click Joktan href "../joktan" "about Joktan" _self
 
-  click Serug href "../serug" "about Serug" _self
+  click Reu href "../reu" "about Re'u" _self
 
   click Nahor href "../nahor" "about Nahor" _self
 
