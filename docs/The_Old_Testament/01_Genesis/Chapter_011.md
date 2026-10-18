@@ -32,8 +32,9 @@ THE DESCENDANTS OF SHEM
 1. and {ref}`Re'u<WHO_Reu>` lived after he gebat {ref}`Serug<WHO_Serug>` two hundred and seven years, and begat sons and daughters.
 (GENESIS_11_22)=
 22. And {ref}`Serug<WHO_Serug>` lived thirty years, and begat {ref}`Nahor<WHO_Nahor>`:
-1. a
-1. A
+1. and {ref}`Serug<WHO_Serug>` lived after he begat {ref}`Nahor<WHO_Nahor>` two hundred years, and begat sons and daughters.
+(GENESIS_11_24)=
+24. And {ref}`Nahor<WHO_Nahor>` lived nine and twenty years, and begat {ref}`Terah<WHO_Terah>`:
 1. a
 1. A
 

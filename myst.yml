@@ -657,6 +657,7 @@ project:
         - file: docs/Who_is_Who_in_Bible/T/T.md
           children:
             - file: docs/Who_is_Who_in_Bible/T/Tarshish.md
+            - file: docs/Who_is_Who_in_Bible/T/Terah.md
             - file: docs/Who_is_Who_in_Bible/T/Tiras.md
             - file: docs/Who_is_Who_in_Bible/T/Togarmah.md
             - file: docs/Who_is_Who_in_Bible/T/Tubal.md
