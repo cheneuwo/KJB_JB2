@@ -3,7 +3,6 @@
 
 (The name *Almo'dad* first appeared in  {ref}`Genesis<GENESIS>` {ref}`10<GENESIS_10>`:{ref}`26<GENESIS_10_26>`, referring to the Almo'dad, son of {ref}`Joktan<WHO_Joktan>`, descendent of {ref}`Noah<WHO_Noah>` via {ref}`Shem<WHO_Shem>`.)
 
-
 :::{div}
 :class: lineage-title
 
@@ -64,7 +63,6 @@ flowchart LR
   click Peleg href "../peleg" "about Peleg" _self
   click Joktan href "../joktan" "about Joktan" _self
 
-  click Almodad href "../almodad" "about Almo'dad" _self
   click Sheleph href "../sheleph" "about Sheleph" _self
   click Hazarmaveth href "../hazarmaveth" "about Ha'zar-ma'veth" _self
   click Jerah href "../jerah" "about Jerah" _self
