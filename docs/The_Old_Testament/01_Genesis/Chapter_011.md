@@ -48,7 +48,7 @@ THE DESCENDANTS OF TERAH
 27. Now these *are* the generations of {ref}`Terah<WHO_Terah>`: {ref}`Terah<WHO_Terah>` begat {ref}`Abram<WHO_Abram>`, {ref}`Nahor<WHO_Nahor2>`, and {ref}`Haran<WHO_Haran>`; and {ref}`Haran<WHO_Haran>` begat {ref}`Lot<WHO_Lot>`.
 1. And {ref}`Haran<WHO_Haran>` died before his father {ref}`Terah<WHO_Terah>` in the land of his nativity, in [Ur](wiki:Ur) of the [Chaldees](wiki:Chaldea).
 (GENESIS_11_29)=
-29. And {ref}`Abram<WHO_Abram>` and {ref}`Nahor<WHO_Nahor2>` took them wives: the name of {ref}`Abram<WHO_Abram>`'s wife *was* {ref}`Sarai<WHO_Sarai>`; and the name of {ref}`Nahor<WHO_Nahor>`'s wife, {ref}`Milcah<WHO_Milcah>`,
-1. B
-1. A
-1. A
+29. And {ref}`Abram<WHO_Abram>` and {ref}`Nahor<WHO_Nahor2>` took them wives: the name of {ref}`Abram<WHO_Abram>`'s wife *was* {ref}`Sarai<WHO_Sarai>`; and the name of {ref}`Nahor<WHO_Nahor>`'s wife, {ref}`Milcah<WHO_Milcah>`, the daughter of {ref}`Haran<WHO_Haran>`, the father of {ref}`Milcah<WHO_Milcah>`, and the father of {ref}`Iscah<WHO_Iscah>`.
+1. But {ref}`Sarai<WHO_Sarai>` was barren; she *had* no child.
+1. And {ref}`Terah<WHO_Terah>` took {ref}`Abram<WHO_Abram>` his son, and {ref}`Lot<WHO_Lot>` the son of {ref}`Haran<Who_Haran>` his son's son, and {ref}`Sarai<WHO_Sarai>` his daughter-in-law, his son {ref}`Abram<WHO_Abram>`'s wife, and they went forth with them from [Ur](wiki:Ur) of the [Chaldees](wiki:Chaldea), to go into the [land of Canaan](wiki:Canaan); and they came unto [Haran](wiki:Harran_(biblical_place)), and dwelt there.
+1. And the days of {ref}`Terah<WHO_Terah>` were two hundred and five years: and {ref}`Terah<WHO_Terah>` died in [Haran](wiki:Harran_(biblical_place)).
