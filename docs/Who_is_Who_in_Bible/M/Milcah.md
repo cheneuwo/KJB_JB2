@@ -45,11 +45,13 @@ flowchart TB
   Terah --> Nahor2[Nahor]
 
   Nahor2 --- union1(( ))
-  Milcah[Milcah] --- union1
-
   Terah --> Haran[Haran]
-  Haran --> Milcah
+  
+  Haran --> Lot[Lot]
+  Haran --> Milcah[Milcah]
   Haran --> Iscah[Iscah]
+  
+  Milcah[Milcah] --- union1
 
   click Noah href "../noah" "about Noah" _self
   click Shem href "../shem" "about Shem" _self
@@ -73,7 +75,7 @@ flowchart TB
 
   click Serug href "../serug" "about Serug" _self
 
-  click Nahor href "../nahor" "about Nahor" _self
+  click Nahor2 href "../nahor2" "about Nahor" _self
 
   click Terah href "../terah" "about Terah" _self
   
@@ -82,13 +84,14 @@ flowchart TB
   click Nahor href "../nahor2" "about Nahor" _self
 
   click Iscah href "../iscah" "about Iscah" _self
-  
+  click Lot href "../lot" "about Lot" _self
+
   classDef male fill:#DCE8F2,stroke:#4D6F8A,stroke-width:2px,color:#1F2933;
   classDef female fill:#F2E1DF,stroke:#98615D,stroke-width:2px,color:#1F2933;
   classDef union fill:none,stroke:none;
   classDef focus fill:#d9ead3,stroke:#38761d,stroke-width:3px,color:#222;
 
-  class Noah,Shem,Ham,Japheth,Asshur,Elam,Lud,Aram,Arphaxad,Salah,Eber,Peleg,Joktan,Reu,Serug,Nahor,Terah,Abram,Nahor2,Haran male;
+  class Noah,Shem,Ham,Japheth,Asshur,Elam,Lud,Aram,Arphaxad,Salah,Eber,Peleg,Joktan,Reu,Serug,Nahor,Terah,Abram,Nahor2,Haran,Lot male;
   class Iscah female;
   class union1 union;
   class Milcah focus;
