@@ -570,6 +570,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/I/Irad.md
             - file: docs/Who_is_Who_in_Bible/I/Isaac.md
             - file: docs/Who_is_Who_in_Bible/I/Isaiah.md
+            - file: docs/Who_is_Who_in_Bible/I/Iscah.md
         - file: docs/Who_is_Who_in_Bible/J/J.md
           children:
             - file: docs/Who_is_Who_in_Bible/J/Jabal.md
