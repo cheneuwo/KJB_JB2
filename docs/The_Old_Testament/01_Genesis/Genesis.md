@@ -18,3 +18,6 @@ genesis
 - {ref}`Chaper 8<GENESIS_8>`
 - {ref}`Chaper 9<GENESIS_9>`
 - {ref}`Chaper 10<GENESIS_10>`
+- {ref}`Chaper 11<GENESIS_11>`
+- {ref}`Chaper 12<GENESIS_12>`
+- {ref}`Chaper 13<GENESIS_13>`
