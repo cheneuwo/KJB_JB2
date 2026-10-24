@@ -46,10 +46,20 @@ THE DESCENDANTS OF TERAH
 
 (GENESIS_11_27)=
 27. Now these *are* the generations of {ref}`Terah<WHO_Terah>`: {ref}`Terah<WHO_Terah>` begat {ref}`Abram<WHO_Abram>`, {ref}`Nahor<WHO_Nahor2>`, and {ref}`Haran<WHO_Haran>`; and {ref}`Haran<WHO_Haran>` begat {ref}`Lot<WHO_Lot>`.
-1. And {ref}`Haran<WHO_Haran>` died before his father {ref}`Terah<WHO_Terah>` in the land of his nativity, in [Ur](wiki:Ur) of the [Chaldees](wiki:Chaldea).
+(GENESIS_11_28)=
+28. And {ref}`Haran<WHO_Haran>` died before his father {ref}`Terah<WHO_Terah>` in the land of his nativity, in [Ur](wiki:Ur) of the [Chaldees](wiki:Chaldea).
 (GENESIS_11_29)=
 29. And {ref}`Abram<WHO_Abram>` and {ref}`Nahor<WHO_Nahor2>` took them wives: the name of {ref}`Abram<WHO_Abram>`'s wife *was* {ref}`Sarai<WHO_Sarai>`; and the name of {ref}`Nahor<WHO_Nahor>`'s wife, {ref}`Milcah<WHO_Milcah>`, the daughter of {ref}`Haran<WHO_Haran>`, the father of {ref}`Milcah<WHO_Milcah>`, and the father of {ref}`Iscah<WHO_Iscah>`.
 1. But {ref}`Sarai<WHO_Sarai>` was barren; she *had* no child.
 (GENESIS_11_31)=
 31. And {ref}`Terah<WHO_Terah>` took {ref}`Abram<WHO_Abram>` his son, and {ref}`Lot<WHO_Lot>` the son of {ref}`Haran<Who_Haran>` his son's son, and {ref}`Sarai<WHO_Sarai>` his daughter-in-law, his son {ref}`Abram<WHO_Abram>`'s wife, and they went forth with them from [Ur](wiki:Ur) of the [Chaldees](wiki:Chaldea), to go into the [land of Canaan](wiki:Canaan); and they came unto [Haran](wiki:Harran_(biblical_place)), and dwelt there.
 1. And the days of {ref}`Terah<WHO_Terah>` were two hundred and five years: and {ref}`Terah<WHO_Terah>` died in [Haran](wiki:Harran_(biblical_place)).
+
+{ref}`And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees.<GENESIS_11_28>` -- {ref}`GENESIS<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`28<GENESIS_11_28>`
+
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_011/Standard_of_Ur_-_War.jpg
+---
+name: fig:GENESIS_11_Standard_of_Ur_war_panel
+---
+[Ur](wiki:Ur), a leading city of the [Sumerian civilization](wiki:Sumer), is the source of one of the most important objects ever found: the [Standard of Ur](wiki:Standard_of_Ur) war panel (about 2500 B.C.), which unfolds a panorama of the Summerian army. The upper register shows the king (centre, holding scepter) receiving a file of bound captives; he is followed by the royal guard and his four-wheeled war chariot drawn by horses. In the middle register, a phalanx of soldiers, armed with spears and wearing metal helmets and studded capes, charges the enermy. The lower register is filled with a battle charge of chariots (some authorities interpret the scene as the same chariot in successive stages of motion). The designs are made with shell, lapid lazuli, and red limestone. The panel is an incomparable picture of the military might that gave the summerians dominance over Mesopotamia for hundreds of years. ([Image courtesy](https://commons.wikimedia.org/wiki/File:Standard_of_Ur_-_War.jpg), Public domain, via Wikimedia Commons. Accessed on October 24, 2026.)
+```

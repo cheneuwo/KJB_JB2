@@ -37,11 +37,9 @@ Abram in Egypt
 
 {ref}`Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house ...<GENESIS_12_1>` -- {ref}`GENESIS<GENESIS>` {ref}`12<GENESIS_12>`:{ref}`1<GENESIS_12_1>`
 
-
 ```{figure} ./../../../imgs/Old/01_Genesis/Chapter_012/Abraham's_Journey_(en).svg
 ---
 name: fig:GENESIS_12_map
 ---
 The migration of {ref}`Abram<WHO_Abram>` and his family from [Ur](wiki:Ur) of the [Chaldees](wiki:Chaldea), by ways of [Haran](wiki:Harran_(biblical_place)), to [Canaan](wiki:Canaan) ({ref}`GENESIS<GENESIS>` {ref}`12<GENESIS_12>`:{ref}`10<GENESIS_12_10>`) presumably followed caravan routes which linked centres of population. These places, from [Mesopotamia](wiki:Mesopotamia) to [Egypt](wiki:Biblical_Egypt), are known to us today from routes described on 18th century B.C. [clay tablets](wiki:Mari_texts) discovered at [Mari](wiki:Mari,_Syria) and from itineraries of travellers on tablets unearthed at numerous other sites. These centres of early civilization and the routes linking them are shown on this map. {ref}`Abram<WHO_Abram>`'s migration, following the northern route through [Haran](wiki:Harran_(biblical_place)), is indicated by the red solid line. Cities mentioned in the Book of Genesis are plotted. ([Image courtesy](https://commons.wikimedia.org/wiki/File:Abraham%27s_Journey_(en).svg), Topographic map: SémhurDerivative work: DEGA MD, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons. Accessed on October 24, 2026.)
-
 ```
