@@ -1,8 +1,9 @@
 (WHO_T)=
 # T
 
-- {ref}`Tiras<WHO_Tarshish>`
+- {ref}`Tarshish<WHO_Tarshish>`
+- {ref}`Terah<WHO_Terah>`
 - {ref}`Tiras<WHO_Tiras>`
-- {ref}`Togarmah<WHO_Togarmah>`
+- {ref}`Togar'mah<WHO_Togarmah>`
 - {ref}`Tubal<WHO_Tubal>`
 - {ref}`Tu'bal-cain<WHO_Tubalcain>`
