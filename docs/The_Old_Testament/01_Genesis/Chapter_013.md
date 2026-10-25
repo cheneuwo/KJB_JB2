@@ -1,5 +1,5 @@
 (GENESIS_13)=
-# CHAPTER Thirteen, GENESIS
+# CHAPTER THIRTEEN, GENESIS
 
 :::{div}
 :class: paragraph-title
@@ -32,5 +32,5 @@ Abram and Lot Separate
 ---
 name: fig:GENESIS_13_Jordan_River
 ---
-Rising from springs north of the [Waters of Merom](wiki:Waters_of_Merom) (see map on ), the [Jordan](wiki:Jordan_River), the great river of the Bible, wends its way along a valley floor from the [Sea of Chinnereth](wiki:Sea_of_Galilee) to the [Dead Sea](wiki:Dead_Sea). Throughout its course along the [Jordan Valley](wiki:Jordan_Valley), the river is below sea level -- the only river of which this is known to be so. As it leaves the [Sea of Chinnereth](wiki:Sea_of_Galilee) (called in New Testament times the [Sea of Galilee](wiki:Sea_of_Galilee)), the [Jordan River](wiki:Jordan_River) is approximately 700 feet below sea level and as it enters the [Dead Sea](wiki:Dead_Sea) it is 1300 feet below sea leve. Though the distance of a direct line between the [Sea of Chinnereth](wiki:Sea_of_Galilee) and the [Dead Sea](wiki:Dead_Sea) is only 65 miles, the [Jordan](wiki:Jordan_River) bends and curves to a length of more than 200 miles. ([Image courtesy](https://img.haarets.co.il/bs/00000191-7a63-daab-a3f3-fae3ff8d0001/8b/e4/3a29322f4cb4a7a0dbfd5879c721/516168-2.jpg?precrop=1247,1468,x510,y0&width=1500&height=1765&cmsprod), Public domain. Accessed on October 25, 2026.)
+Rising from springs north of the [Waters of Merom](wiki:Waters_of_Merom) (see map [here](fig:Joshua_11_Conquest_of_Canaan)), the [Jordan](wiki:Jordan_River), the great river of the Bible, wends its way along a valley floor from the [Sea of Chinnereth](wiki:Sea_of_Galilee) to the [Dead Sea](wiki:Dead_Sea). Throughout its course along the [Jordan Valley](wiki:Jordan_Valley), the river is below sea level -- the only river of which this is known to be so. As it leaves the [Sea of Chinnereth](wiki:Sea_of_Galilee) (called in New Testament times the [Sea of Galilee](wiki:Sea_of_Galilee)), the [Jordan River](wiki:Jordan_River) is approximately 700 feet below sea level and as it enters the [Dead Sea](wiki:Dead_Sea) it is 1300 feet below sea leve. Though the distance of a direct line between the [Sea of Chinnereth](wiki:Sea_of_Galilee) and the [Dead Sea](wiki:Dead_Sea) is only 65 miles, the [Jordan](wiki:Jordan_River) bends and curves to a length of more than 200 miles. ([Image courtesy](https://img.haarets.co.il/bs/00000191-7a63-daab-a3f3-fae3ff8d0001/8b/e4/3a29322f4cb4a7a0dbfd5879c721/516168-2.jpg?precrop=1247,1468,x510,y0&width=1500&height=1765&cmsprod), Public domain. Accessed on October 25, 2026.)
 ```

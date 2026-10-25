@@ -103,6 +103,7 @@ project:
             - file: docs/The_Old_Testament/06_Joshua/Chapter_007.md
             - file: docs/The_Old_Testament/06_Joshua/Chapter_008.md
             - file: docs/The_Old_Testament/06_Joshua/Chapter_009.md
+            - file: docs/The_Old_Testament/06_Joshua/Chapter_011.md
         - file: docs/The_Old_Testament/07_Judges/Judges.md
           children:
             - file: docs/The_Old_Testament/07_Judges/Chapter_001.md
