@@ -27,3 +27,10 @@ Abram and Lot Separate
 1. Then {ref}`Abram<WHO_Abram>` removed *his* tent, and come and dwelt in the plain of [Mamre](wiki:Mamre), which *is* in [Hebron](wiki:Hebron), and built there an altar unto the {span .divine-name}`LORD`.
 
 {ref}`And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where ... even as the garden of the Lord ...<GENESIS_13_10>` -- {ref}`GENESIS<GENESIS>` {ref}`13<GENESIS_13>`:{ref}`10<GENESIS_13_10>`
+
+```{figure} ./../../../imgs/Old/01_Genesis/Chapter_013/516168-2.webp
+---
+name: fig:GENESIS_13_Jordan_River
+---
+Rising from springs north of the [Waters of Merom](wiki:Waters_of_Merom) (see map on ), the [Jordan](wiki:Jordan_River), the great river of the Bible, wends its way along a valley floor from the [Sea of Chinnereth](wiki:Sea_of_Galilee) to the [Dead Sea](wiki:Dead_Sea). Throughout its course along the [Jordan Valley](wiki:Jordan_Valley), the river is below sea level -- the only river of which this is known to be so. As it leaves the [Sea of Chinnereth](wiki:Sea_of_Galilee) (called in New Testament times the [Sea of Galilee](wiki:Sea_of_Galilee)), the [Jordan River](wiki:Jordan_River) is approximately 700 feet below sea level and as it enters the [Dead Sea](wiki:Dead_Sea) it is 1300 feet below sea leve. Though the distance of a direct line between the [Sea of Chinnereth](wiki:Sea_of_Galilee) and the [Dead Sea](wiki:Dead_Sea) is only 65 miles, the [Jordan](wiki:Jordan_River) bends and curves to a length of more than 200 miles. ([Image courtesy](https://img.haarets.co.il/bs/00000191-7a63-daab-a3f3-fae3ff8d0001/8b/e4/3a29322f4cb4a7a0dbfd5879c721/516168-2.jpg?precrop=1247,1468,x510,y0&width=1500&height=1765&cmsprod), Public domain. Accessed on October 25, 2026.)
+```
