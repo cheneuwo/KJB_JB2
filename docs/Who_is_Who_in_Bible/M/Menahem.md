@@ -1,4 +1,4 @@
-(WHO_Menaham)=
+(WHO_Menahem)=
 # Men'ahem
 
 (The name *Men'ahem* first appeared in ).
