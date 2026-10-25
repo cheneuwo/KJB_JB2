@@ -1,5 +1,5 @@
 (WHO_Nahor)=
-# Nahor
+# Nahor, son of Serug
 
 (The name *Nahor* first appeared in {ref}`Genesis<GENESIS>` {ref}`11<GENESIS_11>`:{ref}`22<GENESIS_10_22>`, referring to the Nahor, son of {ref}`Serug<WHO_Serug>`, descendent of {ref}`Noah<WHO_Noah>` via {ref}`Shem<WHO_Shem>`.)
 
