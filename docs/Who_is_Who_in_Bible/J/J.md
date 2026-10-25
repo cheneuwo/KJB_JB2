@@ -6,8 +6,12 @@
 - {ref}`Japheth<WHO_Japheth>`
 - {ref}`Jared<WHO_Jared>`
 - {ref}`Javan<WHO_Javan>`
+- {ref}`Jeb'usite<WHO_Jebusite>`
+- {ref}`Jehu<WHO_Jehu>`
 - {ref}`Jerah<WHO_Jerah>`
+- {ref}`Jerobo'am<WHO_Jeroboam>`
 - {ref}`Jesus<WHO_Jesus>`
+- {ref}`Joab<WHO_Joab>`
 - {ref}`Job<WHO_Job>`
 - {ref}`Jobab<WHO_Jobab>`
 - {ref}`Joktan<WHO_Joktan>`
