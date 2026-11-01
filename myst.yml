@@ -152,6 +152,8 @@ project:
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_010.md
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_014.md
             - file: docs/The_Old_Testament/12_Kings_2/Chapter_015.md
+            - file: docs/The_Old_Testament/12_Kings_2/Chapter_016.md
+            - file: docs/The_Old_Testament/12_Kings_2/Chapter_017.md
         - file: docs/The_Old_Testament/13_Chronicles_1/Chronicles_1.md
           children:
             - file: docs/The_Old_Testament/13_Chronicles_1/Chapter_001.md
