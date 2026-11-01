@@ -3,6 +3,7 @@
 
 - {ref}`Tarshish<WHO_Tarshish>`
 - {ref}`Terah<WHO_Terah>`
+- {ref}`Tidal<WHO_Tidal>`
 - {ref}`Tiras<WHO_Tiras>`
 - {ref}`Togar'mah<WHO_Togarmah>`
 - {ref}`Tubal<WHO_Tubal>`

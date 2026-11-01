@@ -6,5 +6,6 @@
 - {ref}`Canaan<WHO_Canaan>`
 - {ref}`Caphtorim<WHO_Caphtorim>`
 - {ref}`Casluhim<WHO_Casluhim>`
+- {ref}`Chedorla-o'mer<WHO_Chedorlaomer>`
 - {ref}`Claudius<WHO_Claudius>`
 - {ref}`Cush<WHO_Cush>`

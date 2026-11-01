@@ -530,6 +530,7 @@ project:
             - file: docs/Who_is_Who_in_Bible/C/Canaan.md
             - file: docs/Who_is_Who_in_Bible/C/Caphtorim.md
             - file: docs/Who_is_Who_in_Bible/C/Casluhim.md
+            - file: docs/Who_is_Who_in_Bible/C/Chedorlaomer.md
             - file: docs/Who_is_Who_in_Bible/C/Claudius.md
             - file: docs/Who_is_Who_in_Bible/C/Cush.md
         - file: docs/Who_is_Who_in_Bible/D/D.md
@@ -668,6 +669,7 @@ project:
           children:
             - file: docs/Who_is_Who_in_Bible/T/Tarshish.md
             - file: docs/Who_is_Who_in_Bible/T/Terah.md
+            - file: docs/Who_is_Who_in_Bible/T/Tidal.md
             - file: docs/Who_is_Who_in_Bible/T/Tiras.md
             - file: docs/Who_is_Who_in_Bible/T/Togarmah.md
             - file: docs/Who_is_Who_in_Bible/T/Tubal.md
