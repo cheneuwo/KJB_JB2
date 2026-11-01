@@ -15,6 +15,7 @@
 - {ref}`Am'raphel<WHO_Amraphel>`
 - {ref}`An'amin<WHO_Anamin>`
 - {ref}`Aram<WHO_Aram>`
+- {ref}`Ar'i-och<WHO_Arioch>`
 - {ref}`Arkite<WHO_Arkite>`
 - {ref}`Arphax'ad<WHO_Arphaxad>`
 - {ref}`Ar'vadite<WHO_Arvadite>`

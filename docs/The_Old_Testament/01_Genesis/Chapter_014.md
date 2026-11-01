@@ -7,7 +7,7 @@ Abram rescues Lot
 :::
 
 (GENESIS_14_1)=
-1. And it came to pass in the days of {ref}`Am'raphel<WHO_Amraphel>` king of [Shinar](wiki:Shinar)
+1. And it came to pass in the days of {ref}`Am'raphel<WHO_Amraphel>` king of [Shinar](wiki:Shinar), {ref}`Ar'i-och<WHO_Arioch>` king of [Ella'sar](wiki:Arioch),
 1.
 1.
 1.
