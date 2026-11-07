@@ -12,7 +12,7 @@ Abram rescues Lot
 2. *that these* made war with {ref}`Bera<WHO_Bera>` king of [Sodom](wiki:Sodom_and_Gomorrah), and with {ref}`Birsha<WHO_Birsha>` king of [Gomorash](wiki:Sodom_and_Gomorrah), {ref}`Shinab<WHO_Shinab>` king of [Admah](wiki:Admah), and {ref}`Sheme'ber<WHO_Shemeber>` king of [Zeboi'im](wiki:Zeboim_(Hebrew_Bible)), and the king of [Bela](wiki:Zoara), which is {ref}`Zo'ar<WHO_Zoar>`.
 1. All these were joined together in the vale of [Siddim](wiki:Battle_of_Siddim), which is the salt sea.
 1. Twelve years they served {ref}`Chedorla-o'mer<WHO_Chedorlaomer>`, and in the thirteenth year they rebelled.
-1. And in the fourteenth year came {ref}`Chedorla-o'mer<WHO_Chedorlaomer>`, and the kings that *were* with him, and smote the [Reph'a-im](wiki:Rephaite) in [Ash'teroth-karna'im](wiki:Ashteroth_Karnaim), and the [Zuzim](wiki:Zuzim_(biblical_people)) in Ham, and the [Emin](wiki:Emite) in [Shaveh Kiri-atha'im](wiki:https://en.wikipedia.org/wiki/List_of_minor_biblical_places).
+1. And in the fourteenth year came {ref}`Chedorla-o'mer<WHO_Chedorlaomer>`, and the kings that *were* with him, and smote the [Reph'a-im](wiki:Rephaite) in [Ash'teroth-karna'im](wiki:Ashteroth_Karnaim), and the [Zuzim](wiki:Zuzim_(biblical_people)) in Ham, and the [Emin](wiki:Emite) in [Shaveh Kiri-atha'im](wiki:List_of_minor_biblical_places).
 1.
 1.
 1.
