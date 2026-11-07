@@ -3,3 +3,4 @@
 
 - {ref}`Zem'arite<WHO_Zemarite>`
 - {ref}`Zillah<WHO_Zillah>`
+- {ref}`Zoar<WHO_Zoar>`

@@ -12,5 +12,7 @@
 - {ref}`Sheba, son of Joktan<WHO_Sheba_son_of_Joktan>`
 - {ref}`Sheleph<WHO_Sheleph>`
 - {ref}`Shem<WHO_Shem>`
+- {ref}`Shemeber<WHO_Shemeber>`
+- {ref}`Shinab<WHO_Shinab>`
 - {ref}`Sidon<WHO_Sidon>`
 - {ref}`Sinite<WHO_Sinite>`

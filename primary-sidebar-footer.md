@@ -1,3 +1,3 @@
 Elvis C.S. Chen
 
-Nov. 1, 2026
+Nov. 7, 2026

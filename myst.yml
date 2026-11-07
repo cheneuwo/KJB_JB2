@@ -11,7 +11,7 @@ project:
   github: https://github.com/cheneuwo/KJB_JB2
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   copyright: "2026"
-  # date: 2026-11-01
+  # date: 2026-11-07
   toc:
     - file: intro.md
     - title: Preface
@@ -525,6 +525,9 @@ project:
             - file: docs/Who_is_Who_in_Bible/A/Ashkenaz.md
             - file: docs/Who_is_Who_in_Bible/A/Asshur.md
         - file: docs/Who_is_Who_in_Bible/B/B.md
+          children:
+            - file: docs/Who_is_Who_in_Bible/B/Bera.md
+            - file: docs/Who_is_Who_in_Bible/B/Birsha.md
         - file: docs/Who_is_Who_in_Bible/C/C.md
           children:
             - file: docs/Who_is_Who_in_Bible/C/Cain.md
@@ -665,6 +668,8 @@ project:
             - file: docs/Who_is_Who_in_Bible/S/Sheba2.md
             - file: docs/Who_is_Who_in_Bible/S/Sheleph.md
             - file: docs/Who_is_Who_in_Bible/S/Shem.md
+            - file: docs/Who_is_Who_in_Bible/S/Shemeber.md
+            - file: docs/Who_is_Who_in_Bible/S/Shinab.md
             - file: docs/Who_is_Who_in_Bible/S/Sidon.md
             - file: docs/Who_is_Who_in_Bible/S/Sinite.md
         - file: docs/Who_is_Who_in_Bible/T/T.md
@@ -688,6 +693,7 @@ project:
           children:
             - file: docs/Who_is_Who_in_Bible/Z/Zemarite.md
             - file: docs/Who_is_Who_in_Bible/Z/Zillah.md
+            - file: docs/Who_is_Who_in_Bible/Z/Zoar.md
 site:
   template: book-theme
   options:
