@@ -21,7 +21,7 @@ Abram rescues Lot
 1. And they took all the goods of [Sodom and Gomorrah](wiki:Sodom_and_Gomorrah), and all their victuals, and went their way.
 1. And they took {ref}`Lot<WHO_Lot>`, {ref}`Abram<WHO_Abram>`'s brother's son, who dwell in [Sodom](wiki:Sodom_and_Gomorrah), and his goods, and departed.
 (GENESIS_14_13)=
-13. And there came one that had escaped, and told {ref}`Abram<WHO_Abram>` the Hebrew, for he dwelt in the plane of [Mamre](wiki:Mamre) the [Amorite](wiki:morites), brother of {ref}`Eschol<WHO_Eschol>`
+13. And there came one that had escaped, and told {ref}`Abram<WHO_Abram>` the Hebrew, for he dwelt in the plane of [Mamre](wiki:Mamre) the [Amorite](wiki:morites), brother of {ref}`Eshcol<WHO_Eshcol>`, and brother of {ref}`Aner<WHO_Aner>`
 1.
 1.
 1.

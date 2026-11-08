@@ -9,5 +9,5 @@
 - {ref}`Enoch, son of Jared<WHO_Enoch_son_of_Jared>`
 - {ref}`Enos<WHO_Enos>`
 - {ref}`Esau<WHO_Esau>`
-- {ref}`Eshcol<WHO_Eschol>`
+- {ref}`Eshcol<WHO_Eshcol>`
 - {ref}`Eve<WHO_Eve>`
