@@ -15,9 +15,9 @@ Abram rescues Lot
 1. And in the fourteenth year came {ref}`Chedorla-o'mer<WHO_Chedorlaomer>`, and the kings that *were* with him, and smote the [Reph'a-im](wiki:Rephaite) in [Ash'teroth-karna'im](wiki:Ashteroth_Karnaim), and the [Zuzim](wiki:Zuzim_(biblical_people)) in Ham, and the [Emin](wiki:Emite) in [Shaveh Kiri-atha'im](wiki:List_of_minor_biblical_places).
 1. and the [Horites](wiki:Horites) in their mount [Se'ir](wiki:Mount_Seir), unto [El-pa'ran](wiki:Desert_of_Paran), which *is* by the wilderness.
 1. And they returned, and came to Enmish'pat, which is [Kadesh](wiki:Kadesh_(Syria)), and smote all the country of the [Amal'ekites](wiki:Amalek), and also the [Amorites](wiki:Amorites), that dwelt in [Haz'ezon-ta'mar](wiki:Ein_Gedi_(archaeological_site)).
-1.
-1.
-1.
+1. And there went out the King of [Sodom](wiki:Sodom_and_Gomorrah), and the king of [Gomorash](wiki:Sodom_and_Gomorrah), and the king of [Admah](wiki:Admah), and the king of [Zeboi'im](wiki:Zeboim_(Hebrew_Bible)), and the king of [Bela](wiki:Zoara), (the same *is* {ref}`Zo'ar<WHO_Zoar>`;) and they joined battle with them in the vale of [Siddim](wiki:Battle_of_Siddim);
+1. with {ref}`Chedorla-o'mer<WHO_Chedorlaomer>` king of [Elam](wiki:Elam), and with {ref}`Tidal<WHO_Tidal>` king of nations, and {ref}`Am'raphel<WHO_Amraphel>` king of [Shinar](wiki:Shinar), and {ref}`Ar'i-och<WHO_Arioch>` king of [Ella'sar](wiki:Arioch); four kings with five.
+1. And the vale of [Siddim](wiki:Battle_of_Siddim) *was* full of slime pits; and the kings of Sodom and Gomorah fled, and fell there; and they that remained fled to the mountain.
 1.
 1.
 1.
