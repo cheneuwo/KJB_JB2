@@ -22,8 +22,8 @@ Abram rescues Lot
 1. And they took {ref}`Lot<WHO_Lot>`, {ref}`Abram<WHO_Abram>`'s brother's son, who dwell in [Sodom](wiki:Sodom_and_Gomorrah), and his goods, and departed.
 (GENESIS_14_13)=
 13. And there came one that had escaped, and told {ref}`Abram<WHO_Abram>` the Hebrew, for he dwelt in the plane of [Mamre](wiki:Mamre) the [Amorite](wiki:morites), brother of {ref}`Eshcol<WHO_Eshcol>`, and brother of {ref}`Aner<WHO_Aner>`: and these *were* confederates with {ref}`Abram<WHO_Abram>`.
-1. And when {ref}`Abram<WHO_Abram>` heard that this brother was taken captive, he armed his trained *servants*, born in his own house, three hundred and eighteen, and pursued *them* unto [Dan](wiki:Dan_(ancient_city)).
-1.
+1. And when {ref}`Abram<WHO_Abram>` heard that his brother was taken captive, he armed his trained *servants*, born in his own house, three hundred and eighteen, and pursued *them* unto [Dan](wiki:Dan_(ancient_city)).
+1. And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto [Hobah](wiki:Hobah), which *is* on the left hand of [Damascus](wiki:Damascus).
 1.
 
 :::{div}
