@@ -1,6 +1,13 @@
 (GENESIS_16)=
 # CHAPTER 16
 
+
+:::{div}
+:class: paragraph-title
+Hagar and Ishmael 
+:::
+
+(GENESIS_16_1)=
 1.
 1.
 1.
@@ -17,6 +24,9 @@
 1.
 1.
 1.
+
+
+{ref}`Now Sarai, Abram's wife, bare him no children: and she had a handmaid, an Egyptian, whose name was Hagar. <GENESIS_16_1>` -- {ref}`GENESIS<GENESIS>` {ref}`16<GENESIS_16>`:{ref}`1<GENESIS_16_1>`
 
 ```{figure} ./../../../imgs/Old/01_Genesis/Chapter_016/Estate_Figure_MET_DP249002.jpg
 ---
