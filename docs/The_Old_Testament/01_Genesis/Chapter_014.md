@@ -28,7 +28,7 @@ Abram rescues Lot
 
 :::{div}
 :class: paragraph-title
-Melchizedek blesses Abram 
+Melchiz'edek blesses Abram 
 :::
 
 17. And the king of [Sodom](wiki:Sodom_and_Gomorrah) went out to meet him, after his return from the slaughter of {ref}`Chedorla-o'mer<WHO_Chedorlaomer>` and of the kings that *were* with him, at the valley of [Shaveh](https://en.wikipedia.org/wiki/List_of_minor_biblical_places#S), which *is* the king's dale.

@@ -1,5 +1,5 @@
 (GENESIS_15)=
-# CHAPTER 15
+# CHAPTER FIFTEEN, GENESIS
 
 :::{div}
 :class: paragraph-title
