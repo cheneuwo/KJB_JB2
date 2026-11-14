@@ -48,3 +48,8 @@
   font-weight: bold;
   color: #6d5a3d;
 }
+
+.quote {
+  display: block;
+  margin-inline-start: 2rem;
+}

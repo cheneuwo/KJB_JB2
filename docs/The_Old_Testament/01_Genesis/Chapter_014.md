@@ -34,9 +34,10 @@ Melchizedek blesses Abram
 17. And the king of [Sodom](wiki:Sodom_and_Gomorrah) went out to meet him, after his return from the slaughter of {ref}`Chedorla-o'mer<WHO_Chedorlaomer>` and of the kings that *were* with him, at the valley of [Shaveh](https://en.wikipedia.org/wiki/List_of_minor_biblical_places#S), which *is* the king's dale.
 (GENESIS_14_18)=
 18. And {ref}`Melchiz'edek<WHO_Melchizedek>` king of [Salem](wiki:Salem_(Bible)) brought forth bread and wine: and he *was* the priest of the most high {span .divine-name}`God`.
-1. And he blessed him, and said, Blessed be {ref}`Abram<WHO_Abram>` of the most high {span .divine-name}`God`, posessor of heaven and earth:
-1. and blessed be the most high {span .divine-name}`God`, which hath delivered thine enemies into thy hand. And he gave him tithes of all.
-1.
+1. And he blessed him, and said, {span .quote}`Blessed be Abram of the most high God,` {span .quote}`possessor of heaven and earth:`
+1. {span .quote}`and blessed be the most high God, which hath delivered thine enemies into thy hand.`
+And he gave him tithes of all.
+1. 
 1.
 1.
 1.
