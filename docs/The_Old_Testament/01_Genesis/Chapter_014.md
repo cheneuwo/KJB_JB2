@@ -37,7 +37,7 @@ Melchizedek blesses Abram
 1. And he blessed him, and said, {span .quote}`Blessed be Abram of the most high God,` {span .quote}`possessor of heaven and earth:`
 1. {span .quote}`and blessed be the most high God, which hath delivered thine enemies into thy hand.`
 And he gave him tithes of all.
-1. 
+1. And the king of [Sodom](wiki:Sodom_and_Gomorrah) said unto {ref}`Abram<WHO_Abram>`, Give me the persons, and take the goods to thyself.
 1.
 1.
 1.
