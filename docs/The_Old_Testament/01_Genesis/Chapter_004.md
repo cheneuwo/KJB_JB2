@@ -42,9 +42,9 @@ CAIN AND ABEL
 (GENESIS_4_22)=
 22. And {ref}`Zillah<WHO_Zillah>`, she also bare {ref}`Tu'bal-cain<WHO_Tubalcain>`, an instructor of every artificer in brass and iron: and the sister of {ref}`Tu'bal-cain<WHO_Tubalcain>` *was* {ref}`Na'amah<WHO_Naamah>`.
 (GENESIS_4_23)=
-23. And {ref}`Lamech<WHO_Lamech>` said unto his wives, {ref}`Adah<WHO_Adah>` and {ref}`Zillah<WHO_Zillah>`, hear my voice; ye wives of {ref}`Lamech<WHO_Lamech>`, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.
+23. And {ref}`Lamech<WHO_Lamech>` said unto his wives, {span .quote}``{ref}`Adah<WHO_Adah>` and {ref}`Zillah<WHO_Zillah>`, hear my voice;`` {span .quote}``ye wives of {ref}`Lamech<WHO_Lamech>`, hearken unto my speech:`` {span .quote}`for I have slain a man to my wounding,` {span .quote}`and a young man to my hurt.`
 (GENESIS_4_24)=
-24. If {ref}`Cain<WHO_Cain>` shall be avenged sevenfold, truly {ref}`Lamech<WHO_Lamech>` seventy and sevenfold.
+24. {span .quote}``If {ref}`Cain<WHO_Cain>` shall be avenged sevenfold,`` {span .quote}``truly {ref}`Lamech<WHO_Lamech>` seventy and sevenfold.``
 (GENESIS_4_25)=
 25. And {ref}`Adam<WHO_Adam>` knew his wife again; and she bare a son, and called his name {ref}`Seth<WHO_Seth>`: For God, *said she*, hath appointed me another seed instead of {ref}`Abel<WHO_Abel>`, who {ref}`Cain<WHO_Cain>` slew.
 (GENESIS_4_26)=
