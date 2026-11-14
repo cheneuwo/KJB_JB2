@@ -39,5 +39,5 @@ Melchizedek blesses Abram
 And he gave him tithes of all.
 1. And the king of [Sodom](wiki:Sodom_and_Gomorrah) said unto {ref}`Abram<WHO_Abram>`, Give me the persons, and take the goods to thyself.
 1. And {ref}`Abram<WHO_Abram>` said to the king of [Sodom](wiki:Sodom_and_Gomorrah), I have lifted up mine hand unto the {span .divine-name}`Lord`, the most high God, the possessor of heaven and earth,
-1.
+1. that I will not *take* from a thread even to a shoelatchet, and that I will not take any thing that *is* thine, lest thou shouldest say, I have made {ref}`Abram<WHO_Abram>` rich:
 1.
