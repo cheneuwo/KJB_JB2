@@ -21,7 +21,7 @@ Abram rescues Lot
 1. And they took all the goods of [Sodom and Gomorrah](wiki:Sodom_and_Gomorrah), and all their victuals, and went their way.
 1. And they took {ref}`Lot<WHO_Lot>`, {ref}`Abram<WHO_Abram>`'s brother's son, who dwell in [Sodom](wiki:Sodom_and_Gomorrah), and his goods, and departed.
 (GENESIS_14_13)=
-13. And there came one that had escaped, and told {ref}`Abram<WHO_Abram>` the Hebrew, for he dwelt in the plane of [Mamre](wiki:Mamre) the [Amorite](wiki:morites), brother of {ref}`Eshcol<WHO_Eshcol>`, and brother of {ref}`Aner<WHO_Aner>`: and these *were* confederates with {ref}`Abram<WHO_Abram>`.
+13. And there came one that had escaped, and told {ref}`Abram<WHO_Abram>` the Hebrew, for he dwelt in the [plane of Mamre](wiki:Mamre) the [Amorite](wiki:morites), brother of {ref}`Eshcol<WHO_Eshcol>`, and brother of {ref}`Aner<WHO_Aner>`: and these *were* confederates with {ref}`Abram<WHO_Abram>`.
 1. And when {ref}`Abram<WHO_Abram>` heard that his brother was taken captive, he armed his trained *servants*, born in his own house, three hundred and eighteen, and pursued *them* unto [Dan](wiki:Dan_(ancient_city)).
 1. And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto [Hobah](wiki:Hobah), which *is* on the left hand of [Damascus](wiki:Damascus).
 1. And he brought back all the goods, and also brought again his brother {ref}`Lot<WHO_Lot>`, and his goods, and the women also, and the people.
@@ -40,4 +40,5 @@ And he gave him tithes of all.
 1. And the king of [Sodom](wiki:Sodom_and_Gomorrah) said unto {ref}`Abram<WHO_Abram>`, Give me the persons, and take the goods to thyself.
 1. And {ref}`Abram<WHO_Abram>` said to the king of [Sodom](wiki:Sodom_and_Gomorrah), I have lifted up mine hand unto the {span .divine-name}`Lord`, the most high God, the possessor of heaven and earth,
 1. that I will not *take* from a thread even to a shoelatchet, and that I will not take any thing that *is* thine, lest thou shouldest say, I have made {ref}`Abram<WHO_Abram>` rich:
-1.
+(GENESIS_14_24)=
+24. save only that which the young men have eaten, and the portion of the men which went with me, {ref}`Aner<WHO_Aner>`, {ref}`Eshcol<WHO_Eshcol>`, and {ref}`Mamre<WHO_Mamre>`; let them take their portion.
