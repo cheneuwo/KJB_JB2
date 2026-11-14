@@ -11,7 +11,7 @@
 MAN IN THE GARDEN OF EDEN
 :::
 
-4. There *are* the generations of the heavens and of the earth when they were created, in the day that the {span .divine-name}`LORD` God made the earth and the heavens,
+4. These *are* the generations of the heavens and of the earth when they were created, in the day that the {span .divine-name}`LORD` God made the earth and the heavens,
 1. and every plant of the field before it was in the earth, and every herb of the field before it grew: for the {span .divine-name}`LORD` God had not caused it to rain upon the earth, and *there was* not a man to till the ground.
 1. But there went up a mist from the earth, and watered the whole face of the ground.
 (GENESIS_2_7)=
@@ -24,7 +24,7 @@ MAN IN THE GARDEN OF EDEN
 10. And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.
 1. The name of the first *is* Pison: that *is* it which compasseth the whole land of Hav'ilah, where *there is* gold;
 1. and the gold of that land *is* good: there *is* bdellium and the onyx stone.
-1. And the name of the second river is Gihon: the same *is* it that compasseth the while land of Ethiopia.
+1. And the name of the second river is Gihon: the same *is* it that compasseth the whole land of Ethiopia.
 (GENESIS_2_14)=
 14. And the name of the third river is Hid'dekel: that *is* it which goeth toward the east of Assyria. And the fourth river *is* Euphra'tes.
 1. And the {span .divine-name}`LORD` God took the man, and put him into the garden of Eden to dress it and keep it.
@@ -39,17 +39,17 @@ MAN IN THE GARDEN OF EDEN
 1. And the {span .divine-name}`LORD` God caused a deep sleep to fall upon {ref}`Adam<WHO_Adam>`, and he slept; and he took one of his ribs, and closed up the flesh instead thereof.
 1. And the rib, which the {span .divine-name}`LORD` God had taken from man, made he a woman, and brought her unto the man. 
 (GENESIS_2_23)=
-23. And {ref}`Adam<WHO_Adam>` said, There *is* now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
+23. And {ref}`Adam<WHO_Adam>` said, This *is* now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
 (GENESIS_2_24)=
 24. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
-1. And they were both naked, the man and his wife, and were not shamed.
+1. And they were both naked, the man and his wife, and were not ashamed.
 
 
 ```{figure} ./../../../imgs/Old/01_Genesis/Chapter_002/map.png
 ---
 name: map_genesis
 ---
-A river flowed out of Eden and became four main branches, two of which are known with certainty: [the Tigris](https://en.wikipedia.org/wiki/Tigris), called Hiddekel in the Bible, and [the Euphrates](https://en.wikipedia.org/wiki/Euphrates). The map above shows the present course of these two rivers. What is today called the [Near East](https://en.wikipedia.org/wiki/Ancient_Near_East) is in the center of this map and is bounded roughly by five bodies of water: [the Mediterranean Sea](https://en.wikipedia.org/wiki/Mediterranean_Sea), [the Black Sea](https://en.wikipedia.org/wiki/Black_Sea), [the Caspian Sea](https://en.wikipedia.org/wiki/Caspian_Sea), [the Persian Gulf](https://en.wikipedia.org/wiki/Persian_Gulf), and [the Red Sea](https://en.wikipedia.org/wiki/Red_Sea). Parentheses around these and certain other names on this map indicate names that through the centuries came to be used for these geographic features. Through generally barren -- with mountains, hills, and deserts -- the Near East contains a well-watered region from which arose the first great civilizations of the world. Because of its abundant vegetation and its shape, this region has been called [the Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent); it extends from the Persian Gulf, which is the mouth of the mouth of the Tigris and Euphrates rivers, northwestward before curving south along the coast of the Mediterranean Sea toward [the Nile Delta](https://en.wikipedia.org/wiki/Nile_Delta). A map of the Fertile Crescent, tracing the route of Abraham on his journey to [Canaan](https://en.wikipedia.org/wiki/Canaan), is on page xyz. In [the mountains of Ararat](https://en.wikipedia.org/wiki/Mountains_of_Ararat) (see above) {ref}`Noah<WHO_Noah>`'s ark came to rest after [the Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative). A location in these mountains traditionally associated with this event is shown on page xyz. [A Google Earth file in KML format used to generate this figure can be downloaded here.](./../../../imgs/Old/Genesis/Chapter_002/Genesis_geography.kml)
+A river flowed out of Eden and became four main branches, two of which are known with certainty: [the Tigris](https://en.wikipedia.org/wiki/Tigris), called Hiddekel in the Bible, and [the Euphrates](https://en.wikipedia.org/wiki/Euphrates). The map above shows the present course of these two rivers. What is today called the [Near East](https://en.wikipedia.org/wiki/Ancient_Near_East) is in the center of this map and is bounded roughly by five bodies of water: [the Mediterranean Sea](https://en.wikipedia.org/wiki/Mediterranean_Sea), [the Black Sea](https://en.wikipedia.org/wiki/Black_Sea), [the Caspian Sea](https://en.wikipedia.org/wiki/Caspian_Sea), [the Persian Gulf](https://en.wikipedia.org/wiki/Persian_Gulf), and [the Red Sea](https://en.wikipedia.org/wiki/Red_Sea). Parentheses around these and certain other names on this map indicate names that through the centuries came to be used for these geographic features. Though generally barren -- with mountains, hills, and deserts -- the Near East contains a well-watered region from which arose the first great civilizations of the world. Because of its abundant vegetation and its shape, this region has been called [the Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent); it extends from the Persian Gulf, which is the mouth of the mouth of the Tigris and Euphrates rivers, northwestward before curving south along the coast of the Mediterranean Sea toward [the Nile Delta](https://en.wikipedia.org/wiki/Nile_Delta). A map of the Fertile Crescent, tracing the route of Abraham on his journey to [Canaan](https://en.wikipedia.org/wiki/Canaan), is on page xyz. In [the mountains of Ararat](https://en.wikipedia.org/wiki/Mountains_of_Ararat) (see above) {ref}`Noah<WHO_Noah>`'s ark came to rest after [the Flood](https://en.wikipedia.org/wiki/Genesis_flood_narrative). A location in these mountains traditionally associated with this event is shown on page xyz. [A Google Earth file in KML format used to generate this figure can be downloaded here.](./../../../imgs/Old/Genesis/Chapter_002/Genesis_geography.kml)
 ```
 
-{ref}`And the LORD God planted a garden eastward in Eden<GENESIS_2_8>` ... {ref}`And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads<GENESIS_2_10>` ... {ref}`And the name of the third river is Hid'dekel: that is which goeth toward the east of Assyria. And the fourth river is Euphra'tes<GENESIS_2_14>`. -- {ref}`GENESIS<GENESIS>` {ref}`2<GENESIS_2>`:{ref}`8<GENESIS_2_8>`,{ref}`10<GENESIS_2_10>`,{ref}`14<GENESIS_2_14>`
+{ref}`And the LORD God planted a garden eastward in Eden<GENESIS_2_8>` ... {ref}`And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads<GENESIS_2_10>` ... {ref}`And the name of the third river is Hid'dekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphra'tes<GENESIS_2_14>`. -- {ref}`GENESIS<GENESIS>` {ref}`2<GENESIS_2>`:{ref}`8<GENESIS_2_8>`,{ref}`10<GENESIS_2_10>`,{ref}`14<GENESIS_2_14>`
