@@ -21,12 +21,12 @@ MAN'S DISOBEDIENCE
 1. And he said, Who told thee that thou *was* naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
 1. And the man said, The woman whom thou gavest to *be* with me, she gave me of the tree, and I did eat.
 1. And the {span .divine-name}`LORD` God said unto the woman, What *is* this *that* thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-1. And the {span .divine-name}`LORD` God said unto the serpent, Because thou has done this, thou *art* cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:
-1. and I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
-1. Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire *shall be* to thy husband, and he shall rule over thee.
-1. And unto {ref}`Adam<WHO_Adam>` he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed *is* the ground for thy sake; in sorrow shalt thou eat *of* it all the day of thy life;
-1. thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field:
-1. in the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou *art,* and unto dust shalt thou return.
+1. And the {span .divine-name}`LORD` God said unto the serpent, {span .quote}`Because thou has done this,` {span .quote}`thou *art* cursed above all cattle, and above every beast of the field;` {span .quote}`upon thy belly shalt thou go,` {span .quote}`and dust shalt thou eat all the days of thy life:`
+1. {span .quote}`and I will put enmity between thee and the woman,` {span .quote}`and between thy seed and her seed;` {span .quote}`it shall bruise thy head,` {span .quote}`and thou shalt bruise his heel.`
+1. {span .quote}`Unto the woman he said,` {span .quote}`I will greatly multiply thy sorrow and thy conception;` {span .quote}`in sorrow thou shalt bring forth children;` {span .quote}`and thy desire *shall be* to thy husband,` {span .quote}`and he shall rule over thee.`
+1. {span .quote}``And unto {ref}`Adam<WHO_Adam>` he said,`` {span .quote}`Because thou hast hearkened unto the voice of thy wife,` {span .quote}`and hast eaten of the tree,` {span .quote}`of which I commanded thee, saying,` {span .quote}`Thou shalt not eat of it:` {span .quote}`cursed *is* the ground for thy sake;` {span .quote}`in sorrow shalt thou eat *of* it all the day of thy life;`
+1. {span .quote}`thorns also and thistles shall it bring forth to thee;` {span .quote}`and thou shalt eat the herb of the field:`
+1. {span .quote}`in the sweat of thy face shalt thou eat bread,` {span .quote}`till thou return unto the ground;` {span .quote}`for out of it wast thou taken:` {span .quote}`for dust thou *art*,` {span .quote}`and unto dust shalt thou return.`
 (GENESIS_3_20)=
 20. And {ref}`Adam<WHO_Adam>` called his wife's name {ref}`Eve<WHO_Eve>`; because she was the mother of all living.
 1. Unto {ref}`Adam<WHO_Adam>` also and to his wife did the {span .divine-name}`LORD` God make coats of skins, and clothed them.
