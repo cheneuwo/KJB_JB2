@@ -35,7 +35,7 @@ Melchizedek blesses Abram
 (GENESIS_14_18)=
 18. And {ref}`Melchiz'edek<WHO_Melchizedek>` king of [Salem](wiki:Salem_(Bible)) brought forth bread and wine: and he *was* the priest of the most high {span .divine-name}`God`.
 1. And he blessed him, and said, Blessed be {ref}`Abram<WHO_Abram>` of the most high {span .divine-name}`God`, posessor of heaven and earth:
-1.
+1. and blessed be the most high {span .divine-name}`God`, which hath delivered thine enemies into thy hand. And he gave him tithes of all.
 1.
 1.
 1.
